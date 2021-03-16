@@ -1,7 +1,6 @@
 # **Oregon by Night**
----
-
 ## **House Rules and Character Creation**
+
 ### i. Rule the First
 Use the four-page character sheet (V20\_4-Page\_Elder\_Interactive.pdf) posted in the house rules channel.  I once felt comfortable recommending software for PDFs, however, due to recent events I no longer can.  I’ve been using Foxit Reader and it’s been doing well for me...thus far.  Do your best and use best practices.  Always uncheck/refuse all additional software when installing whatever solution you choose.
 
