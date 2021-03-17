@@ -11,10 +11,10 @@ These modifications are permanent unless shaped away by further Vicissitude, or 
 
 Note: Ghouls may never heal Vicissitude modifications, not even with vampire blood. In this respect they are as helpless as mortals. The exceptions are ghouls who themselves possess Vicissitude, though a lowly Zantosa may well find herself helpless to repair the mutilation inflicted by a seventh-generation Tzimisce (to repair Vicissitude alterations, a ghoul must have a level of Vicissitude superior to that of the vampire who inflicted the mutilation).
 
+?> **SYSTEM TO APPLY:** Roll your Vicissitude Pool, Difficulty is Equal to the Point Value of the Modificaiton and you must gain 2 or more Successes.  Failure = Heal it, or try again. Botch = Aggravated wounds = to Botch Severity.  These wounds may only be healed by a Shaper of equal or lower Generation, or, by the normal healing process but only if you are of an equal or lower Generation than your Shaper.  Modifications take 2 hours per Point to apply.  They must be applied in one “surgery” for lack of a better word.
+
 ## Common Knowledge
 The modifications listed under the Merit ‘Vissicitude Modifications’ *(Ghouls and Revenants p134)* are known to you just for having Vicissitude.  As are all the abilities and mechanics listed in the Core in the Disciplines Entry.  All others must be researched, taught, discovered, etc.  This will require Downtime to acquire.
-
-?> **SYSTEM TO APPLY:** Roll your Vicissitude Pool, Difficulty is Equal to the Point Value of the Modificaiton and you must gain 2 or more Successes.  Failure = Heal it, or try again. Botch = Aggravated wounds = to Botch Severity.  These wounds may only be healed by a Shaper of equal or lower Generation, or, by the normal healing process but only if you are of an equal or lower Generation than your Shaper.  Modifications take 2 hours per Point to apply.  They must be applied in one “surgery” for lack of a better word.
 
 ### Circular Vision (1 pt)
 One of your eyes has been moved to the back of your head, granting you the ability to see at a wider angle. You may gain a bonus to Perception, especially in cases when a character is attempting to sneak up on you. Additionally, your depth perception is poor at any angle, and you suffer a two die penalty to any rolls that involve gauging distance, including the use of projectile weapons.
