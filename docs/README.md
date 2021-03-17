@@ -5,6 +5,7 @@ Welcome to Oregon by Night! This Venue takes place in the entire State of Oregon
 > ## Important Links
 > * **[House Rules](/house-rules)** — Required reading for all players
 > * **[Vicissitude Modifications](/vicissitude-mods)**
+> * **[The High Cost of Dying](high-cost-of-dying.md)** — Assamite contracts and promotions in the World of Darkness
 
 ## Story and Setting Info
 
