@@ -3,6 +3,8 @@
 
 ---
 
+?> **Updated 3/26/21.** Everything new is <u>underlined</u>.
+
 Although you may not be talented at the Tzimisce forms of Fleshcrafting and Bonecrafting, at some point you have been… modified into a more warlike form. Generally speaking, most modifications necessitate the purchase of the Flaw: Monstrous. As a rule, the Tzimisce make sufficient cosmetic alterations to ruin the looks of all their battle-ghouls, even those whose modifications are not in and of themselves hideous.  Those Modifications that don’t NECESSITATE this Flaw all have Identical Sentences attached to them.
 
 You may grant a number of Merit and Flaw points, not including Monstrous if required, equal to 7+(The Ability You’re Using for Your Pool Dots).  Your body may only sustain 12 Points of total Modifications, not including Monstrous.  The Recipient of your Modifications do not spend any XP to gain them, nor do they gain any Flaw points should they obtain such.
@@ -64,6 +66,11 @@ You have a face that reminds everyone of someone, to the point where strangers a
 One of your senses is exceptionally sharp, be it sight, hearing, smell, touch, or taste. The difficulties for all tasks involving the use of this particular sense are reduced by two. This Merit can be combined with the Discipline of Auspex to produce superhuman sensory acuity.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
 * *(Core Rulebook pg 480)*
+
+### <u>Heavy Hands (3 pt)</u>
+<u>One of the effects of becoming a vampire is strange changes happening to your body.  The obvious alterations to your hands have made them tougher, harder and more impervious to pain.  All difficulties for damage rolls using unarmed attacks are reduced by one.  Noticing this Merit is a “Spot Obvious” roll and should be declared in any scene where you’re not using supernatural powers to hide it.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.</u>
+
+* *<u>(Lore of the Bloodlines pg 37)</u>*
 
 ### Lizard Limbs (1 pt)
 Like a lizard, you are able to actually shed parts of your body. By spending a blood point and a little effort, you can detach a hand or foot, or even an arm or leg. This might be to escape bonds or a grapple. Unfortunately, the appendage will not reattach, and you will have to regrow that over time (usually a couple of days for a hand or foot, and a week for a limb). You also suffer a -3 dice pool penalty to actions that would require the use of more limbs.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.

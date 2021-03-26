@@ -1,6 +1,8 @@
 # **Oregon by Night**
 ## **House Rules and Character Creation**
 
+?> **Updated 3/26/21.** Everything new is <u>underlined</u>.
+
 ### i. Rule the First
 Use the four-page character sheet (V20\_4-Page\_Elder\_Interactive.pdf) posted in the house rules channel.  I once felt comfortable recommending software for PDFs, however, due to recent events I no longer can.  I’ve been using Foxit Reader and it’s been doing well for me...thus far.  Do your best and use best practices.  Always uncheck/refuse all additional software when installing whatever solution you choose.
 
@@ -71,6 +73,10 @@ The Merits **Additional Discipline** and **Blessed by St Gustav** provide you wi
 
 **Arcane:** This Merit is stricken.  It is too vague to be implemented effectively in a Venue such as this.
 
+<u>**True Celerity:** This Merit is stricken.</u>
+
+<u>**Natural Linguist:** This Merit’s bonus dice applies to addressing groups/public speaking, translation, or interpreting the meaning of closely related languages like Spanish and Portuguese, and nothing else.</u>
+
 **Cold Read:** This Merit is stricken.  It’s too squishy, too vague and too vulnerable to abuse on both sides.
 
 **Berserker:** This Merit does not apply to Reflexive Rolls.
@@ -81,7 +87,7 @@ Below are new Merits and Flaws:
 1. **Anachronism** (-2, Social): This Flaw makes you from a certain time far back in history; 1890 or before.  You have no knowledge of any events, science, or technology since that time.  You have been awake from a long torpor for a week, at best, and your character build should reflect this.
 
 ### 5. Specializations
-You must specialize at the first dot if you take any of the following: Expression, Crafts, Performance, Academics, Law, Science, Technology, and Pilot.  This not only grants you “Exploding 10’s”, but also shows the narrow focus required to be competent in any of these fields.
+You must specialize at the first dot if you take any of the following: Expression, Crafts, Performance, Academics, Law, Science, Technology, and Pilot. <u>The Specialization that you choose for these abilities are also its narrow focus and if you wish to play a different instrument, fly a different set of aircraft, or know a different area of Law, then you must purchase the Ability again with that Specialization.</u> This not only grants you “Exploding 10’s”, but also shows the narrow focus required to be competent in any of these fields.
 
 Other specializations apply as usual: any Attribute or Ability may be specialized when the fourth+ dot is placed in or purchased for it.
 
@@ -116,7 +122,7 @@ Use italics to indicate descriptions, actions, and the like. Wrap dialogue in qu
 Always narrate your character’s actions in the 3rd person. Compress and summarize your interactions with your own vassals as much as possible, and avoid it entirely whenever possible.
 
 ### 2. Stay in Your Lane
-Don’t “godmod”.  ei – Don’t assume any action you take via premise, especially to other PCs.
+Don’t “godmod”.  i.e. – Don’t assume any action you take via premise, especially to other PCs.
 
 
 If you would want another to make a roll to do it to you, you need to make a roll to do it to another.
@@ -469,6 +475,8 @@ As Aura Perception can only be used on beings, not objects, it cannot detect any
 
 Levels 1 & 2 constitute attacks and have all the penalties assigned thereto, such as breaking Unseen Presence and the like.
 
+<u>All V20 Abyss Mysticism Rituals are available for purchase with the same restrictions placed on obtaining said Rituals that appear elsewhere in these rules wherever Rituals are discussed.  Inceptions of new Abyss Rituals are allowed under the systems provided for such under the Blood Sorcery section with the following caveat: These Rituals will be sharply curtailed to follow the form and function of AM Rituals already extant.  Don’t try to deal with blood or cast wards unrelated to shadowy Abyss stuff, and other such diversions.  Your restraint and patience is appreciated.</u>
+
 **Psychic Projection:** To clarify the ephemeral nature as described in the text: The Silver Cord stretches a few feet or so from the small of the back and then vanishes into the Astral Mists; it exists on both the Astral Form and the Physical Form and can be attacked at both those locations by those capable of interacting with it: other projectors, wraiths, etc.  Only the Projector may see the entire length of their own cord.  All beings who are able to interact with the projector can see the short lengths extending from projectors and their bodies upon casual inspection.  This objectively and obviously differentiates Psychic Projectors from other types of beings to those in the know.  Psychic Projectors are a hazy, vaguely humanoid shape to all who perceive them and possess no identifiable features to any sensory input.
 
 All detection mechanics in the Psychic Projection section of V20 are stricken and are now solely governed by Rule 22 in this Document.
@@ -534,6 +542,8 @@ Where the RAW contradicts itself, the Administrator will make a ruling and add i
 - Fire Damage from non-fire sources (Burning Wrath, Burning Blade, etc) can be soaked with armor, and that armor is destroyed normally as stated in the RAW.
 - Do not roll for Rötschreck for fire even nominally under your Character’s control unless you Botch the roll for its use. “Relatively innocuous stimuli, or stimuli directly under the character’s control, are unlikely to induce Rötschreck.” Core, p307
 - Vampires, their remains after Final Death (if any), vitae (with any of the supernatural qualities listed in the “decay” chain above), etc, et al, all turn to ash upon exposure to even the most tenuous of sunlight.
+- <u>Drugs do not interact with supernatural powers.</u>
+- <u>You may choose to forego a roll and suffer the consequences for its failure.  Among other things, this is to more easily allow Players to switch from Humanity to a Path, or between Paths of Enlightenment.</u>
 
 
 ### 17. On the Blood Bond
@@ -558,6 +568,8 @@ Extraplanar beings appear as vague shapes resembling their real ones and no posi
 This section overrides all specific mentions and carve-outs contained in specific powers and sections in all of V20.
 
 ### 19. Abilities
+
+<u>**Specializations:** Once you reach the 5th Dot in any Ability, you may purchase additional Specializations for 3 XP, and a 15 success Downtime to represent your dedication to study and practice.</u>
 
 **Occult:**
 
@@ -595,7 +607,7 @@ Bloodlines are pretty well known to you, including their history, appearance and
 
 **Anarch Sorcery:**
 
-Rituals and Paths labeled as Anarch Sorcery are stolen from other Blood Sorcery traditions.  They are divided up below and these Rituals are available to those Traditions for In Clan XP Costs.  Some rituals appear in multiple traditions and this is intentional.  Similar problems breed similar solutions, convergent evolution, etc…
+Rituals and Paths labeled as Anarch Sorcery are stolen from other Blood Sorcery traditions. <u>The list below is also a complete list of what Rituals Anarch Blood Sorcerers have access to.</u> They are divided up below and these Rituals are available to those Traditions for In Clan XP Costs.  Some rituals appear in multiple traditions and this is intentional.  Similar problems breed similar solutions, convergent evolution, etc…
 
 - **Assamite Sorcery:** Ward vs Vitae, Blood Crystal, Bloody Mary, Calling Card, Beat Your Way To Glory, Baron Zaraguin’s Sting
 - **Koldunism:** Water Walking, Bloody Mary
@@ -624,13 +636,15 @@ Rituals and Paths labeled as Anarch Sorcery are stolen from other Blood Sorcery 
 
 **The Revelations of Eden:** This Setite Sorcery Path’s permanent effects now last two Real Time weeks and the Rating/Permanent Dot then returns.
 
-**Loss:** This Path of the Evil Eye Power’s permanent effects now last two real time weeks and the Rating/Permanent Dot then returns.
+<u>**All Powers That Result In Permanent Dot Loss:** With the exception of The Revelations of Eden directly above this entry, these powers now last One Year and One Day, and the Dot returns to the victim.</u>
 
 **Wards** cannot be bypassed through planar travel, transformation, teleportation, possession or other such methods.  If you are on the outside of an applicable ward, and you wind up on the inside of a ward, you must defeat the mechanics mentioned in the ward to travel to that location or its equivalent on any plane of existence.   If you fail to defeat the mechanics, a wall of force stops your progress or from interacting with the object. This also applies to any projectiles you throw, fire or release, as well as to all of your abilities, powers, etc, et al.  Warding Circles cannot be stacked atop each other and require at least 2 feet between their active fields.  Wards on objects may bear as many different wardings as can be cast, but cannot have multiple castings of the same ward against the same creature.
 
 Wards are also Programmable in the following ways: The original caster of a ward may make himself immune to any wards he casts as well as anyone else present at the initial casting.  The original caster may also add others to an existing ward’s immunity with another casting of the same ward taking the same amount of time but having no other costs.  The original caster may remove another’s immunity to a ward, including his own with the same process as the previous sentence and this does not require the presence of the being being removed.
 
-**Way of Spirit:** Auspex 1-4 functions through this Discipline.
+**Way of Spirit:** Auspex 1-4 functions through this Discipline. <u>To activate this power, roll Perception + Occult; Difficulty is (Dots) + 3.</u>
+
+<u>**Way of Sorrows (RotB p157):** To activate these powers, roll Charisma + Occult; Difficulty (Dots) + 3.</u>
 
 **Dur’An’Ki**
 
