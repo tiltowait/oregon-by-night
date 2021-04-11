@@ -1,7 +1,7 @@
 # **Oregon by Night**
 ## **House Rules and Character Creation**
 
-?> **Updated 3/31/21.** <u>Everything new is underlined.</u>
+?> **Updated 4/11/21.** <u>Everything new is underlined.</u>
 
 ### i. Rule the First
 Use the four-page character sheet (V20\_4-Page\_Elder\_Interactive.pdf) posted in the house rules channel.  I once felt comfortable recommending software for PDFs, however, due to recent events I no longer can.  I’ve been using Foxit Reader and it’s been doing well for me...thus far.  Do your best and use best practices.  Always uncheck/refuse all additional software when installing whatever solution you choose.
@@ -80,6 +80,8 @@ The Merits **Additional Discipline** and **Blessed by St Gustav** provide you wi
 **Cold Read:** This Merit is stricken.  It’s too squishy, too vague and too vulnerable to abuse on both sides.
 
 **Berserker:** This Merit does not apply to Reflexive Rolls.
+
+<u>**Enchanting Voice:** This Merit only provides half its Difficulty Reduction to Discipline Rolls.</u>
 
 Below are new Merits and Flaws:
 
@@ -320,7 +322,7 @@ This sentence is stricken and replaced with the following text: “All other act
 **Disarm (pg.276)** can also be performed with ranged weapons. The roll for this is at +2 difficulty instead of +1, and uses Dex + (Ranged Weapon Ability).
 
 ### 10. Dice & Difficulties
-All dice pools may rise above 10, with the exception of non-bashing damage pools.  Lethal and Aggravated Damage Dice Pools are limited to 15 and 10, respectively. <u>Player Characters can only take a maximum of 7 wounds from a single attack after the Soak Roll.</u> Using dice pools above ten for obvious actions in the presence and under the observation of mortals is usually a breach of the Masquerade.
+All dice pools may rise above 10, with the exception of non-bashing damage pools.  Lethal and Aggravated Damage Dice Pools are limited to 15 and 10, respectively. Player Characters can only take a maximum of 7 wounds from a single attack after the Soak Roll. Using dice pools above ten for obvious actions in the presence and under the observation of mortals is usually a breach of the Masquerade.
 
 Difficulties are always between 2 and 10, unless RAW specifies otherwise, which it does in certain places.  You must always roll to account for 1’s and Exploding 10’s due to Specialties.  This is to clarify pg. 249 of V20 Core which is a bit wishy-washy on the subject.
 
@@ -509,6 +511,8 @@ You may 'let someone into your mind'. By agreeing to do so, you make a Willpower
 
 **Dominate:** When Dominate is combined with Blood of Potency, the Dominator uses his current Generation for anything based on it.  However, lingering effects decay to the Dominator’s natural Generation once the Potency effect ends.  When this happens, any Dominate effects upon those of lower Generation than the Dominator immediately end.
 
+<u>You may 'let someone into your mind'. By agreeing to do so, you make a Willpower roll, difficulty 7. Every success you acquire lowers the other person's Difficulty on their Dominate roll by 1, minimum 2.  You may not be coerced or Dominated (et al) into this consent in any way.  There is no way to ensure that the Dominator will only implant or remove that which you agreed upon.  Caveat Emptor.</u>
+
 **Shape of the Beast:** When in any Flight or War form that has teeth, you still have access to your Vampire Fangs and you cause The Kiss when you bite.  In bat form you may only drink 1 Blood Point every 2 combat turns.  War Forms may drink 3 per combat turn, as is standard for RAW.
 
 **Numina, Hedge Magic, Etc:** PC Mortals purchase Numina the same way Vampires purchase Out Of Clan Disciplines for both Freebie Points and XP.  If such a mortal is Embraced, all these Freebies and XP fall into a Pool which may only be spent on Disciplines or Supernatural Merits that directly affect your person.
@@ -527,6 +531,8 @@ You may 'let someone into your mind'. By agreeing to do so, you make a Willpower
 
 **Path of the Focused Mind and Directing Ahriman’s Lance** do not apply to Reflexive Rolls.
 
+<u>**All Mind and Emotional Control Disciplines:** This includes Presence, Dominate, and all similar effects.  It is important to realize that when you fall under these effects, your character does not realize it, as this would make useless the powers themselves.  In no way shall a Characrer express that their hand is being forced, but instead, there shall be a focus on internalizing the effects, as though they arise from within the Self.  Failure to do this will be considered metagaming.</u>
+
 ### 16. Minor Adjudications
 Where the RAW contradicts itself, the Administrator will make a ruling and add it to this lexicon:
 
@@ -544,6 +550,8 @@ Where the RAW contradicts itself, the Administrator will make a ruling and add i
 - Vampires, their remains after Final Death (if any), vitae (with any of the supernatural qualities listed in the “decay” chain above), etc, et al, all turn to ash upon exposure to even the most tenuous of sunlight.
 - Drugs do not interact with supernatural powers.
 - You may choose to forego a roll and suffer the consequences for its failure.  Among other things, this is to more easily allow Players to switch from Humanity to a Path, or between Paths of Enlightenment.
+- As written in RAW, normal animals won’t approach Vampires who don’t have Animal Ken or Animalism, thus, animals can detect vampires. This sense has a 6 meter range <u>and is easily defeated by any Discipline, Ritual, Merit, etc, et al, that hides vampires or their natures from mortals in any way.</u>
+- <u>In the “Spending Blood Pool” section of the V20 core, on page 269, there is a section that deals with “Blushing” though that word isn’t specifically used.  The system is slightly vague, so this clarification shall apply: Each individual trait you wish to replicate for a scene costs the specified amount of blood.  Eg, If you wanted to be warm, have a heartbeat, and keep food down for a scene, you must pay that cost three times.</u>
 
 
 ### 17. On the Blood Bond
@@ -560,8 +568,10 @@ This subsection, found on page 142 if the V20 Core is completely replaced by the
 
 Whenever one being uses supernatural powers to create illusions, hide from, or spy on another with his expanded senses, extraplanar presence, physical presence, remote viewing sensor, etc, can be detected by Auspex or other powers or items that reveal hidden things.  If the power being used to befuddle/spy has more Dots/Ritual Levels than the power being used to detect it, then she who is hidden remains so.
 
-If the Detection Power has equal or more dots than the Hiding/Observing/Illusory power, the Players make a Resisted Action (page 252).  She who detects rolls Perception + Awareness, and he who is detected rolls Dexterity (excluding Celerity Bonus) + Obfuscate Dots, or Manipulation + Chimerstry Dots, or Intelligence + Occult Dots for Blood Sorcery.  Chimerstry can still be broken by the “Proof Mechanic” found in that section.  Non-Auspex Detection powers function at the Dot or Ritual Level they are at and are not improved by having higher Dots or Rituals in that power.  Non-Auspex Detection Powers that are Combo Disciplines function at a number of equivalent Auspex Dots as determined by the XP Cost of the Combo Power:
+If the Detection Power has equal or more dots than the Hiding/Observing/Illusory power, the Players make a Resisted Action (page 252).  She who detects rolls Perception + Awareness, and he who is detected rolls <u>Wits + Obfuscate Dots</u>, or Manipulation + Chimerstry Dots, or Intelligence + Occult Dots for Blood Sorcery.  Chimerstry can still be broken by the “Proof Mechanic” found in that section.  Non-Auspex Detection powers function at the Dot or Ritual Level they are at and are not improved by having higher Dots or Rituals in that power.  Non-Auspex Detection Powers that are Combo Disciplines function at a number of equivalent Auspex Dots as determined by the XP Cost of the Combo Power:
 1-5 XP=1 Dot.  6-10 XP=2 Dots.  11-15 XP=3Dots.  16-20 XP=4 Dots.  21-25XP=5 Dots.
+
+<u>If the Detection power is of a higher rank than the Hiding Power, the difference between the two shall be the Detector’s Difficulty Reduction on the Resisted Action.  This overrides the Heightened Senses bonus in that section of Auspex.</u>
 
 Extraplanar beings appear as vague shapes resembling their real ones and no positive ID may be made.  Remote Viewing powers are detected as a small magical sensor in the area about the size of a fist, their user is not revealed, and they are immune from harm and the effects of supernatural powers.  Extraplanar beings who are on or can travel to any of the three near-Earth planes by virtue of their creature type are assumed to be using a Hiding Power equal to the highest Dot Rank of their most developed Discipline/Gift/Arcanoi.  In the Resisted Roll, these beings use Manipulation + Stealth.
 
@@ -618,7 +628,7 @@ Rituals and Paths labeled as Anarch Sorcery are stolen from other Blood Sorcery 
 
 **Blood Rage:** The difficulty increase vs Frenzy imposed by this power lasts for the rest of the current Scene.  This power can bring Kindred out of Torpor by forcing blood to be spent upon Rising and is not limited by the time constraints of Torpor; this is a reinforcement of the text as already written.
 
-<u>**Cauldron of Blood:** The activation roll for this power is also how much damage it does, thus it is an Aggravated Damage Roll and is limited to 10 Dice if it is aggravated upon the creature it is being used upon, 15 if Lethal upon the victim, or Unlimited if Bashing.</u>
+**Cauldron of Blood:** The activation roll for this power is also how much damage it does, thus it is an Aggravated Damage Roll and is limited to 10 Dice if it is aggravated upon the creature it is being used upon, 15 if Lethal upon the victim, or Unlimited if Bashing.
 
 **Failures and Botches:** All Blood Sorcery arts are difficult and unforgiving.  Failures on Base Powers (Blood Rage, Compel Soul, etc.) and Rituals indicate the magic fails and you’re aware of it.  The following two charts will be referred to when Botches are scored on these rolls.
 
@@ -715,6 +725,10 @@ Adapting secret Rituals from other Traditions requires you to have Occult 5 to k
 Thoughts and Advice from your Storyteller: The approval process will be more or less difficult depending on the scope and reach of your new Ritual.  Replicating the effects of RAW Rituals already extant will almost certainly be approved.  Those that are variations on Rituals extant that affect different creatures, things or powers should be pretty easy.  Completely novel Rituals that don’t resemble anything already in RAW will, of course, be much more difficult to adjudicate.  Your patience is requested.
 
 **Combo Disciplines:** Necromancy is separate from the other Blood Sorceries for these purposes and has specific Combos that require it.  (Lore of the Bloodlines pages 49 and 71).  All the other Blood Sorceries meet the “Thaumaturgy” requirement listed in the Combo’s Requirements unless it specifies a specific Path; in which case you must have that Path or your Tradition’s equivalent.
+
+<u>**Thaumaturgical Sight:** This Combo Discipline does not automatically reveal Thaumaturgically hidden beings.  Use Seeing the Unseen in this document.</u>
+
+<u>**Calling the Hungry Shade:** The casting time for this Ritual is 3 hours.  If Successful, the Shade is under the caster’s control.  The controlling caster for group Rituals must be decided when the Ritual is begun.  Shades remain until destroyed, or dismissed by the caster.  As the controlling caster falls to daysleep, (s)he must make a control roll to keep the Shade under control for the day, and the same roll when (s)he wakes for the evening.  This roll is the same as if the controlling caster performed the Ritual him/herself.  The controlling caster must make a separate roll for each Shade they wish to keep under control.  The controlling caster may spend a Willpower for a success on these rolls.</u>
 
 ### 21. Daniel’s Boons
 Should some of you recognize this system, it’s lifted from the BNS LARP book as it better reflects the feel and tone that I wish to strike.  It is identical to that system, so if you wish to read it there, you can.  Boons break apart and combine in threes.  3 Trivials equals a minor and vice versa.  This rises all the way to Major Boons, but 3 Major Boons cannot be combined to a Blood, nor 3 Bloods to a Life.  Those stand apart because of their gravity.
