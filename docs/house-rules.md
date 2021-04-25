@@ -1,7 +1,7 @@
 # **Oregon by Night**
 ## **House Rules and Character Creation**
 
-?> **Updated 4/11/21.** <u>Everything new is underlined.</u>
+?> **Updated 4/25/21.** Everything new is underlined.
 
 ### i. Rule the First
 Use the four-page character sheet (V20\_4-Page\_Elder\_Interactive.pdf) posted in the house rules channel.  I once felt comfortable recommending software for PDFs, however, due to recent events I no longer can.  I’ve been using Foxit Reader and it’s been doing well for me...thus far.  Do your best and use best practices.  Always uncheck/refuse all additional software when installing whatever solution you choose.
@@ -50,9 +50,6 @@ Caitiff and ex-Panders choose three Disciplines at Character Creation that are �
 
 If you have your weird little heart just dead set on a strange Discipline from a Clan or Bloodline not allowed for play, you may take the new Caitiff-only Merit: Echoes of Faded Glory (see Merits & Flaws)
 
-
-
-
 ### 3. Blood Sorcery
 At Character Creation, Rituals may be obtained by spending Freebie Points equal to their XP cost
 (level × 2 or × 3, as stated in House Rules and Clarifications § 18).  If your Clan or Sorcery entry states that members or users usually start on a particular Path of Sorcery, you must start on that Path.
@@ -62,7 +59,11 @@ Currently, Camarilla Tremere assigned to the Portland Chantry may start on The G
 
 Novel Rituals may be incepted, or existing rituals from other Sorcery Traditions may be adapted, once you have mastered your primary Path of Blood Sorcery and have at least one Ritual of all five levels. See Rule 24 for the Language of Inception and Adaption.
 
-### 4. Merits & Flaws
+### <u>4. Backgrounds</u>
+
+<u>Cult is limited to 3 at Character Creation.</u>
+
+### 5. Merits & Flaws
 Merit based bonuses of any kind do not stack with each other.  This includes difficulty reductions and bonus dice that would apply to the same roll. Choose one.
 
 The Merits **Additional Discipline** and **Blessed by St Gustav** provide you with a dot of the Discipline you chose/Auspex (and make those Disciplines in-Clan, as noted in their text) in addition to the three Discipline dots you get at character creation.  This Merit may only be purchased by Vampires at Character Generation.
@@ -81,14 +82,14 @@ The Merits **Additional Discipline** and **Blessed by St Gustav** provide you wi
 
 **Berserker:** This Merit does not apply to Reflexive Rolls.
 
-<u>**Enchanting Voice:** This Merit only provides half its Difficulty Reduction to Discipline Rolls.</u>
+**Enchanting Voice:** This Merit only provides half its Difficulty Reduction to Discipline Rolls.
 
 Below are new Merits and Flaws:
 
 1. **Echoes of Faded Glory** (+3, Supernatural): Only Caitiff may take this Merit.  This switches one of your in-Blood three to a Clan signature Discipline that you desire, if approved by an ST.  Taking this merit makes your sire a member of that Clan/Bloodline, and if you are found to have their Discipline... well... there are consequences to those sorts of things.
 1. **Anachronism** (-2, Social): This Flaw makes you from a certain time far back in history; 1890 or before.  You have no knowledge of any events, science, or technology since that time.  You have been awake from a long torpor for a week, at best, and your character build should reflect this.
 
-### 5. Specializations
+### 6. Specializations
 You must specialize at the first dot if you take any of the following: Expression, Crafts, Performance, Academics, Law, Science, Technology, and Pilot. The Specialization that you choose for these abilities are also its narrow focus and if you wish to play a different instrument, fly a different set of aircraft, or know a different area of Law, then you must purchase the Ability again with that Specialization. This not only grants you “Exploding 10’s”, but also shows the narrow focus required to be competent in any of these fields.
 
 Other specializations apply as usual: any Attribute or Ability may be specialized when the fourth+ dot is placed in or purchased for it.
@@ -96,7 +97,7 @@ Other specializations apply as usual: any Attribute or Ability may be specialize
 
 
 
-### 6. Restrictions
+### 7. Restrictions
 You may not purchase more than 2 Dots of Status or Disciplines during Character Creation (buying up more Discipline dots with XP is allowed if making a new sheet after Retirement.  See Rule 18 Experience Points For Details).  I see a steady stream of character sheets with players trying to be Keepers, Hounds and Harpies etc.  These are titles you must buy or earn in play, nothing comes for free.
 
 If you were accidentally Embraced, Embraced yourself, or are a Shovelhead, you are 13th Generation unless you include diablerie or some other exceptional reason why this isn’t the case in your Backstory.
@@ -105,15 +106,15 @@ Spiritus, because of how it is obtained, and the historicity of its possessor’
 
 You may only invoke the “More Inhumane Vampires” mechanic on p85 of the Core if you start on a Path of Enlightenment.  The Path of Honorable Accord does not qualify for this mechanic.
 
-### 7. Logging
+### 8. Logging
 Write and submit a log of where every dot went on your sheet, using the Excel document mentioned in Venue Rules § Rule the Second.  Be sure to follow the proper order presented in the V20 Core.  Experience gains and expenditures are to be similarly logged and should be ready to submit upon demand to any staff member at any moment.  Always include which doucheba… err…Storyteller gave you the XP.
 
-### 8.  Character Submission
+### 9.  Character Submission
 When your character is complete, submit both your character sheet PDF and Excel log to the Discord account noted to be accepting new player sheets in the #house-rules channel.  They will review it and inform you of any issues.
 
 Once your character is completed and approved by a staff member, you must write a description and post a portrait to the #characters channel.  The portrait cannot be of a real person other than you.  You may use artbreeder.com, thispersondoesnotexist.com, or any of a host of other similar services to obtain art. Alternately, you may produce your own original works.
 
-### 9. Approval
+### 10. Approval
 Once you have submitted and had approved the first ever character you make, you receive 10XP, which can immediately be spent. This is a one-time bonus; you do not receive it for subsequent characters.
 
 ## **Venue Rules**
@@ -367,9 +368,13 @@ When you want Blood from your Herd, you simply take it, no roll required.  Thus,
 
 **Resources:**
 
+<u>You must have good justification for being able to seek the 4th and 5th Levels of this Background during Downtimes.  You must have a total of 4 or 5 dots if appropriate Abilities+Disciplines to pursue these levels of this Background, respectively.  The number of successes you must gain in order to obtain your Dot is (The Dot Number You’re Seeking) x 5.</u>
+
 The wording of Resources 5 now excludes the words “nation, nations” and “governments”. You’re not a multi-billionaire in 2020 terms; it’s more like around 100 million in total.  Mostly, this doesn’t affect anything, but I don’t want individual PCs toppling nations.  Groups of PCs, however…
 
 **Influence:**
+
+<u>You must have good justification for being able to seek the 4th and 5th Levels of this Background during Downtimes.  You must have a total of 4 or 5 dots if appropriate Abilities+Disciplines to pursue these levels of this Background, respectively.  The number of successes you must gain in order to obtain your Dot is (The Dot Number You’re Seeking) x 5.</u>
 
 The wording of Influence 5 now reads, “Vastly powerful, you are also a major force in the politics of the nations that share a land border with your own.”
 
@@ -511,7 +516,7 @@ You may 'let someone into your mind'. By agreeing to do so, you make a Willpower
 
 **Dominate:** When Dominate is combined with Blood of Potency, the Dominator uses his current Generation for anything based on it.  However, lingering effects decay to the Dominator’s natural Generation once the Potency effect ends.  When this happens, any Dominate effects upon those of lower Generation than the Dominator immediately end.
 
-<u>You may 'let someone into your mind'. By agreeing to do so, you make a Willpower roll, difficulty 7. Every success you acquire lowers the other person's Difficulty on their Dominate roll by 1, minimum 2.  You may not be coerced or Dominated (et al) into this consent in any way.  There is no way to ensure that the Dominator will only implant or remove that which you agreed upon.  Caveat Emptor.</u>
+You may 'let someone into your mind'. By agreeing to do so, you make a Willpower roll, difficulty 7. Every success you acquire lowers the other person's Difficulty on their Dominate roll by 1, minimum 2.  You may not be coerced or Dominated (et al) into this consent in any way.  There is no way to ensure that the Dominator will only implant or remove that which you agreed upon.  Caveat Emptor.
 
 **Shape of the Beast:** When in any Flight or War form that has teeth, you still have access to your Vampire Fangs and you cause The Kiss when you bite.  In bat form you may only drink 1 Blood Point every 2 combat turns.  War Forms may drink 3 per combat turn, as is standard for RAW.
 
@@ -531,7 +536,7 @@ You may 'let someone into your mind'. By agreeing to do so, you make a Willpower
 
 **Path of the Focused Mind and Directing Ahriman’s Lance** do not apply to Reflexive Rolls.
 
-<u>**All Mind and Emotional Control Disciplines:** This includes Presence, Dominate, and all similar effects.  It is important to realize that when you fall under these effects, your character does not realize it, as this would make useless the powers themselves.  In no way shall a Characrer express that their hand is being forced, but instead, there shall be a focus on internalizing the effects, as though they arise from within the Self.  Failure to do this will be considered metagaming.</u>
+**All Mind and Emotional Control Disciplines:** This includes Presence, Dominate, and all similar effects.  It is important to realize that when you fall under these effects, your character does not realize it, as this would make useless the powers themselves.  In no way shall a Characrer express that their hand is being forced, but instead, there shall be a focus on internalizing the effects, as though they arise from within the Self.  Failure to do this will be considered metagaming.
 
 ### 16. Minor Adjudications
 Where the RAW contradicts itself, the Administrator will make a ruling and add it to this lexicon:
@@ -550,8 +555,8 @@ Where the RAW contradicts itself, the Administrator will make a ruling and add i
 - Vampires, their remains after Final Death (if any), vitae (with any of the supernatural qualities listed in the “decay” chain above), etc, et al, all turn to ash upon exposure to even the most tenuous of sunlight.
 - Drugs do not interact with supernatural powers.
 - You may choose to forego a roll and suffer the consequences for its failure.  Among other things, this is to more easily allow Players to switch from Humanity to a Path, or between Paths of Enlightenment.
-- As written in RAW, normal animals won’t approach Vampires who don’t have Animal Ken or Animalism, thus, animals can detect vampires. This sense has a 6 meter range <u>and is easily defeated by any Discipline, Ritual, Merit, etc, et al, that hides vampires or their natures from mortals in any way.</u>
-- <u>In the “Spending Blood Pool” section of the V20 core, on page 269, there is a section that deals with “Blushing” though that word isn’t specifically used.  The system is slightly vague, so this clarification shall apply: Each individual trait you wish to replicate for a scene costs the specified amount of blood.  Eg, If you wanted to be warm, have a heartbeat, and keep food down for a scene, you must pay that cost three times.</u>
+- As written in RAW, normal animals won’t approach Vampires who don’t have Animal Ken or Animalism, thus, animals can detect vampires. This sense has a 6 meter range and is easily defeated by any Discipline, Ritual, Merit, etc, et al, that hides vampires or their natures from mortals in any way.
+- In the “Spending Blood Pool” section of the V20 core, on page 269, there is a section that deals with “Blushing” though that word isn’t specifically used.  The system is slightly vague, so this clarification shall apply: Each individual trait you wish to replicate for a scene costs the specified amount of blood.  Eg, If you wanted to be warm, have a heartbeat, and keep food down for a scene, you must pay that cost three times.
 
 
 ### 17. On the Blood Bond
@@ -568,10 +573,10 @@ This subsection, found on page 142 if the V20 Core is completely replaced by the
 
 Whenever one being uses supernatural powers to create illusions, hide from, or spy on another with his expanded senses, extraplanar presence, physical presence, remote viewing sensor, etc, can be detected by Auspex or other powers or items that reveal hidden things.  If the power being used to befuddle/spy has more Dots/Ritual Levels than the power being used to detect it, then she who is hidden remains so.
 
-If the Detection Power has equal or more dots than the Hiding/Observing/Illusory power, the Players make a Resisted Action (page 252).  She who detects rolls Perception + Awareness, and he who is detected rolls <u>Wits + Obfuscate Dots</u>, or Manipulation + Chimerstry Dots, or Intelligence + Occult Dots for Blood Sorcery.  Chimerstry can still be broken by the “Proof Mechanic” found in that section.  Non-Auspex Detection powers function at the Dot or Ritual Level they are at and are not improved by having higher Dots or Rituals in that power.  Non-Auspex Detection Powers that are Combo Disciplines function at a number of equivalent Auspex Dots as determined by the XP Cost of the Combo Power:
+If the Detection Power has equal or more dots than the Hiding/Observing/Illusory power, the Players make a Resisted Action (page 252).  She who detects rolls Perception + Awareness, and he who is detected rolls Wits + Obfuscate Dots, or Manipulation + Chimerstry Dots, or Intelligence + Occult Dots for Blood Sorcery.  Chimerstry can still be broken by the “Proof Mechanic” found in that section.  Non-Auspex Detection powers function at the Dot or Ritual Level they are at and are not improved by having higher Dots or Rituals in that power.  Non-Auspex Detection Powers that are Combo Disciplines function at a number of equivalent Auspex Dots as determined by the XP Cost of the Combo Power:
 1-5 XP=1 Dot.  6-10 XP=2 Dots.  11-15 XP=3Dots.  16-20 XP=4 Dots.  21-25XP=5 Dots.
 
-<u>If the Detection power is of a higher rank than the Hiding Power, the difference between the two shall be the Detector’s Difficulty Reduction on the Resisted Action.  This overrides the Heightened Senses bonus in that section of Auspex.</u>
+If the Detection power is of a higher rank than the Hiding Power, the difference between the two shall be the Detector’s Difficulty Reduction on the Resisted Action.  This overrides the Heightened Senses bonus in that section of Auspex.
 
 Extraplanar beings appear as vague shapes resembling their real ones and no positive ID may be made.  Remote Viewing powers are detected as a small magical sensor in the area about the size of a fist, their user is not revealed, and they are immune from harm and the effects of supernatural powers.  Extraplanar beings who are on or can travel to any of the three near-Earth planes by virtue of their creature type are assumed to be using a Hiding Power equal to the highest Dot Rank of their most developed Discipline/Gift/Arcanoi.  In the Resisted Roll, these beings use Manipulation + Stealth.
 
@@ -726,9 +731,9 @@ Thoughts and Advice from your Storyteller: The approval process will be more or 
 
 **Combo Disciplines:** Necromancy is separate from the other Blood Sorceries for these purposes and has specific Combos that require it.  (Lore of the Bloodlines pages 49 and 71).  All the other Blood Sorceries meet the “Thaumaturgy” requirement listed in the Combo’s Requirements unless it specifies a specific Path; in which case you must have that Path or your Tradition’s equivalent.
 
-<u>**Thaumaturgical Sight:** This Combo Discipline does not automatically reveal Thaumaturgically hidden beings.  Use Seeing the Unseen in this document.</u>
+**Thaumaturgical Sight:** This Combo Discipline does not automatically reveal Thaumaturgically hidden beings.  Use Seeing the Unseen in this document.
 
-<u>**Calling the Hungry Shade:** The casting time for this Ritual is 3 hours.  If Successful, the Shade is under the caster’s control.  The controlling caster for group Rituals must be decided when the Ritual is begun.  Shades remain until destroyed, or dismissed by the caster.  As the controlling caster falls to daysleep, (s)he must make a control roll to keep the Shade under control for the day, and the same roll when (s)he wakes for the evening.  This roll is the same as if the controlling caster performed the Ritual him/herself.  The controlling caster must make a separate roll for each Shade they wish to keep under control.  The controlling caster may spend a Willpower for a success on these rolls.</u>
+**Calling the Hungry Shade:** The casting time for this Ritual is 3 hours.  If Successful, the Shade is under the caster’s control.  The controlling caster for group Rituals must be decided when the Ritual is begun.  Shades remain until destroyed, or dismissed by the caster.  As the controlling caster falls to daysleep, (s)he must make a control roll to keep the Shade under control for the day, and the same roll when (s)he wakes for the evening.  This roll is the same as if the controlling caster performed the Ritual him/herself.  The controlling caster must make a separate roll for each Shade they wish to keep under control.  The controlling caster may spend a Willpower for a success on these rolls.
 
 ### 21. Daniel’s Boons
 Should some of you recognize this system, it’s lifted from the BNS LARP book as it better reflects the feel and tone that I wish to strike.  It is identical to that system, so if you wish to read it there, you can.  Boons break apart and combine in threes.  3 Trivials equals a minor and vice versa.  This rises all the way to Major Boons, but 3 Major Boons cannot be combined to a Blood, nor 3 Bloods to a Life.  Those stand apart because of their gravity.
