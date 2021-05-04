@@ -1,7 +1,7 @@
 # **Oregon by Night**
 ## **House Rules and Character Creation**
 
-?> **Updated 4/25/21.** Everything new is underlined.
+?> **Updated 5/3/21.** Everything new is <u>underlined</u>.
 
 ### i. Rule the First
 Use the four-page character sheet (V20\_4-Page\_Elder\_Interactive.pdf) posted in the house rules channel.  I once felt comfortable recommending software for PDFs, however, due to recent events I no longer can.  I’ve been using Foxit Reader and it’s been doing well for me...thus far.  Do your best and use best practices.  Always uncheck/refuse all additional software when installing whatever solution you choose.
@@ -59,9 +59,9 @@ Currently, Camarilla Tremere assigned to the Portland Chantry may start on The G
 
 Novel Rituals may be incepted, or existing rituals from other Sorcery Traditions may be adapted, once you have mastered your primary Path of Blood Sorcery and have at least one Ritual of all five levels. See Rule 24 for the Language of Inception and Adaption.
 
-### <u>4. Backgrounds</u>
+### 4. Backgrounds
 
-<u>Cult is limited to 3 at Character Creation.</u>
+Cult is limited to 3 at Character Creation.
 
 ### 5. Merits & Flaws
 Merit based bonuses of any kind do not stack with each other.  This includes difficulty reductions and bonus dice that would apply to the same roll. Choose one.
@@ -135,7 +135,7 @@ Do not make changes to the physical world around you through narrative text that
 No trolling.  Of any kind.  The success and function of this venue depends upon the good faith engagement of all who participate. Be respectful to others at all times.  Be your best self. In-character, though...
 
 ### 4. Violence for Violence is the Rule of the Beasts
-PVP is allowed.  It requires the consent of all parties and no retcons will be allowed.
+PVP is allowed.  It <u>mostly</u> requires the consent of all parties and no retcons will be allowed. <u>There are exceptions to this rule: Frenzy, Blood Hunt, Dominate, Thralls ordered via The Bond, etc.</u>
 
 Consenting players may narratively mediate a violent encounter between themselves to a mutually acceptable outcome.  If all parties do not consent to a narrative, then they must invoke the combat mechanics and run themselves through the combat.  If the Players involved cannot agree on the action, a Narrator or Storyteller needs be on hand to adjudicate; yes, this includes Monomacy.  If no Staff is available, you’re all scene locked until the resolution of combat.  This is always a problem area in RPGs.  Staff will be watching closely.  No whining.
 
@@ -368,13 +368,13 @@ When you want Blood from your Herd, you simply take it, no roll required.  Thus,
 
 **Resources:**
 
-<u>You must have good justification for being able to seek the 4th and 5th Levels of this Background during Downtimes.  You must have a total of 4 or 5 dots if appropriate Abilities+Disciplines to pursue these levels of this Background, respectively.  The number of successes you must gain in order to obtain your Dot is (The Dot Number You’re Seeking) x 5.</u>
+You must have good justification for being able to seek the 4th and 5th Levels of this Background during Downtimes.  You must have a total of 4 or 5 dots if appropriate Abilities+Disciplines to pursue these levels of this Background, respectively.  The number of successes you must gain in order to obtain your Dot is (The Dot Number You’re Seeking) x 5.
 
 The wording of Resources 5 now excludes the words “nation, nations” and “governments”. You’re not a multi-billionaire in 2020 terms; it’s more like around 100 million in total.  Mostly, this doesn’t affect anything, but I don’t want individual PCs toppling nations.  Groups of PCs, however…
 
 **Influence:**
 
-<u>You must have good justification for being able to seek the 4th and 5th Levels of this Background during Downtimes.  You must have a total of 4 or 5 dots if appropriate Abilities+Disciplines to pursue these levels of this Background, respectively.  The number of successes you must gain in order to obtain your Dot is (The Dot Number You’re Seeking) x 5.</u>
+You must have good justification for being able to seek the 4th and 5th Levels of this Background during Downtimes.  You must have a total of 4 or 5 dots if appropriate Abilities+Disciplines to pursue these levels of this Background, respectively.  The number of successes you must gain in order to obtain your Dot is (The Dot Number You’re Seeking) x 5.
 
 The wording of Influence 5 now reads, “Vastly powerful, you are also a major force in the politics of the nations that share a land border with your own.”
 
@@ -409,9 +409,15 @@ This is part of the Chantry Entry in Lore of the Clans.  It is now a Background 
 ### 14. Experience Points
 XP earned with a character must be spent on that character, except if that character dies or is retired.
 
+<u>Your first Character Retirement/Death is free.  All other Character Retirements/Deaths carry penalties.  If you Retire/Die within your first month the penalty shall be 30% of your total.   If you Retire/Die within your second month the penalty shall be 20% of your total.   If you Retire/Die within your third month the penalty shall be 10% of your total.  Retiring after this period is free, and dying after this period results in a 10% penalty.  Round all decimals up, no matter how small.</u>
+
+<u>Once Retired, your remaining XP can be spent on the next sheet that’s approved for play.  Retired characters may never return to play.  Staff may reduce or overrule this if they feel that they have erred in the difficulty of a challenge or a misunderstanding caused the death.</u>
+
 If retired, all XP on that sheet as well as any unspent XP may be spent on the next sheet that’s approved for play.  Retired characters may *never* return to play.  If your character dies, 90% of its XP (round all decimals up, no matter how small) shall be returned to your unspent pool to do with as you please.  Staff may overrule this if they feel that they have erred in the difficulty of a challenge or a misunderstanding caused the death.
 
 Characters made with XP may add up to 3 years to their age-as-a-vampire per 1 XP on their starting sheet.  This age has no mechanical benefits or penalties except possibly for ghouls.
+
+<u>On the first day of your 7th month of play on a Character, and every 3 months thereafter, you receive 10 successes towards any Downtime Activity that your Character can accomplish.  Extant Characters already older than 3 months as of 5/3/21 are considered to be on the first day of their 4th month, thus your 10 successes will accrue on 8/3/21.</u>
 
 Rituals of any Blood Sorcery tradition are obtained by having access to materials or teachers to impart the knowledge, and the expenditure of XP equal to twice the Ritual’s level (three times the Ritual’s level for Abyss Mysticism).  If you do not meet one of the previous two requirements you may not purchase Rituals nor advance out-of-Clan Blood Sorcery until you obtain such access.
 
@@ -650,6 +656,28 @@ Rituals and Paths labeled as Anarch Sorcery are stolen from other Blood Sorcery 
 **Principal Focus of Vitae Infusion:** Blood transformed in this manner for others as mentioned in the systems do respond to the mental command of the being it was made for.
 
 **Setite Sorcery**: Where RAW does not specify what systems are used to invoke these powers, this branch of Blood Sorcery shall use the system described for Thaumaturgy and its Rituals located on pg. 213 & 230 of the V20 Core, respectively.
+
+<u>As Setite Sorcery is, like far too many things in V20, ill defined, and this section shall serve to correct that oversight, understatement intended.</u>
+
+<u>*Setite Sorcery Paths:  *</u>
+
+<u>Setite Blood Sorcerers shall have access to all the Paths listed in the V20 Guide, but note that there is a title error on two of them.  The Akhu and Wanga titles should be transposed in the Guide.   Also available to Setite Blood Sorcerers are the Paths of Weather Control, Levinbolt, Hands of Destruction, Corruption, Curses, Father's Vengeance, Evil Eye, Blood, Revelations of Eden and Revelations of the Duat.</u>
+
+<u>*Setite Sorcery Rituals:*</u>
+
+<u>Setite Blood Sorcerers have access to all the Rituals specified in the V20 Guide as well as the following:</u>
+
+<u>Level 1: Bind the Accusing Tongue, Devil’s Touch, Domino of Life, Encrypt Missive, Engaging the Vessel of Transference, Impressive Visage, Incantation of the Shepherd, Learning the Mind Enslumbered, Widow’s Spite</u>
+
+<u>Level 2: Craft Bloodstone, Donning the Mask of Shadows, Eyes of Babel, Eyes of the Nighthawk, Hidden Haven, Illusion of Peaceful Death, The Jinx, Machine Blitz, Oinos of Dionysus, Vitality Hack</u>
+
+<u>Level 3: A Touch of Nightshade, Amulet of the Mnemosyne, The Bottled Voice, Dante’s Urban Legend, Incorporeal Passage, Inscription, Mirror of Second Sight, Sanguine Trail, Translocation of the Vessel</u>
+
+<u>Level 4: Bone of Lies, The Curse Belated, Heart of Stone, Mirror Walk, Scry, Stolen Kisses</u>
+
+<u>Level 5: Abandon the Fetters, Blood Contract, Cobra’s Favor</u>
+
+<u>Setite Blood Sorcerers can incept new Rituals using the same system elsewhere in this document.</u>
 
 **The Revelations of Eden:** This Setite Sorcery Path’s permanent effects now last two Real Time weeks and the Rating/Permanent Dot then returns.
 
