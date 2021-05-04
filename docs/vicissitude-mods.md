@@ -3,7 +3,7 @@
 
 ---
 
-?> **Updated 3/26/21.** Everything new is <u>underlined</u>.
+?> **Updated 5/3/21.** Everything new is <u>underlined</u>.
 
 Although you may not be talented at the Tzimisce forms of Fleshcrafting and Bonecrafting, at some point you have been… modified into a more warlike form. Generally speaking, most modifications necessitate the purchase of the Flaw: Monstrous. As a rule, the Tzimisce make sufficient cosmetic alterations to ruin the looks of all their battle-ghouls, even those whose modifications are not in and of themselves hideous.  Those Modifications that don’t NECESSITATE this Flaw all have Identical Sentences attached to them.
 
@@ -67,10 +67,10 @@ One of your senses is exceptionally sharp, be it sight, hearing, smell, touch, o
 
 * *(Core Rulebook pg 480)*
 
-### <u>Heavy Hands (3 pt)</u>
-<u>One of the effects of becoming a vampire is strange changes happening to your body.  The obvious alterations to your hands have made them tougher, harder and more impervious to pain.  All difficulties for damage rolls using unarmed attacks are reduced by one.  Noticing this Merit is a “Spot Obvious” roll and should be declared in any scene where you’re not using supernatural powers to hide it.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.</u>
+### Heavy Hands (3 pt)
+One of the effects of becoming a vampire is strange changes happening to your body.  The obvious alterations to your hands have made them tougher, harder and more impervious to pain.  All difficulties for damage rolls using unarmed attacks are reduced by one.  Noticing this Merit is a “Spot Obvious” roll and should be declared in any scene where you’re not using supernatural powers to hide it.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
-* *<u>(Lore of the Bloodlines pg 37)</u>*
+* *(Lore of the Bloodlines pg 37)*
 
 ### Lizard Limbs (1 pt)
 Like a lizard, you are able to actually shed parts of your body. By spending a blood point and a little effort, you can detach a hand or foot, or even an arm or leg. This might be to escape bonds or a grapple. Unfortunately, the appendage will not reattach, and you will have to regrow that over time (usually a couple of days for a hand or foot, and a week for a limb). You also suffer a -3 dice pool penalty to actions that would require the use of more limbs.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
@@ -129,6 +129,11 @@ Each point you put into this Modification grants you 1 Additional Blood Pool for
 This relocates your heart, for all the obvious reasons, to somewhere else in your body, you must declare on your sheet in a convenient place and upload it to the Staff upon your decision.  This modification costs 1 point for Vampires, and 3 points for everything else.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
 * *(Venue Modification)*
+
+### <u>Heart of Bone (Variable)</u>
+<u>Your heart is protected by a sheath of cartilage and/or bone.  Each level of this Modification grants an additional die to soak all attempts to pierce your heart.  This includes but is not limited to staking and called combat shots.  You must possess Bonecraft to grant the 4th and 5th levels of this Modification.  Ghouls may only receive up to points in this Modification, and it costs them double.  This reflects the need to compensate for functional biology.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.</u>
+
+* <u>*(Venue Modification)*</u>
 
 ### Blush of Health (2pt. Merit)
 You look more hale and healthy in appearance than other vampires, allowing you to blend with human society much more easily. You still retain the color of a living mortal, and your skin feels only slightly cool to the touch.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.

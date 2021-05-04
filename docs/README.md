@@ -7,6 +7,12 @@ Welcome to Oregon by Night! This Venue takes place in the entire State of Oregon
 > * **[Vicissitude Modifications](/vicissitude-mods)**
 > * **[The High Cost of Dying](high-cost-of-dying.md)** — Assamite contracts and promotions in the World of Darkness
 
+## Staff Accountability
+
+Any staff member in a scene with their own character will recuse themselves acting as staff in that scene.
+
+No staff member's character can hold a major in game positions.  Prince, Baron, Primogen, Viceroy of Portland, and Regent of Portland are all forbidden.
+
 ## Story and Setting Info
 
 
