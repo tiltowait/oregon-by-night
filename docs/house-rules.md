@@ -135,7 +135,7 @@ Do not make changes to the physical world around you through narrative text that
 No trolling.  Of any kind.  The success and function of this venue depends upon the good faith engagement of all who participate. Be respectful to others at all times.  Be your best self. In-character, though...
 
 ### 4. Violence for Violence is the Rule of the Beasts
-PVP is allowed.  It <u>mostly</u> requires the consent of all parties and no retcons will be allowed. <u>There are exceptions to this rule: Frenzy, Blood Hunt, Dominate, Thralls ordered via The Bond, etc.</u>
+PVP is allowed.  It <u>mostly</u> requires the consent of all parties and no retcons will be allowed. <u>There are exceptions to this rule: Frenzy, Blood Hunt, a Wide Variety of Emotional and Mental Disciplines, Thralls ordered via The Bond, etc.</u>
 
 Consenting players may narratively mediate a violent encounter between themselves to a mutually acceptable outcome.  If all parties do not consent to a narrative, then they must invoke the combat mechanics and run themselves through the combat.  If the Players involved cannot agree on the action, a Narrator or Storyteller needs be on hand to adjudicate; yes, this includes Monomacy.  If no Staff is available, you’re all scene locked until the resolution of combat.  This is always a problem area in RPGs.  Staff will be watching closely.  No whining.
 
