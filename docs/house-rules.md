@@ -141,7 +141,7 @@ No trolling. Of any kind. The success and function of this venue depends upon th
 
 <u>Joe may not, without Matt's consent. </u>
 
-<u>**Example 2:** Bob the Ventrue was sleighted last Elysium by Carmilla the Brjuah, and now he wants to send a message. So, he poisons a few members of her herd and sends a sternly-worded letter to mind her place.</u>
+<u>**Example 2:** Bob the Ventrue was slighted last Elysium by Carmilla the Brujah, and now he wants to send a message. So, he poisons a few members of her herd and sends a sternly-worded letter to mind her place.</u>
 
 <u>Bob does not need to obtain Carmilla's consent to attack her herd, but Carmilla now has free reign to retaliate – including by kicking in Bob's door, stake in hand.</u>
 
