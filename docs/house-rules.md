@@ -1,7 +1,7 @@
 # **Oregon by Night**
 ## **House Rules and Character Creation**
 
-?> **Updated 5/3/21.** Everything new is <u>underlined</u>.
+?> **Updated 5/13/21.** Everything new is <u>underlined</u>.
 
 ### i. Rule the First
 Use the four-page character sheet (V20\_4-Page\_Elder\_Interactive.pdf) posted in the house rules channel.  I once felt comfortable recommending software for PDFs, however, due to recent events I no longer can.  I’ve been using Foxit Reader and it’s been doing well for me...thus far.  Do your best and use best practices.  Always uncheck/refuse all additional software when installing whatever solution you choose.
@@ -66,7 +66,7 @@ Cult is limited to 3 at Character Creation.
 ### 5. Merits & Flaws
 Merit based bonuses of any kind do not stack with each other.  This includes difficulty reductions and bonus dice that would apply to the same roll. Choose one.
 
-The Merits **Additional Discipline** and **Blessed by St Gustav** provide you with a dot of the Discipline you chose/Auspex (and make those Disciplines in-Clan, as noted in their text) in addition to the three Discipline dots you get at character creation.  This Merit may only be purchased by Vampires at Character Generation.
+The Merits **Additional Discipline** and **Blessed by St Gustav** provide you with a dot of the Discipline you chose/Auspex (and make those Disciplines in-Clan, as noted in their text) in addition to the three Discipline dots you get at character creation.  This Merit may only be purchased by Vampires at Character Generation. <u>You may not use Additional Discipline to obtain Spiritus, Bardo, or Ogham.</u>
 
 **Iron Will:** This merit does not affect Dementation 1 in any way because it is entirely emotional in nature.
 
@@ -86,7 +86,7 @@ The Merits **Additional Discipline** and **Blessed by St Gustav** provide you wi
 
 Below are new Merits and Flaws:
 
-1. **Echoes of Faded Glory** (+3, Supernatural): Only Caitiff may take this Merit.  This switches one of your in-Blood three to a Clan signature Discipline that you desire, if approved by an ST.  Taking this merit makes your sire a member of that Clan/Bloodline, and if you are found to have their Discipline... well... there are consequences to those sorts of things.
+1. **Echoes of Faded Glory** (+3, Supernatural): Only Caitiff may take this Merit.  This switches one of your in-Blood three to a Clan signature Discipline that you desire, if approved by an ST.  Taking this merit makes your sire a member of that Clan/Bloodline, and if you are found to have their Discipline... well... there are consequences to those sorts of things. <u>You may not use this Merit to obtain Spiritus, Bardo, or Ogham.</u>
 1. **Anachronism** (-2, Social): This Flaw makes you from a certain time far back in history; 1890 or before.  You have no knowledge of any events, science, or technology since that time.  You have been awake from a long torpor for a week, at best, and your character build should reflect this.
 
 ### 6. Specializations
@@ -135,9 +135,17 @@ Do not make changes to the physical world around you through narrative text that
 No trolling.  Of any kind.  The success and function of this venue depends upon the good faith engagement of all who participate. Be respectful to others at all times.  Be your best self. In-character, though...
 
 ### 4. Violence for Violence is the Rule of the Beasts
-PVP is allowed.  It <u>mostly</u> requires the consent of all parties and no retcons will be allowed. <u>There are exceptions to this rule: Frenzy, Blood Hunt, a Wide Variety of Emotional and Mental Disciplines, Thralls ordered via The Bond, etc.</u>
+<u>PVP is conditionally allowed. Attempts at initiating permanent, lasting, or directly lethal harm require the consent of the players involved. Less-permanent attacks (such as the use of Dominate, Presence, or similar disciplines, the social “ruining” of another, attacks on backgrounds, et cetera) do not require said permission. Players who initiate attacks of this kind, in doing so, automatically consent to retaliation – which can include escalation to anything up to (and including) Final Death. Escalation must be at least vaguely reasonable (“Bill insulted the color of my shoes, so I diablerized him,” isn't going to fly), with final adjudication in cases where players cannot agree going to an ST.  PvP that ends in a fatality locks the killer from penalty-free retirement for a month, to allow interested parties to react.</u>
 
-Consenting players may narratively mediate a violent encounter between themselves to a mutually acceptable outcome.  If all parties do not consent to a narrative, then they must invoke the combat mechanics and run themselves through the combat.  If the Players involved cannot agree on the action, a Narrator or Storyteller needs be on hand to adjudicate; yes, this includes Monomacy.  If no Staff is available, you’re all scene locked until the resolution of combat.  This is always a problem area in RPGs.  Staff will be watching closely.  No whining.
+<u>**Example 1:** Joe the Elder is feeling bored, so he wants to go abduct Matt the Anarch off the riverfront and blood-bond him.</u>
+
+<u>Joe may not, without Matt's consent. </u>
+
+<u>**Example 2:** Bob the Ventrue was sleighted last Elysium by Carmilla the Brjuah, and now he wants to send a message. So, he poisons a few members of her herd and sends a sternly-worded letter to mind her place.</u>
+
+<u>Bob does not need to obtain Carmilla's consent to attack her herd, but Carmilla now has free reign to retaliate – including by kicking in Bob's door, stake in hand.</u>
+
+<u>It goes without saying that this does not extend to allowing free reign on crossing certain lines (eg: torture, rape, et cetera).</u>
 
 ### 5. The Return of Be Nice: X-Card Edition
 Discuss subject bans with your Storyteller at the start of the session if that ST isn’t already informed.
@@ -327,6 +335,8 @@ All dice pools may rise above 10, with the exception of non-bashing damage pools
 
 Difficulties are always between 2 and 10, unless RAW specifies otherwise, which it does in certain places.  You must always roll to account for 1’s and Exploding 10’s due to Specialties.  This is to clarify pg. 249 of V20 Core which is a bit wishy-washy on the subject.
 
+<u>New Mechanic, Half Assed: You may choose to use less than your full dice pool when making any roll.</u>
+
 ### 11. Diablerie
 We will be using the Diablerie rules found on pg. 180 of *The Black Hand: A Guide to the Tal’Mahe’Ra*.
 
@@ -409,15 +419,15 @@ This is part of the Chantry Entry in Lore of the Clans.  It is now a Background 
 ### 14. Experience Points
 XP earned with a character must be spent on that character, except if that character dies or is retired.
 
-<u>Your first Character Retirement/Death is free.  All other Character Retirements/Deaths carry penalties.  If you Retire/Die within your first month the penalty shall be 30% of your total.   If you Retire/Die within your second month the penalty shall be 20% of your total.   If you Retire/Die within your third month the penalty shall be 10% of your total.  Retiring after this period is free, and dying after this period results in a 10% penalty.  Round all decimals up, no matter how small.</u>
+Your first Character Retirement/Death is free.  All other Character Retirements/Deaths carry penalties.  If you Retire/Die within your first month the penalty shall be 30% of your total.   If you Retire/Die within your second month the penalty shall be 20% of your total.   If you Retire/Die within your third month the penalty shall be 10% of your total.  Retiring after this period is free, and dying after this period results in a 10% penalty.  Round all decimals up, no matter how small.
 
-<u>Once Retired, your remaining XP can be spent on the next sheet that’s approved for play.  Retired characters may never return to play.  Staff may reduce or overrule this if they feel that they have erred in the difficulty of a challenge or a misunderstanding caused the death.</u>
+Once Retired, your remaining XP can be spent on the next sheet that’s approved for play.  Retired characters may never return to play.  Staff may reduce or overrule this if they feel that they have erred in the difficulty of a challenge or a misunderstanding caused the death.
 
 If retired, all XP on that sheet as well as any unspent XP may be spent on the next sheet that’s approved for play.  Retired characters may *never* return to play.  If your character dies, 90% of its XP (round all decimals up, no matter how small) shall be returned to your unspent pool to do with as you please.  Staff may overrule this if they feel that they have erred in the difficulty of a challenge or a misunderstanding caused the death.
 
 Characters made with XP may add up to 3 years to their age-as-a-vampire per 1 XP on their starting sheet.  This age has no mechanical benefits or penalties except possibly for ghouls.
 
-<u>On the first day of your 7th month of play on a Character, and every 3 months thereafter, you receive 10 successes towards any Downtime Activity that your Character can accomplish.  Extant Characters already older than 3 months as of 5/3/21 are considered to be on the first day of their 4th month, thus your 10 successes will accrue on 8/3/21.</u>
+On the first day of your 7th month of play on a Character, and every 3 months thereafter, you receive 10 successes towards any Downtime Activity that your Character can accomplish.  Extant Characters already older than 3 months as of 5/3/21 are considered to be on the first day of their 4th month, thus your 10 successes will accrue on 8/3/21.
 
 Rituals of any Blood Sorcery tradition are obtained by having access to materials or teachers to impart the knowledge, and the expenditure of XP equal to twice the Ritual’s level (three times the Ritual’s level for Abyss Mysticism).  If you do not meet one of the previous two requirements you may not purchase Rituals nor advance out-of-Clan Blood Sorcery until you obtain such access.
 
@@ -506,7 +516,9 @@ You may Project to the location of a being or object, using the following Diffic
 
 You may 'let someone into your mind'. By agreeing to do so, you make a Willpower roll, difficulty 7. Every success you acquire lowers the other person's Difficulty on their Telepathy roll by 1. Minimum 2.  You may not be coerced or Dominated (et al) into this consent in any way.  If the Telepath takes advantage of this mechanic, they can only see what the person’s mind allows, but all that the Telepath sees will be 100% accurate reflections of the true events that person experienced not withstanding memory alteration or erasure.
 
-**Vicissitude**: Up to 7 + Medicine Dots worth of the Vicissitude Modifications Merit can be granted by  users of the Discipline.  The modifications mentioned in that Merit are not the only ones possible.  PCs do not start with this extra knowledge not found under the Merit; it must be gained through experimentation or granted to you by Elders in the know.  See the House Rules stand-alone document entitled “Vicissitude Modifications” for elucidation.
+**Vicissitude**: Up to 7 + Medicine Dots worth of the Vicissitude Modifications Merit can be granted by  users of the Discipline.  The modifications mentioned in that Merit are not the only ones possible.  PCs do not start with this extra knowledge not found under the Merit; it must be gained through experimentation or granted to you by Elders in the know.  See the House Rules stand-alone document entitled “Vicissitude Modifications” for elucidation. <u>If you have the Eidetic Memory Merit, and you have gotten a good look from multiple angles with your own senses (Mundane or Supernatural), you may replicate someone’s appearance using an Intelligence + Medicine roll Difficulty 6.</u>
+
+<u>**Horrid Form:** When activated, this power lasts until loss of consciousness, torpor, magical cancellation, until the user dismisses it, or until the next dawn.  The Attribute bonuses both exceed Generational maxima and stack with Blood Buffing.  All unarmed damage while in this form is Lethal.</u>
 
 **Spirit’s Touch:** The following Difficulties shall be used:
 
@@ -538,11 +550,19 @@ You may 'let someone into your mind'. By agreeing to do so, you make a Willpower
 
 **Divination 1 (Hunters Hunted 2):** The entire text is stricken, and the power now provides a +3 on Initiative Rolls for One Hour per Success achieved.
 
-**Hacktivism, Technomancy, Technological Rituals, Ect:** Carna doesn’t happen until 1998, so anything she created, and all derivations of and from her work don’t yet exist.  The Path of Technomancy and all Paths and Rituals having to do with computers, networking and computational encryption do not yet exist.
+**Hacktivism, Technomancy, Technological Rituals, Ect:** Carna doesn’t happen until 1998, so anything she created, and all derivations of and from her work don’t yet exist.  The Path of Technomancy and all Paths and Rituals having to do with computers, networking and computational encryption do not yet exist<u>, nor can they be incepted</u>.
 
 **Path of the Focused Mind and Directing Ahriman’s Lance** do not apply to Reflexive Rolls.
 
-**All Mind and Emotional Control Disciplines:** This includes Presence, Dominate, and all similar effects.  It is important to realize that when you fall under these effects, your character does not realize it, as this would make useless the powers themselves.  In no way shall a Characrer express that their hand is being forced, but instead, there shall be a focus on internalizing the effects, as though they arise from within the Self.  Failure to do this will be considered metagaming.
+**All Mind and Emotional Control Disciplines:** This includes Presence, Dominate, and all similar effects.  It is important to realize that when you fall under these effects, your character does not realize it, as this would make useless the powers themselves.  In no way shall a Character express that their hand is being forced, but instead, there shall be a focus on internalizing the effects, as though they arise from within the Self.  Failure to do this will be considered metagaming.
+
+<u>**All Transformational Disciplines:** When activated, these powers lasts until loss of consciousness, torpor, magical cancellation, until the user dismisses them, or until the next dawn.  These powers include, but are not limited to: Shape of the Beast, Mistform, Bloodform, Tenebrous Form, Black Metamorphosis, Skin of the Adder, Form of the Cobra, Horrid Form, and all similar powers.</u>
+
+<u>**Scorpion’s Touch:**  The first paragraph of the System portion of this power refers to a direct, unarmed, hand-to-hand attack with poisonous blood welled up from the vampire’s pores.  Clenched opponents are automatically hit.  The Blood spent in this attack is the number of points converted to poison and this blood must be spent at the time of the attack, and is thus limited by Generational Maxima as well as the user’s current Stamina, which means the lower of the two numbers is what the user is limited by.  If this attack misses, then the blood loses all supernatural properties as well as sympathies useful for Blood Sorcery, and just makes a mess.</u>
+
+<u>When using this power to stave off being fed from, or Diablerie, this poison stays within the Kindred’s body for a scene and is always the first blood to be consumed by would be drinkers or harvesters.  The user may build up however much poison within her as she likes over multiple activations, however, it takes up the Blood Pool of the user on a one to one basis.  Example: Deadly Dan is 7th Generation and uses this mechanic to store 5 points of poison in his body; he thus now has 15 vitae and 5 points of poison in his body totaling 20.  This poison becomes harmless if it exits the user’s body unless it is drunk by another directly from the user’s body, in which case it has its stated deleterious effects, which are entirely dependent on how much the hapless drinker drank.  This poison has no other uses and dissipates harmlessly at the end of the scene and does not restore any Blood Points to the user.</u>
+
+<u>When this power is employed to coat a weapon, its potency lasts for a scene, and the weapon can hold a number of poisoned blood points equal to twice its Damage Bonus and this amount is not limited by other factors.  A weapon can be completely coated to its full capacity over multiple rounds, if necessary.  The user of this power has a very tiny, limited control over this poison and may choose how many blood points are delivered once a successful strike has been delivered and actually does damage after the victim soaks.</u>
 
 ### 16. Minor Adjudications
 Where the RAW contradicts itself, the Administrator will make a ruling and add it to this lexicon:
@@ -563,6 +583,8 @@ Where the RAW contradicts itself, the Administrator will make a ruling and add i
 - You may choose to forego a roll and suffer the consequences for its failure.  Among other things, this is to more easily allow Players to switch from Humanity to a Path, or between Paths of Enlightenment.
 - As written in RAW, normal animals won’t approach Vampires who don’t have Animal Ken or Animalism, thus, animals can detect vampires. This sense has a 6 meter range and is easily defeated by any Discipline, Ritual, Merit, etc, et al, that hides vampires or their natures from mortals in any way.
 - In the “Spending Blood Pool” section of the V20 core, on page 269, there is a section that deals with “Blushing” though that word isn’t specifically used.  The system is slightly vague, so this clarification shall apply: Each individual trait you wish to replicate for a scene costs the specified amount of blood.  Eg, If you wanted to be warm, have a heartbeat, and keep food down for a scene, you must pay that cost three times.
+- <u>Traits, in and of themselves, may not rise above 10.  This does not restrict bonus dice from increasing the Trait pool you might roll.  Example: CheeseMonsterX uses Blood of Potency to reduce his Generation to 4, Blood Buffs himself to 10 Strength, and activates Horrid Form.  His Strength is still just 10, however, he also has Potence 2, so he would roll 12 Dice of Strength if called upon.</u>
+- <u>If you have at least 3 Dots of Medicine, you may attempt to improve someone’s Appearance by 1, and only 1.  You may only grant this bonus once.  The roll is Intelligence + Medicine, Difficulty 6, and you must obtain successes equal to twice the number of starting Appearance Dots of your patient.  Example: Vera Vanity wants to go from Appearance 3 to 4 using this mechanic.  Her surgeon must make the roll above and score 6 successes.  Failure results in no change.  A Botch results in permanently losing a number of Appearance dots equal to the Botch.</u>
 
 
 ### 17. On the Blood Bond
@@ -657,27 +679,27 @@ Rituals and Paths labeled as Anarch Sorcery are stolen from other Blood Sorcery 
 
 **Setite Sorcery**: Where RAW does not specify what systems are used to invoke these powers, this branch of Blood Sorcery shall use the system described for Thaumaturgy and its Rituals located on pg. 213 & 230 of the V20 Core, respectively.
 
-<u>As Setite Sorcery is, like far too many things in V20, ill defined, and this section shall serve to correct that oversight, understatement intended.</u>
+As Setite Sorcery is, like far too many things in V20, ill defined, and this section shall serve to correct that oversight, understatement intended.
 
 <u>*Setite Sorcery Paths:  *</u>
 
-<u>Setite Blood Sorcerers shall have access to all the Paths listed in the V20 Guide, but note that there is a title error on two of them.  The Akhu and Wanga titles should be transposed in the Guide.   Also available to Setite Blood Sorcerers are the Paths of Weather Control, Levinbolt, Hands of Destruction, Corruption, Curses, Father's Vengeance, Evil Eye, Blood, Revelations of Eden and Revelations of the Duat.</u>
+Setite Blood Sorcerers shall have access to all the Paths listed in the V20 Guide, but note that there is a title error on two of them.  The Akhu and Wanga titles should be transposed in the Guide.   Also available to Setite Blood Sorcerers are the Paths of Weather Control, Levinbolt, Hands of Destruction, Corruption, Curses, Father's Vengeance, Evil Eye, Blood, Revelations of Eden and Revelations of the Duat.
 
-<u>*Setite Sorcery Rituals:*</u>
+*Setite Sorcery Rituals:*
 
-<u>Setite Blood Sorcerers have access to all the Rituals specified in the V20 Guide as well as the following:</u>
+Setite Blood Sorcerers have access to all the Rituals specified in the V20 Guide as well as the following:
 
-<u>Level 1: Bind the Accusing Tongue, Devil’s Touch, Domino of Life, Encrypt Missive, Engaging the Vessel of Transference, Impressive Visage, Incantation of the Shepherd, Learning the Mind Enslumbered, Widow’s Spite</u>
+Level 1: Bind the Accusing Tongue, Devil’s Touch, Domino of Life, Encrypt Missive, Engaging the Vessel of Transference, Impressive Visage, Incantation of the Shepherd, Learning the Mind Enslumbered, Widow’s Spite
 
-<u>Level 2: Craft Bloodstone, Donning the Mask of Shadows, Eyes of Babel, Eyes of the Nighthawk, Hidden Haven, Illusion of Peaceful Death, The Jinx, Machine Blitz, Oinos of Dionysus, Vitality Hack</u>
+Level 2: Craft Bloodstone, Donning the Mask of Shadows, Eyes of Babel, Eyes of the Nighthawk, Hidden Haven, Illusion of Peaceful Death, The Jinx, Machine Blitz, Oinos of Dionysus, Vitality Hack
 
-<u>Level 3: A Touch of Nightshade, Amulet of the Mnemosyne, The Bottled Voice, Dante’s Urban Legend, Incorporeal Passage, Inscription, Mirror of Second Sight, Sanguine Trail, Translocation of the Vessel</u>
+Level 3: A Touch of Nightshade, Amulet of the Mnemosyne, The Bottled Voice, Dante’s Urban Legend, Incorporeal Passage, Inscription, Mirror of Second Sight, Sanguine Trail, Translocation of the Vessel
 
-<u>Level 4: Bone of Lies, The Curse Belated, Heart of Stone, Mirror Walk, Scry, Stolen Kisses</u>
+Level 4: Bone of Lies, The Curse Belated, Heart of Stone, Mirror Walk, Scry, Stolen Kisses
 
-<u>Level 5: Abandon the Fetters, Blood Contract, Cobra’s Favor</u>
+Level 5: Abandon the Fetters, Blood Contract, Cobra’s Favor
 
-<u>Setite Blood Sorcerers can incept new Rituals using the same system elsewhere in this document.</u>
+Setite Blood Sorcerers can incept new Rituals using the same system elsewhere in this document.
 
 **The Revelations of Eden:** This Setite Sorcery Path’s permanent effects now last two Real Time weeks and the Rating/Permanent Dot then returns.
 
@@ -760,6 +782,10 @@ Thoughts and Advice from your Storyteller: The approval process will be more or 
 **Combo Disciplines:** Necromancy is separate from the other Blood Sorceries for these purposes and has specific Combos that require it.  (Lore of the Bloodlines pages 49 and 71).  All the other Blood Sorceries meet the “Thaumaturgy” requirement listed in the Combo’s Requirements unless it specifies a specific Path; in which case you must have that Path or your Tradition’s equivalent.
 
 **Thaumaturgical Sight:** This Combo Discipline does not automatically reveal Thaumaturgically hidden beings.  Use Seeing the Unseen in this document.
+
+<u>**Calling the Hungry Shade:** If Successful, the Shade is under the caster’s control.  The controlling caster for group Rituals must be decided when the Ritual is begun.  Shades remain until destroyed, or dismissed by the caster, who must be conscious to do so.  After the controlling caster falls to daysleep, (s)he must make a control roll to keep the Shade under control for the day.  This roll is the same as if the controlling caster performed the Ritual him/herself.  The controlling caster must make a separate roll for each Shade they wish to keep under control.  The controlling caster may spend a Willpower for a success on these rolls.  (System Changed Slightly for this Update.)</u>
+
+<u>**Revelations of Midgard 5:** Apep’s Transformation: This now activates as though it was a normal level 5 power under the rules of this Path, or what it defaults to under this document.  Its cost is 3 Blood, all Physical Attributes increase by 4, Social Attributes drop to Zero, Strength can be used for Intimidation Rolls, All Damage Rolls gain a 2 Dice Bonus and Unarmed Attacks to Lethal Damage.  This power’s Attribute Bonuses exceed Generational Maxima and stacks with Blood Buffing.</u>
 
 **Calling the Hungry Shade:** The casting time for this Ritual is 3 hours.  If Successful, the Shade is under the caster’s control.  The controlling caster for group Rituals must be decided when the Ritual is begun.  Shades remain until destroyed, or dismissed by the caster.  As the controlling caster falls to daysleep, (s)he must make a control roll to keep the Shade under control for the day, and the same roll when (s)he wakes for the evening.  This roll is the same as if the controlling caster performed the Ritual him/herself.  The controlling caster must make a separate roll for each Shade they wish to keep under control.  The controlling caster may spend a Willpower for a success on these rolls.
 

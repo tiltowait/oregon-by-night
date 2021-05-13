@@ -3,7 +3,7 @@
 
 ---
 
-?> **Updated 5/3/21.** Everything new is <u>underlined</u>.
+?> **Updated 5/13/21.** Everything new is <u>underlined</u>.
 
 Although you may not be talented at the Tzimisce forms of Fleshcrafting and Bonecrafting, at some point you have been… modified into a more warlike form. Generally speaking, most modifications necessitate the purchase of the Flaw: Monstrous. As a rule, the Tzimisce make sufficient cosmetic alterations to ruin the looks of all their battle-ghouls, even those whose modifications are not in and of themselves hideous.  Those Modifications that don’t NECESSITATE this Flaw all have Identical Sentences attached to them.
 
@@ -130,10 +130,10 @@ This relocates your heart, for all the obvious reasons, to somewhere else in you
 
 * *(Venue Modification)*
 
-### <u>Heart of Bone (Variable)</u>
-<u>Your heart is protected by a sheath of cartilage and/or bone.  Each level of this Modification grants an additional die to soak all attempts to pierce your heart.  This includes but is not limited to staking and called combat shots.  You must possess Bonecraft to grant the 4th and 5th levels of this Modification.  Ghouls may only receive up to points in this Modification, and it costs them double.  This reflects the need to compensate for functional biology.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.</u>
+### Heart of Bone (Variable)
+Your heart is protected by a sheath of cartilage and/or bone.  Each level of this Modification grants an additional die to soak all attempts to pierce your heart.  This includes but is not limited to staking and called combat shots.  You must possess Bonecraft to grant the 4th and 5th levels of this Modification.  Ghouls may only receive up to points in this Modification, and it costs them double.  This reflects the need to compensate for functional biology.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
-* <u>*(Venue Modification)*</u>
+* *(Venue Modification)*
 
 ### Blush of Health (2pt. Merit)
 You look more hale and healthy in appearance than other vampires, allowing you to blend with human society much more easily. You still retain the color of a living mortal, and your skin feels only slightly cool to the touch.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
@@ -149,6 +149,9 @@ You have the capacity to eat food and even savor its taste. While you cannot der
 Although vampires are typically immune to mortal drugs and poisons, there are supernatural venoms that can affect Kindred physiology. A Ravnos with this Merit is immune to all forms of drugs and poisons, including the venoms and toxins of supernatural creatures or those created by supernatural powers.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
 * *(Lore of the Clans pg 181)*
+
+### <u>Sturdy (4pt. Merit)</u>
+<u>You gain an additional Bruised Health Level and all your Wound Penalties are reduced by 1 Die.  This does not result in any outward physical transformation. This Merit costs double for Mortals and Ghouls. This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence. This Merit is from Dark Ages, but is not cited here because of significant changes from the base system.</u>
 
 ## Canon Flaws
 
