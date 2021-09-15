@@ -3,7 +3,7 @@
 Welcome to Oregon by Night! This Venue takes place in the entire State of Oregon, and it is currently 1981.  You may play the 13 Clans, Caitiff, Panders, Ghouls, Kinfolk, Hedge Mages (See Hunters Hunted II), and Mortals. Please do not ask for exceptions.
 
 > ## Important Links
-> * **[House Rules](/house-rules)** — Required reading for all players
+> * **[House Rules](/House_Rules_and_Character_Creation.md)** - Required reading for all players
 > * **[Vicissitude Modifications](/vicissitude-mods)**
 > * **[The High Cost of Dying](high-cost-of-dying.md)** — Assamite contracts and promotions in the World of Darkness
 
