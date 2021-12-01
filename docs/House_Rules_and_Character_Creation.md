@@ -1761,12 +1761,14 @@ to their Unbuffed values.</u>
 **All Powers That Result In Permanent Dot Loss:** With the exception of
 The Revelations of Eden directly above this entry, these powers now last
 One Year and One Day, and the Dot returns to the victim. <u>Instances of
-these powers are limited to the number of Dots the User has in Occult.  
+these powers are limited to the number of Dots the User has in Occult.
+ 
 Example: Meenee the Vampire has 5 Occult, and has taken away 1 Dot from 
 Kim, 2 Dots from Allen, 1 Dot from Dan, and 1 Dot from Jerry.  He has 
 reached his limit and to use one of these powers on Karen he must 
 sacrifice one of the other currently operating effects.  He may choose 
 which one with an act of Will and this does not require a roll or an action.  
+
 These powers leave behind arcane traces which may be tracked with Auspex or 
 similar powers.  The difficulty is 9 (7 for Thaumaturgical Sight) on a roll 
 of Occult+Auspex (or Thaumaturgy+Occult if using Thaumaturgical Sight), 
@@ -1935,7 +1937,7 @@ that don’t resemble anything already in RAW will, of course, be much more
 difficult to adjudicate. Your patience is requested.
 
 
-### 25. Daniel’s Boons
+### **25. Daniel’s Boons**
 Should some of you recognize this system, it’s lifted from the BNS LARP book as 
 it better reflects the feel and tone that I wish to strike. It is identical to 
 that system, so if you wish to read it there, you can. Boons break apart and 
