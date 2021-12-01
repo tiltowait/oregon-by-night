@@ -3,7 +3,7 @@
 
 ---
 
-?> **Updated 5/13/21.** Everything new is <u>underlined</u>.
+?> **Updated 11/26/21.** Everything new is <u>underlined</u>.
 
 Although you may not be talented at the Tzimisce forms of Fleshcrafting and Bonecrafting, at some point you have been… modified into a more warlike form. Generally speaking, most modifications necessitate the purchase of the Flaw: Monstrous. As a rule, the Tzimisce make sufficient cosmetic alterations to ruin the looks of all their battle-ghouls, even those whose modifications are not in and of themselves hideous. Those Modifications that don’t NECESSITATE this Flaw all have Identical Sentences attached to them.
 
@@ -56,6 +56,10 @@ Your bones have been hollowed and flaps of foreign skin have been grafted onto y
 Your appearance is sufficiently thug-like to inspire fear (or at least disquiet) in those who see you. While you’re not necessarily ugly, you do radiate a quiet men-ace, to the point where people cross the street to avoid passing near you. All Intimidation rolls against those who have not demonstrated their physical superiority to you are at -1 difficulty. This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
 * *(Core Rulebook pg 480)*
+
+### Enchanting Voice (2pt)
+There is something about your voice that others cannot ignore. When you command, they are cowed. When you seduce, they swoon. Whether thundering, soothing, persuading, or simply talking, your voice commands attention. The difficulties of all rolls involving the use of the voice to persuade, charm, or command are reduced by two.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
+* *(V20 Core, pg 480)*
 
 ### Friendly Face (1 pt)
 You have a face that reminds everyone of someone, to the point where strangers are inclined to be well-inclined toward you because of it. The effect doesn’t fade even if you explain the “mistake,” leaving you at -1 difficulty on all appropriate Social-based rolls (yes for Seduction, no for Intimidation, for example) when a stranger is involved. This Merit only functions on a first meeting. This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
@@ -117,21 +121,21 @@ Your skin is much tougher than usual, possibly like that of a rhino or a lizard.
 
 * *(Venue Modification)*
 
-### Claws (1-3 pts)
- 1 Point for Claws that turn your unarmed strikes into lethal +1, additional points add 1 Lethal. 1 Point to Make them Retractable thus removing the Monstrous Flaw required for this modification only, this may only be done for 1 Point Claws.
+### Claws (1-3 pts):  
+1 Point for Claws that turn your unarmed strikes into Lethal +1, additional points add 1 Lethal.  1 Point to Make them Retractable thus removing the Monstrous Flaw required for this modification only, this may only be done for 1 Point Claws.  The forgoing requires Malleable Visage to perform on the self, and Flesh Craft to perform on others.  Claws that inflict Lethal +3 Require Bonecraft, cannot be hidden, are a Breach of the Masquerade, and require you to take Monstrous.
 
 * *(Venue Modification)*
 
 ### Additional Blood Pool (Variable)
 Each point you put into this Modification grants you 1 Additional Blood Pool for vitae. For ghouls, each Additional Blood Pool costs 2 points. This reflects the need to worry about functional anatomy. This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
-### Relocated Heart (Variable)
+### Relocated Heart (1 or 3)
 This relocates your heart, for all the obvious reasons, to somewhere else in your body, you must declare on your sheet in a convenient place and upload it to the Staff upon your decision. This modification costs 1 point for Vampires, and 3 points for everything else. This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
 * *(Venue Modification)*
 
-### Heart of Bone (Variable)
-Your heart is protected by a sheath of cartilage and/or bone. Each level of this Modification grants an additional die to soak all attempts to pierce your heart. This includes but is not limited to staking and called combat shots. You must possess Bonecraft to grant the 4th and 5th levels of this Modification. Ghouls may only receive up to points in this Modification, and it costs them double. This reflects the need to compensate for functional biology. This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
+### Heart of Bone (1-5)
+Your heart is protected by a sheath of cartilage and/or bone. Each level of this Modification grants an additional die to soak all attempts to pierce your heart. This includes but is not limited to staking and called combat shots. You must possess Bonecraft to grant the 4th and 5th levels of this Modification. Ghouls may only receive up to 2 levels in this Modification, and it costs them double. This reflects the need to compensate for functional biology. This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
 * *(Venue Modification)*
 
@@ -150,8 +154,23 @@ Although vampires are typically immune to mortal drugs and poisons, there are su
 
 * *(Lore of the Clans pg 181)*
 
-### <u>Sturdy (4pt. Merit)</u>
-<u>You gain an additional Bruised Health Level and all your Wound Penalties are reduced by 1 Die. This does not result in any outward physical transformation. This Merit costs double for Mortals and Ghouls. This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence. This Merit is from Dark Ages, but is not cited here because of significant changes from the base system.</u>
+### Sturdy (4pt. Merit)
+You gain an additional Bruised Health Level and all your Wound Penalties are reduced by 1 Die. This does not result in any outward physical transformation. This Merit costs double for Mortals and Ghouls. This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence. This Merit is from Dark Ages, but is not cited here because of significant changes from the base system.
+
+### <u>Alien Perfection (2)</u>
+<u>You possess beauty unsettling in its perfection. People stand in awe of your flawless form, while inexplicable nausea subconsciously creeps up. The difficulty of any Appearance roll is reduced by three. A Stamina roll is required by anyone in your presence for longer than one scene, if this is the first time they’ve encountered you. Failure drives them away from you with a sickness wracking their body.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.</u>
+
+* *(Lore of the Bloodlines p59)*
+
+### <u>Drug Resistance (2)</u>
+<u>You are unusually resistant to alcohol, narcotics, and similar addictive substances. You can pretend to be far more under the influence than you are in order to take advantage of an opponent. All rolls to resist the effects of such substances are at -2 difficulty.  This Modification cannot be granted to Vampires or any other undead.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.</u>
+
+* *(Lore of the Clans p67)*
+
+### <u>Disease Resistance (2)</u>
+<u>You are unusually resistant to any and all infections by pathogens.  As well, you are able to fight off any and all other types of “diseases”, like cancer, Alzheimer's, Kuru, Lou Gherig’s, Epilepsy, etc, et al.  This does not extend to Derangements.  You can pretend to be far more under the influence than you are in order to take advantage of an opponent. All rolls to resist the effects of such things are at -2 difficulty.  This Modification cannot be granted to Vampires or any other undead.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.</u>
+
+* *(Venue Modification)*
 
 ## Canon Flaws
 
