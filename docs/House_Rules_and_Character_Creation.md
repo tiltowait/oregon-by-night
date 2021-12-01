@@ -1773,7 +1773,7 @@ of Occult+Auspex (or Thaumaturgy+Occult if using Thaumaturgical Sight),
 tracking takes 1 night per attempt, 5 successes need be accumulated over an 
 unlimited number of nights, botches do not subtract from previous successes 
 gained.  This information gives the identity of the caster and his rough 
-location (to within a Scene’s definition).
+location (to within a Scene’s definition).</u>
 
 **Wards** cannot be bypassed through planar travel, transformation,
 teleportation, possession or other such methods. If you are on the
