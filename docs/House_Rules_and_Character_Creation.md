@@ -1,7 +1,7 @@
 # **Oregon by Night**
 ## **House Rules and Character Creation**
 
-?> **Updated 9/15/21.** Everything new is <u>underlined</u>.
+?> **Updated 11/26/21.** Everything new is <u>underlined</u>.
 
 ### **i. Rule the First**
 
@@ -10,10 +10,11 @@ posted in the house rules channel. I once felt comfortable recommending
 software for PDFs, however, due to recent events I no longer can. I've
 been using Foxit Reader and it's been doing well for me\...thus far. Do
 your best and use best practices. Always uncheck/refuse all additional
-software when installing whatever solution you choose.
-
+software when installing whatever solution you choose.\
+\
 That said, the sheet has shown *massive* incompatibilities with any web
 browser-based .pdf viewer.\
+
 Don't open it in Chrome. Don't open it in Microsoft Edge. Don't open it
 in Safari. Don't open it in Firefox. Yet get the picture.
 
@@ -47,14 +48,13 @@ in which everyone can play while feeling that things are fair, even
 though the World of Darkness itself is not Balanced in any "all
 characters are equal" sort of way. It is a difficult set of concepts to
 crystallize into text in a precise manner. The Administrator asks for
-your trust, and any benefit of the doubt.
-
+your trust, and any benefit of the doubt.\
+\
 The universe of this venue possesses a physical reality, it exists in a
 'discoverable' state and events leave behind the evidence that we have
 discovered or can discover through science. The Big Bang occurred, stars
 and planets went through accretion. Life formed, or arrived (?) here,
-and evolved into its myriad forms.
-
+and evolved into its myriad forms.\
 \
 As life and consciousness arose, so with them the spirits, souls, and
 the various spiritual realms surrounding our little place in the
@@ -65,22 +65,22 @@ does not exist in this venue: Magick died in \~1000 A.D\... Forever. The
 various mortal magical organizations still exist, though they utilize
 the various Numina and Hedge Magics allowed in this Venue. This is all
 generalization, and anything I may have misplaced here or gotten wrong
-should be glossed over for the abstract beast at which I'm stabbing.
-
+should be glossed over for the abstract beast at which I'm stabbing.\
+\
 Our Venue takes place in the entire state of Oregon, and it is currently
-1981.
-
-### **iv. Book List**
-
+1981.\
+\
+### **iv. Book List**\
+\
 V20 Core, the V20 Guide, and all the books mentioned therein, plus the
-V20 Dark Ages *Tome of Secrets*.
-
+V20 Dark Ages *Tome of Secrets*.\
+\
 This will likely change as real time passes and I better see what I wish
 to exclude. The V20 Guide is an open source document provided in the
 same channel that you obtained this document from. Do not rely on
 material listed by wikis or other online sources; when in doubt, verify
-content in an actual book.
-
+content in an actual book.\
+\
 **Coming Soon:**
 
 ## **Character Creation**
@@ -114,7 +114,7 @@ Rule 19), which are allowed. Kinfolk use their appropriate entry in W20.
 Ghouls *may* use "In the Master's Footsteps", found on pg. 121 of
 *Ghouls and Revenants,* if they wish*.* Clan signature Disciplines (ex.
 Vicissitude, Protean, any Blood Sorcery) are rarely taught, but can be
-at regnant\'s discretion. Additionally, pg. 120 of *Ghouls and
+at regnant's discretion. Additionally, pg. 120 of *Ghouls and
 Revenants* describes generational limits for Discipline dots.
 
 You cannot play, or become during play, a Viking.
@@ -139,12 +139,12 @@ the new Caitiff-only Merit: Echoes of Faded Glory (see Merits & Flaws)
 ### **3. Blood Sorcery**
 
 At Character Creation, Rituals may be obtained by spending Freebie
-Points equal to their XP cost\
+Points equal to their XP cost
 (level × 2 or × 3, as stated in House Rules and Clarifications § 18). If
 your Clan or Sorcery entry states that members or users usually start on
 a particular Path of Sorcery, you must start on that Path.
 
-\
+
 If you are a Camarilla Tremere, the first level 5 Ritual you must take
 is Enchant Talisman.
 
@@ -240,7 +240,7 @@ to be Keepers, Hounds and Harpies etc. These are titles you must buy or
 earn in play, nothing comes for free.
 
 If you were accidentally Embraced, Embraced yourself, or are a
-Shovelhead, you are 13^th^ Generation unless you include diablerie or
+Shovelhead, you are 13^th Generation unless you include diablerie or
 some other exceptional reason why this isn't the case in your Backstory.
 
 Spiritus, because of how it is obtained, and the historicity of its
@@ -293,12 +293,12 @@ possible, and avoid it entirely whenever possible.
 
 ### **2. Stay in Your Lane**
 
-Don't "godmod". ei -- Don't assume any action you take via premise,
+Don't "godmod". i.e. -- Don't assume any action you take via premise,
 especially to other PCs.
 
-\
+
 If you would want another to make a roll to do it to you, you need to
-make a roll to do it to another.\
+make a roll to do it to another.
 Do not make changes to the physical world around you through narrative
 text that your character isn't able to effect with their own abilities.
 Do not presume that NPCs around you take actions through premise. These
@@ -320,25 +320,25 @@ backgrounds, et cetera) do not require said permission. Players who
 initiate attacks of this kind, in doing so, automatically consent to
 retaliation -- which can include escalation to anything up to (and
 including) Final Death. Escalation must be at least vaguely reasonable
-("Bill insulted the color of my shoes, so I diablerized him," isn\'t
+("Bill insulted the color of my shoes, so I diablerized him," isn't
 going to fly), with final adjudication in cases where players cannot
 agree going to an ST. PvP that ends in a fatality locks the killer from
 penalty-free retirement for a month, to allow interested parties to
-react.\
-\
+react.
+
 Example 1 : Joe the Elder is feeling bored, so he wants to go abduct
-Matt the Anarch off the riverfront and blood-bond him.\
-\
-Joe may not, without Matt\'s consent.\
-\
+Matt the Anarch off the riverfront and blood-bond him.
+
+Joe may not, without Matt's consent.
+
 Example 2: Bob the Ventrue was sleighted last Elysium by Carmilla the
 Brjuah, and now he wants to send a message. So, he poisons a few members
-of her herd and sends a sternly-worded letter to mind her place.\
-\
-Bob does not need to obtain Carmilla\'s consent to attack her herd, but
+of her herd and sends a sternly-worded letter to mind her place.
+
+Bob does not need to obtain Carmilla's consent to attack her herd, but
 Carmilla now has free reign to retaliate -- including by kicking in
-Bob\'s door, stake in hand.\
-\
+Bob's door, stake in hand.
+
 It goes without saying that this does not extend to allowing free reign
 on crossing certain lines (eg: torture, rape, et cetera).
 
@@ -419,9 +419,9 @@ your character's history, and do not involve yourself in any central or
 pivotal way with those events. Only peripheral association will be
 allowed.
 
-### **9. Metagaming and Anonymity**\
+### **9. Metagaming and Anonymity**
 If you feel you are about to undertake controversial actions and want to
-prevent all possibility of metagaming, you may, at the Narrator\'s
+prevent all possibility of metagaming, you may, at the Narrator's
 discretion, ask for anonymity. The revelatory actions will be screened
 through a Narrator, who will also make all your rolls. A large, extra
 dose of cooperation on your part will be mandatory, and if you are
@@ -459,7 +459,21 @@ bed out of sleep.
 Pg. 311 of V20 Core; Effects of Humanity: the second bullet point is
 stricken entirely. Humanity does not affect the number of dice from your
 Virtues that you roll under any circumstances. This same rule applies to
-a low Path rating's effect on Virtue rolls.
+a low Path rating's effect on Virtue rolls. <u>On Page 312 of the V20 Core, the chart labeled “Hierarchy of Sin – Humanity” contains several flagrant moral failings.  To correct this, the following Chart Shall be used:
+-   **10 Selfish thoughts**
+-   **9  Minor selfish acts**
+-   **8  Intentional property damage**
+-   **7  Theft**
+-   **6  Accidental violation (drinking a vessel dry out of starvation)
+-   **5  Injury to another (accidental or otherwise, does not include feeding that leaves the Prey Conscious)**
+-   **4  Impassioned violation (manslaughter, killing a vessel in frenzy)
+-   **3  Planned violation (outright murder, savored exsanguination)**
+-   **2  Casual violation (thoughtless killing, feeding past satiation)**
+-   **1  Utter perversion or heinous acts**
+
+Note: Narrators can adjust the difficulty of degeneration checks to reflect 
+situational context such as "self defense". </u>
+
 
 -   At 3 Humanity, expect for the vast majority of people to shun you on
     sight, to make Social rolls to overcome this, and for Hunters and
@@ -502,9 +516,9 @@ opposed roll with Perception + Awareness vs. the vampire's Humanity + 3
 Dice (in other words, this roll *cannot* be made without Awareness).
 
 Vampires (and Ghouls) have a much easier time recognizing each other. If
-the detectee is apparent,\
-the detector rolls Perception + Alertness/Awareness, and the detectee
-rolls Humanity - 3 Dice.\
+the detectee is not 'hidden', the detector rolls Perception + Alertness/Awareness, 
+and the detectee rolls Humanity - 3 Dice.
+
 Should the detectee be concealed, the detector instead rolls Perception
 + Awareness, or just Perception if they have no Awareness.
 
@@ -702,7 +716,8 @@ granted an exception under unique circumstances.
 ### **10. Vitae**
 
 The taste of vampire blood cannot *ever* be disguised or altered in any
-way, manner, shape, or form.\
+way, manner, shape, or form.
+
 All vampires will recognize it as such at the first taste. Mortals will
 describe it as an unidentifiable but exquisite flavor. A vampire, ghoul
 or previously exposed mortal may detect the faintest trace of vampire
@@ -753,7 +768,7 @@ Ghouls and Revenants use the V20 Core Experience Chart on page 507,
 instead of G&R's methodology.
 
 Creating a ghoul requires the mortal be fed an entire Blood Point.
-Increasing a ghoul\'s Blood Pool takes an entire Blood Point as well.
+Increasing a ghoul's Blood Pool takes an entire Blood Point as well.
 Causing, maintaining or advancing a Blood Bond, however, only require a
 few drops of blood and not a full Blood Point.
 
@@ -1241,7 +1256,7 @@ following Difficulties:
 this power, you must gain more successes on a resisted roll using your
 Perception + Awareness vs the telepath's Manipulation + Subterfuge.
 
-You may \'let someone into your mind\'. By agreeing to do so, you make a
+You may 'let someone into your mind'. By agreeing to do so, you make a
 Willpower roll, difficulty 7. Every success you acquire lowers the other
 person\'s Difficulty on their Telepathy roll by 1. Minimum 2. You may
 not be coerced or Dominated (et al) into this consent in any way. If the
@@ -1277,8 +1292,9 @@ while in this form is Lethal.
 * **9:** Less than a millenium
 * **10:** Less than 13.8 Billion Years
 
-The text for the 5^th^ Success is stricken and now reads: 5 Successes --
-This provides anything you want to know regarding the object's usage
+The text for the 5^th Success is stricken and now reads:\
+-	5 Successes\
+-	This provides anything you want to know regarding the object's usage
 history in connection with it's previous owner. Objects do not contain
 information about events they weren't used for or during. Only very
 scant visual information is gained, enough for a positive ID on the
@@ -1297,9 +1313,9 @@ decay to the Dominator's natural Generation once the Potency effect
 ends. When this happens, any Dominate effects upon those of lower
 Generation than the Dominator immediately end.
 
-You may \'let someone into your mind\'. By agreeing to do so, you make a
+You may 'let someone into your mind'. By agreeing to do so, you make a
 Willpower roll, difficulty 7. Every success you acquire lowers the other
-person\'s Difficulty on their Dominate roll by 1, minimum 2. You may not
+person's Difficulty on their Dominate roll by 1, minimum 2. You may not
 be coerced or Dominated (et al) into this consent in any way. There is
 no way to ensure that the Dominator will only implant or remove that
 which you agreed upon. Caveat Emptor.
@@ -1437,10 +1453,10 @@ and add it to this lexicon:
     state in which they were Embraced as possible. A simple mechanic
     involves considering how many health levels of damage a character
     sustained for a given change. If the change causes no appreciable
-    damage -- shaving, cutting one\'s hair, piercing a body part,
-    getting a tattoo -- the vampire\'s body eliminates the change during
+    damage -- shaving, cutting one's hair, piercing a body part,
+    getting a tattoo -- the vampire's body eliminates the change during
     the day. Hair grows back, piercings push themselves out, tattoo ink
-    rises to the skin\'s surface, etc. This is why the Indelible Merit
+    rises to the skin's surface, etc. This is why the Indelible Merit
     exists.
 -   Fire Damage from non-fire sources (Burning Wrath, Burning Blade,
     etc) can be soaked with armor, and that armor is destroyed normally
@@ -1494,15 +1510,15 @@ feel about the vampire you're bound to. It is not to be ignored or taken
 lightly.
 
 At a third-level bond, attempting to do any of the following things
-invokes the mechanics listed on\
-pg. 36 of Ghouls and Revenants, which you must defeat in order to follow
-through: disobeying in any way, physically resisting, scheming against
-your regnant (with actions, words or thoughts), harming or destroying
-your regnant's property, relationships or interests, divulging your
-regnant's secrets, and attempting to directly harm your regnant
-mentally, socially, physically, economically or psychically. The
-Difficulty of the Extended Challenge is the number of drinks the Thrall
-has had from the Regnant up to a Maximum of 9.
+invokes the mechanics listed on pg. 36 of Ghouls and Revenants, which 
+you must defeat in order to follow through: disobeying in any way, 
+physically resisting, scheming against your regnant (with actions, 
+words or thoughts), harming or destroying your regnant's property, 
+relationships or interests, divulging your regnant's secrets, and 
+attempting to directly harm your regnant mentally, socially, physically, 
+economically or psychically. The Difficulty of the Extended Challenge is 
+the number of drinks the Thrall has had from the Regnant up to a Maximum 
+of 9.
 
 All mentions of a Bond being maintained by proximity, sight, or any sort
 of non-blood contact are stricken.
@@ -1612,10 +1628,10 @@ accuracy. You've probably GOT a copy of the Book of Nod.
 
 **Dot Five:**
 
-"Hey, Staff Member, do I know..."\
+"Hey, Staff Member, do I know\..."\
 "Yes."
 
-### 24\. Blood Sorcery
+### **24\. Blood Sorcery**
 
 (Thaumaturgy, Abyss Mysticism, Koldunism, Dur'An'Ki, Necromancy, etc)
 
@@ -1696,8 +1712,8 @@ As Setite Sorcery is, like far too many things in V20, ill defined, and
 this section shall serve to correct that oversight, understatement
 intended.
 
-Setite Sorcery Paths:\
-\
+**Setite Sorcery Paths:**
+
 Setite Blood Sorcerers shall have access to all the Paths listed in the
 V20 Guide, but note that there is a title error on two of them. The Akhu
 and Wanga titles should be transposed in the Guide. Also available to
@@ -1705,28 +1721,28 @@ Setite Blood Sorcerers are the Paths of Weather Control, Levinbolt,
 Hands of Destruction, Corruption, Curses, Father\'s Vengeance, Evil Eye,
 Blood, Revelations of Eden and Revelations of the Duat.
 
-Setite Sorcery Rituals:
+**Setite Sorcery Rituals:**
 
 Setite Blood Sorcerers have access to all the Rituals specified in the
 V20 Guide as well as the following:
 
-Level 1: Bind the Accusing Tongue, Devil's Touch, Domino of Life,
+-   Level 1: Bind the Accusing Tongue, Devil's Touch, Domino of Life,
 Encrypt Missive, Engaging the Vessel of Transference, Impressive Visage,
 Incantation of the Shepherd, Learning the Mind Enslumbered, Widow's
 Spite
 
-Level 2: Craft Bloodstone, Donning the Mask of Shadows, Eyes of Babel,
+-   Level 2: Craft Bloodstone, Donning the Mask of Shadows, Eyes of Babel,
 Eyes of the Nighthawk, Hidden Haven, Illusion of Peaceful Death, The
 Jinx, Machine Blitz, Oinos of Dionysus, Vitality Hack
 
-Level 3: A Touch of Nightshade, Amulet of the Mnemosyne, The Bottled
+-   Level 3: A Touch of Nightshade, Amulet of the Mnemosyne, The Bottled
 Voice, Dante's Urban Legend, Incorporeal Passage, Inscription, Mirror of
 Second Sight, Sanguine Trail, Translocation of the Vessel
 
-Level 4: Bone of Lies, The Curse Belated, Heart of Stone, Mirror Walk,
+-   Level 4: Bone of Lies, The Curse Belated, Heart of Stone, Mirror Walk,
 Scry, Stolen Kisses
 
-Level 5: Abandon the Fetters, Blood Contract, Cobra's Favor
+-   Level 5: Abandon the Fetters, Blood Contract, Cobra's Favor
 
 Setite Blood Sorcerers can incept new Rituals using the same system
 elsewhere in this document.
@@ -1735,9 +1751,29 @@ elsewhere in this document.
 effects now last two Real Time weeks and the Rating/Permanent Dot then
 returns.
 
+**Armor of Diamond Serenity (Level One Sadhana Ritual):** This Ritual, 
+and any Inceptions even remotely resembling it, does not apply it’s 
+Difficulty Reduction to any type of Blood Sorcery roll.  In addition, 
+if you are Blood Buffed when this Ritual, or any Inception even remotely 
+like it, takes effect upon you, all your Buffed Physical stats return 
+to their Unbuffed values.</u>
+
 **All Powers That Result In Permanent Dot Loss:** With the exception of
 The Revelations of Eden directly above this entry, these powers now last
-One Year and One Day, and the Dot returns to the victim.
+One Year and One Day, and the Dot returns to the victim. <u>Instances of
+these powers are limited to the number of Dots the User has in Occult.  
+Example: Meenee the Vampire has 5 Occult, and has taken away 1 Dot from 
+Kim, 2 Dots from Allen, 1 Dot from Dan, and 1 Dot from Jerry.  He has 
+reached his limit and to use one of these powers on Karen he must 
+sacrifice one of the other currently operating effects.  He may choose 
+which one with an act of Will and this does not require a roll or an action.  
+These powers leave behind arcane traces which may be tracked with Auspex or 
+similar powers.  The difficulty is 9 (7 for Thaumaturgical Sight) on a roll 
+of Occult+Auspex (or Thaumaturgy+Occult if using Thaumaturgical Sight), 
+tracking takes 1 night per attempt, 5 successes need be accumulated over an 
+unlimited number of nights, botches do not subtract from previous successes 
+gained.  This information gives the identity of the caster and his rough 
+location (to within a Scene’s definition).
 
 **Wards** cannot be bypassed through planar travel, transformation,
 teleportation, possession or other such methods. If you are on the
@@ -1767,6 +1803,10 @@ is (Dots) + 3.
 
 **Way of Sorrows (RotB p157):** To activate these powers, roll Charisma
 + Occult; Difficulty (Dots) + 3.
+
+<u>**Koldunic Sorcery (Black Hand p169, TOS p45):** Only the Kraina and 
+their Rituals trigger the Kraina’s madness in practitioners of Koldunism.  
+Ways and their Rites have no such effect.</u>
 
 **Dur'An'Ki**
 
@@ -1821,38 +1861,94 @@ Tremere Thaumaturgical Rituals except those listed below:
 * Nectar of the Bitter Rose
 * Ward vs Technology
 
-**Infusion of Khalif:** This Ritual is available to all Blood Sorcery Traditions and grants its mechanical effects to the user while employing her particular Tradition on all appropriate rolls.
+**Infusion of Khalif:** This Ritual is available to all Blood Sorcery 
+Traditions and grants its mechanical effects to the user while employing 
+her particular Tradition on all appropriate rolls.
 
 **Necromancy** does not cause Sequela (ToS p52) in this Venue.
 
 **Lifeless Tongues** lasts one Scene.
 
-**Vitreous Path 5, Night Cry:** The buff lasts for one scene, and the damage done by the offensive use of this power does One Aggravated Wound per success to each target. Example: The Player spends what is required for 2 targets and gets 4 successes, thus they both take 4 aggravated wounds.
+**Vitreous Path 5, Night Cry:** The buff lasts for one scene, and the 
+damage done by the offensive use of this power does One Aggravated Wound 
+per success to each target. Example: The Player spends what is required 
+for 2 targets and gets 4 successes, thus they both take 4 aggravated wounds.
 
-**Incepting Novel Rituals/Adapting Rituals From Other Traditions:** As stated in the Character Creation section, you must have 5 Dots in a Blood Sorcery Path and have one Ritual at each level to interact with these mechanics.
-
-Incepting or Adapting Rituals is a function of Downtime. To do either requires a variable number of successes for each Level: 10/15/20/25/30. The pool to roll is Intelligence + Occult. Once you acquire your successes, the Ritual is now recorded in a form of your choice that any Sorcerer from your Tradition may review and learn the Ritual on their own if you don’t choose to destroy the notes after learning it. Regardless, once you’ve codified the Ritual, you must then spend the appropriate amount of Experience Points to add it to your sheet like any other Ritual.
-
-Adapting secret Rituals from other Traditions requires you to have Occult 5 to know about them. These include, but aren’t limited to: Pavis of Foul Presence, From Marduk’s Throat, Eternal Mask, Nectar of the Bitter Rose, and so on.
-
-Thoughts and Advice from your Storyteller: The approval process will be more or less difficult depending on the scope and reach of your new Ritual. Replicating the effects of RAW Rituals already extant will almost certainly be approved. Those that are variations on Rituals extant that affect different creatures, things or powers should be pretty easy. Completely novel Rituals that don’t resemble anything already in RAW will, of course, be much more difficult to adjudicate. Your patience is requested.
-
-**Combo Disciplines:** Necromancy is separate from the other Blood Sorceries for these purposes and has specific Combos that require it. (Lore of the Bloodlines pages 49 and 71). All the other Blood Sorceries meet the “Thaumaturgy” requirement listed in the Combo’s Requirements unless it specifies a specific Path; in which case you must have that Path or your Tradition’s equivalent.
+**Combo Disciplines:** Necromancy is separate from the other Blood Sorceries 
+for these purposes and has specific Combos that require it. (Lore of the 
+Bloodlines pages 49 and 71). All the other Blood Sorceries meet the 
+“Thaumaturgy” requirement listed in the Combo’s Requirements unless it 
+specifies a specific Path; in which case you must have that Path or your 
+Tradition’s equivalent.
 
 **Thaumaturgical Sight:** This Combo Discipline does not automatically reveal Thaumaturgically hidden beings. Use Seeing the Unseen in this document.
 
-**Calling the Hungry Shade:** If Successful, the Shade is under the caster’s control. The controlling caster for group Rituals must be decided when the Ritual is begun. Shades remain until destroyed, or dismissed by the caster, who must be conscious to do so. After the controlling caster falls to daysleep, (s)he must make a control roll to keep the Shade under control for the day. This roll is the same as if the controlling caster performed the Ritual him/herself. The controlling caster must make a separate roll for each Shade they wish to keep under control. The controlling caster may spend a Willpower for a success on these rolls. (System Changed Slightly for this Update.)
+**Calling the Hungry Shade:** If Successful, the Shade is under the caster’s 
+control. The controlling caster for group Rituals must be decided when the 
+Ritual is begun. Shades remain until destroyed, or dismissed by the caster, 
+who must be conscious to do so. After the controlling caster falls to daysleep, 
+(s)he must make a control roll to keep the Shade under control for the day. 
+This roll is the same as if the controlling caster performed the Ritual 
+him/herself. The controlling caster must make a separate roll for each Shade 
+they wish to keep under control. The controlling caster may spend a Willpower 
+for a success on these rolls. (System Changed Slightly for this Update.)
 
-**Revelations of Midgard 5:** Apep’s Transformation: This now activates as though it was a normal level 5 power under the rules of this Path, or what it defaults to under this document. Its cost is 3 Blood, all Physical Attributes increase by 4, Social Attributes drop to Zero, Strength can be used for Intimidation Rolls, All Damage Rolls gain a 2 Dice Bonus and Unarmed Attacks to Lethal Damage. This power’s Attribute Bonuses exceed Generational Maxima and stacks with Blood Buffing.
+**Revelations of Midgard 5:** Apep’s Transformation: This now activates as 
+though it was a normal level 5 power under the rules of this Path, or what it 
+defaults to under this document. Its cost is 3 Blood, all Physical Attributes 
+increase by 4, Social Attributes drop to Zero, Strength can be used for 
+Intimidation Rolls, All Damage Rolls gain a 2 Dice Bonus and Unarmed Attacks 
+to Lethal Damage. This power’s Attribute Bonuses exceed Generational Maxima 
+and stacks with Blood Buffing.
 
-<u>**Mirror of Second Sight**: The items made by this Ritual can be used by others.</u>
+**Mirror of Second Sight**: The items made by this Ritual can be used by others.
 
-### 21. Daniel’s Boons
-Should some of you recognize this system, it’s lifted from the BNS LARP book as it better reflects the feel and tone that I wish to strike. It is identical to that system, so if you wish to read it there, you can. Boons break apart and combine in threes. 3 Trivials equals a minor and vice versa. This rises all the way to Major Boons, but 3 Major Boons cannot be combined to a Blood, nor 3 Bloods to a Life. Those stand apart because of their gravity.
+<u>**Abyss Mysticism:** Use specific rolls in specific rituals if they have 
+them, but fall back to V20 modern AM Wits+Occult if there are no specific rolls mentioned. The minion limit is the pool used from the system block, or 
+Wits+Occult if there are no rolls in the system block.</u>
+
+#### **24b Incepting Novel Rituals/Adapting Rituals From Other Traditions:** As 
+stated in the Character Creation section, you must have 5 Dots in a Blood 
+Sorcery Path and have one Ritual at each level to interact with these 
+mechanics.
+
+Incepting or Adapting Rituals is a function of Downtime. To do either 
+requires a variable number of successes for each Level: 10/15/20/25/30. 
+The pool to roll is Intelligence + Occult. Once you acquire your successes, 
+the Ritual is now recorded in a form of your choice that any Sorcerer from 
+your Tradition may review and learn the Ritual on their own if you don’t 
+choose to destroy the notes after learning it. Regardless, once you’ve 
+codified the Ritual, you must then spend the appropriate amount of Experience 
+Points to add it to your sheet like any other Ritual.
+
+Adapting secret Rituals from other Traditions requires you to have Occult 5
+ to know about them. These include, but aren’t limited to: Pavis of Foul 
+ Presence, From Marduk’s Throat, Eternal Mask, Nectar of the Bitter Rose, 
+ and so on.
+
+Thoughts and Advice from your Storyteller: The approval process will be more 
+or less difficult depending on the scope and reach of your new Ritual. 
+Replicating the effects of RAW Rituals already extant will almost certainly 
+be approved. Those that are variations on Rituals extant that affect different 
+creatures, things or powers should be pretty easy. Completely novel Rituals 
+that don’t resemble anything already in RAW will, of course, be much more 
+difficult to adjudicate. Your patience is requested.
+
+
+### 25. Daniel’s Boons
+Should some of you recognize this system, it’s lifted from the BNS LARP book as 
+it better reflects the feel and tone that I wish to strike. It is identical to 
+that system, so if you wish to read it there, you can. Boons break apart and 
+combine in threes. 3 Trivials equals a minor and vice versa. This rises all the 
+way to Major Boons, but 3 Major Boons cannot be combined to a Blood, nor 3 
+Bloods to a Life. Those stand apart because of their gravity.
 
 #### Trivial Boon
 
-A trivial boon is a simple favor owed for receiving a minor service, political consideration, or forgiving a social *faux pas*. This type of boon should be freely offered and accepted, much like a business card. Payment of a trivial boon should involve simple one-time favors or services that take no more than a single game session or a night to complete.
+A trivial boon is a simple favor owed for receiving a minor service, political consideration, or forgiving a social *faux pas*. This type of boon should be 
+freely offered and accepted, much like a business card. Payment of a trivial 
+boon should involve simple one-time favors or services that take no more than 
+a single game session or a night to complete.
 
 **Example Scenarios Involving Trivial Boons:**
 
@@ -1865,7 +1961,10 @@ A trivial boon is a simple favor owed for receiving a minor service, political c
 
 #### Minor Boon
 
-A minor boon represents a favor that requires a significant amount of time or effort, but low risk. Payment of a minor boon should involve simple one-time favors or services that take no more than two game sessions or a month (whichever is longer) to complete.
+A minor boon represents a favor that requires a significant amount of time or 
+effort, but low risk. Payment of a minor boon should involve simple one-time 
+favors or services that take no more than two game sessions or a month 
+(whichever is longer) to complete.
 
 **Example Scenarios Involving Minor Boons:**
 
@@ -1877,7 +1976,11 @@ A minor boon represents a favor that requires a significant amount of time or ef
 
 #### Major Boon
 
-A major boon represents a large debt that requires a good deal of time or resources to pay, which may involve risking your personal political or social capital. Payment of a major boon should involve one-time favors or services that take no more than six game sessions or three months (whichever is longer) to complete.
+A major boon represents a large debt that requires a good deal of time or 
+resources to pay, which may involve risking your personal political or 
+social capital. Payment of a major boon should involve one-time favors or 
+services that take no more than six game sessions or three months 
+(whichever is longer) to complete.
 
 **Example Scenarios Involving Major Boons:**
 
@@ -1889,7 +1992,10 @@ A major boon represents a large debt that requires a good deal of time or resour
 
 #### Blood Boon
 
-A blood boon is a sacred debt that can only be repaid by shedding blood on behalf of the creditor. The debtor will betray allies, ruin her reputation, or place herself in a potentially life-threatening situation in order to further the agenda of the creditor, thus the name “blood boon.”
+A blood boon is a sacred debt that can only be repaid by shedding blood on 
+behalf of the creditor. The debtor will betray allies, ruin her reputation, 
+or place herself in a potentially life-threatening situation in order to 
+further the agenda of the creditor, thus the name “blood boon.”
 
 **Example Scenarios Involving Blood Boons:**
 
@@ -1901,7 +2007,13 @@ A blood boon is a sacred debt that can only be repaid by shedding blood on behal
 
 #### Life Boon
 
-A life boon is a rare boon that should only be given in circumstances when a vampire saves another vampire from an external threat that will destroy the life of the debtor. A powerful vampire cannot simply threaten a weak enemy and claim a life boon for not destroying her. Owing a life boon can be tragic. Many vampires consider owing a life boon as equivalent to being an unreleased childer. To owe a life boon is to surrender all of your own will until you have saved the life of the one that owns your life boon.
+A life boon is a rare boon that should only be given in circumstances when 
+a vampire saves another vampire from an external threat that will destroy 
+the life of the debtor. A powerful vampire cannot simply threaten a weak 
+enemy and claim a life boon for not destroying her. Owing a life boon can 
+be tragic. Many vampires consider owing a life boon as equivalent to being 
+an unreleased childer. To owe a life boon is to surrender all of your own 
+will until you have saved the life of the one that owns your life boon.
 
 **Example Scenarios Involving Life Boons:**
 
