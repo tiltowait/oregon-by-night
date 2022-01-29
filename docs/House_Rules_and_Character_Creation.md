@@ -1,7 +1,7 @@
 # **Oregon by Night**
 ## **House Rules and Character Creation**
 
-?> **Updated 11/26/21.** Everything new is <u>underlined</u>.
+?> **Updated 01/29/22.** Everything new is <u>underlined</u>.
 
 ### **i. Rule the First**
 
@@ -459,7 +459,7 @@ bed out of sleep.
 Pg. 311 of V20 Core; Effects of Humanity: the second bullet point is
 stricken entirely. Humanity does not affect the number of dice from your
 Virtues that you roll under any circumstances. This same rule applies to
-a low Path rating's effect on Virtue rolls. <u>On Page 312 of the V20 Core, the chart labeled “Hierarchy of Sin – Humanity” contains several flagrant moral failings.  To correct this, the following Chart Shall be used:
+a low Path rating's effect on Virtue rolls. On Page 312 of the V20 Core, the chart labeled “Hierarchy of Sin – Humanity” contains several flagrant moral failings.  To correct this, the following Chart Shall be used:
 -   **10 Selfish thoughts**
 -   **9  Minor selfish acts**
 -   **8  Intentional property damage**
@@ -472,7 +472,7 @@ a low Path rating's effect on Virtue rolls. <u>On Page 312 of the V20 Core, the 
 -   **1  Utter perversion or heinous acts**
 
 Note: Narrators can adjust the difficulty of degeneration checks to reflect 
-situational context such as "self defense". </u>
+situational context such as "self defense".
 
 
 -   At 3 Humanity, expect for the vast majority of people to shun you on
@@ -498,6 +498,18 @@ the entire night unless some physical happenstance ruins your ruse. The
 Dice Pool for disguising in this way is Manipulation + Subterfuge,
 Difficulty 6. Supernatural disguise and appropriate Merits always remove
 all these penalties.
+
+<u>To change from Humanity to a Path, or from one Path to another:
+
+1. Reach a rating of 1 in all Virtues that need to be changed, if any.  Commit sins against your Humanity/Path and sacrifice Virtue dots instead of Humanity/Path dots.  This mechanic can only be used if you are actively trying to switch.
+
+2. Reach a rating of 2 Dots in Humanity/current Path, again through sins.
+
+3. Moment of Truth: Must have a Mentor already on the Path.  Extended Willpower Roll.  Each roll costs 1 Willpower.  Difficulty = 10-(Sum of All Current Virtues).  Botches cost you one Humanity for each Botch Severity.  You may not spend Willpower to gain successes on these rolls.  Failure to reach 10 successes by your Willpower's end means you become a wight.
+
+4. Once on a Path, you may not transition back to Humanity.  Once it's gone, it's gone forever.  Once you transition away from a Path, you may not go back to it ever again.  You have burned the bridge.
+
+For further guidance, see page 112 of Vampire: The Dark Ages 20th Anniversary edition.</u>
 
 ### **3. Discerning the Transmundane**
 
@@ -1038,6 +1050,10 @@ attach this Background. Currently, no PC possesses the Power Necessary
 to Attain all 5 Dots. The effects of this Background stack atop any Dots
 in Domain dedicated to Security.
 
+<u>**...and Downtime:**\
+Appropriate Backgrounds apply to your Downtime rolls.  Only 1 Background applies at a time.  Only one Difficulty Reduction applies at a time, regardless of source.  Backgrounds of 1 provide nothing.  Backgrounds of 2&3 provide 1 die.  A Background of 4 gives 2 dice.  A Background of 5 gives 3 Dice.  Cult must be applied as one of the Backgrounds it functions as, thus 2 Dots of Cult can’t be applied to any Downtime roll.</u>
+
+
 ### **18. Experience Points**
 
 XP earned with a character must be spent on that character, except if
@@ -1150,7 +1166,9 @@ following format: Rolling Syntax \# Attribute + Ability, Sorcery
 Tradition, Ritual Name, Casting Time, Target. Also See; Seeing the
 Unseen in this document for clarification on detection of these powers.
 
-**Aura Perception:** Kinfolk have their own unique aura and it follows
+<u> **Auspex & Aura Perception:** Auspex Difficulty Reduction applies to only the first two levels of this Discipline up to your number of dots in this power.</u>
+
+Kinfolk have their own unique aura and it follows
 the concept closely with that of ghouls; patches of Garou aura mixing
 among a mortal's aura. Garou possess a completely normal aura until
 their first change is complete; from then on they have a full, normal
@@ -1414,6 +1432,14 @@ If the user of this power scores 5 or more successes on his activation
 roll, that text is stricken and now reads, "One Year" for the duration
 of Stamina Loss.
 
+<u>**The Weeping of Kruchina:** This text supersedes the original text.
+
+The Koldun may instill a crushing despair or nigh-suicidal depression in her enemy. 
+
+System: For one turn per success, the target is overwhelmed by intense misery and weeps uncontrollably.  Victims lose one Blood Point each combat turn and this can have serious consequences for mortals, ghouls, kinfolk and werewolves.  Victims cannot engage in any action that requires concentration, and while they can act, they can’t take any actions that would also be prohibited by Frenzy.
+
+**Wound Sculpting:** LotC 243, works on yourself, other vampires, werewolves, ghouls, kinfolk, mortals and animals.</u>
+
 ### **20. Minor Adjudications**
 
 Where the RAW contradicts itself, the Administrator will make a ruling
@@ -1502,6 +1528,13 @@ and add it to this lexicon:
     using this mechanic. Her surgeon must make the roll above and score
     6 successes. Failure results in no change. A Botch results in
     permanently losing a number of Appearance dots equal to the Botch.
+-	<u>While staked, you still spend one blood (or one health level if you
+	have no blood) to awaken each night and you are conscious for each
+	night that you awaken.  If you have no blood, you may exist in a
+	state of staked frenzy...make your rolls.  This is an exception to
+	the rule that you cannot spend blood while staked.  You may enter
+	voluntary torpor while staked and that rule-set takes over from that
+	point forward.</u>
 
 ### **21. On the Blood Bond**
 
@@ -1566,9 +1599,11 @@ these beings use Manipulation + Stealth.
 This section overrides all specific mentions and carve-outs contained in
 specific powers and sections in all of V20.
 
-### **23. Abilities**
+### **23. Abilities & Attributes**
 
-Specializations: Once you reach the 5^th^ Dot in any Ability, you may
+<u>An Attribute Specialization can be changed with a Standard 15 Success Downtime action and 3 Experience Points.  Your dice pools will vary.</u>
+
+Specializations: Once you reach the 5^th Dot in any Ability, you may
 purchase additional Specializations for 3 XP, and a 15 success Downtime
 to represent your dedication to study and practice.
 
@@ -1760,14 +1795,18 @@ to their Unbuffed values.</u>
 
 **All Powers That Result In Permanent Dot Loss:** With the exception of
 The Revelations of Eden directly above this entry, these powers now last
-One Year and One Day, and the Dot returns to the victim. <u>Instances of
+One Year and One Day, and the Dot returns to the victim. Instances of
 these powers are limited to the number of Dots the User has in Occult.
  
 Example: Meenee the Vampire has 5 Occult, and has taken away 1 Dot from 
 Kim, 2 Dots from Allen, 1 Dot from Dan, and 1 Dot from Jerry.  He has 
 reached his limit and to use one of these powers on Karen he must 
 sacrifice one of the other currently operating effects.  He may choose 
-which one with an act of Will and this does not require a roll or an action.  
+which one with an act of Will and this does not require a roll or an action.
+<u>If a Being has more than one Power that results in Dot Loss, each power
+may be applied a number of times equal to their Occult.  Thus, if Meenee
+the Vampire has 5 Occult, and two Dot Loss powers, he may apply 5 instances
+of both powers to run concurrently.</u> 
 
 These powers leave behind arcane traces which may be tracked with Auspex or 
 similar powers.  The difficulty is 9 (7 for Thaumaturgical Sight) on a roll 
@@ -1775,7 +1814,7 @@ of Occult+Auspex (or Thaumaturgy+Occult if using Thaumaturgical Sight),
 tracking takes 1 night per attempt, 5 successes need be accumulated over an 
 unlimited number of nights, botches do not subtract from previous successes 
 gained.  This information gives the identity of the caster and his rough 
-location (to within a Scene’s definition).</u>
+location (to within a Scene’s definition).
 
 **Wards** cannot be bypassed through planar travel, transformation,
 teleportation, possession or other such methods. If you are on the
@@ -1806,9 +1845,8 @@ is (Dots) + 3.
 **Way of Sorrows (RotB p157):** To activate these powers, roll Charisma
 + Occult; Difficulty (Dots) + 3.
 
-<u>**Koldunic Sorcery (Black Hand p169, TOS p45):** Only the Kraina and 
-their Rituals trigger the Kraina’s madness in practitioners of Koldunism.  
-Ways and their Rites have no such effect.</u>
+**Koldunic Sorcery (Black Hand p169, TOS p45):** Only the Kraina and 
+their Rituals trigger the Kraina’s madness in practitioners of Koldunism. Ways and their Rites have no such effect.
 
 **Dur'An'Ki**
 
@@ -1905,9 +1943,9 @@ and stacks with Blood Buffing.
 
 **Mirror of Second Sight**: The items made by this Ritual can be used by others.
 
-<u>**Abyss Mysticism:** Use specific rolls in specific rituals if they have 
+**Abyss Mysticism:** Use specific rolls in specific rituals if they have 
 them, but fall back to V20 modern AM Wits+Occult if there are no specific rolls mentioned. The minion limit is the pool used from the system block, or 
-Wits+Occult if there are no rolls in the system block.</u>
+Wits+Occult if there are no rolls in the system block.
 
 #### **24b Incepting Novel Rituals/Adapting Rituals From Other Traditions:** As 
 stated in the Character Creation section, you must have 5 Dots in a Blood 
