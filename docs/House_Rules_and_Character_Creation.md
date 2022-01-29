@@ -1050,8 +1050,8 @@ attach this Background. Currently, no PC possesses the Power Necessary
 to Attain all 5 Dots. The effects of this Background stack atop any Dots
 in Domain dedicated to Security.
 
-<u>**...and Downtime:**\
-Appropriate Backgrounds apply to your Downtime rolls.  Only 1 Background applies at a time.  Only one Difficulty Reduction applies at a time, regardless of source.  Backgrounds of 1 provide nothing.  Backgrounds of 2&3 provide 1 die.  A Background of 4 gives 2 dice.  A Background of 5 gives 3 Dice.  Cult must be applied as one of the Backgrounds it functions as, thus 2 Dots of Cult can’t be applied to any Downtime roll.</u>
+**<u>...and Downtime:</u>**\
+<u>Appropriate Backgrounds apply to your Downtime rolls.  Only 1 Background applies at a time.  Only one Difficulty Reduction applies at a time, regardless of source.  Backgrounds of 1 provide nothing.  Backgrounds of 2&3 provide 1 die.  A Background of 4 gives 2 dice.  A Background of 5 gives 3 Dice.  Cult must be applied as one of the Backgrounds it functions as, thus 2 Dots of Cult can’t be applied to any Downtime roll.</u>
 
 
 ### **18. Experience Points**
@@ -1166,7 +1166,7 @@ following format: Rolling Syntax \# Attribute + Ability, Sorcery
 Tradition, Ritual Name, Casting Time, Target. Also See; Seeing the
 Unseen in this document for clarification on detection of these powers.
 
-<u> **Auspex & Aura Perception:** Auspex Difficulty Reduction applies to only the first two levels of this Discipline up to your number of dots in this power.</u>
+**<u>Auspex</u> & Aura Perception:** <u>Auspex Difficulty Reduction applies to only the first two levels of this Discipline up to your number of dots in this power.</u>
 
 Kinfolk have their own unique aura and it follows
 the concept closely with that of ghouls; patches of Garou aura mixing
@@ -1432,13 +1432,13 @@ If the user of this power scores 5 or more successes on his activation
 roll, that text is stricken and now reads, "One Year" for the duration
 of Stamina Loss.
 
-<u>**The Weeping of Kruchina:** This text supersedes the original text.
+**<u>The Weeping of Kruchina:</u>** <u>This text supersedes the original text.
 
 The Koldun may instill a crushing despair or nigh-suicidal depression in her enemy. 
 
-System: For one turn per success, the target is overwhelmed by intense misery and weeps uncontrollably.  Victims lose one Blood Point each combat turn and this can have serious consequences for mortals, ghouls, kinfolk and werewolves.  Victims cannot engage in any action that requires concentration, and while they can act, they can’t take any actions that would also be prohibited by Frenzy.
+System: For one turn per success, the target is overwhelmed by intense misery and weeps uncontrollably.  Victims lose one Blood Point each combat turn and this can have serious consequences for mortals, ghouls, kinfolk and werewolves.  Victims cannot engage in any action that requires concentration, and while they can act, they can’t take any actions that would also be prohibited by Frenzy.</u>
 
-**Wound Sculpting:** LotC 243, works on yourself, other vampires, werewolves, ghouls, kinfolk, mortals and animals.</u>
+**<u>Wound Sculpting:</u>** <u>LotC 243, works on yourself, other vampires, werewolves, ghouls, kinfolk, mortals and animals.</u>
 
 ### **20. Minor Adjudications**
 
