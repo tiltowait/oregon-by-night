@@ -1,7 +1,7 @@
 # **Oregon by Night**
 ## **House Rules and Character Creation**
 
-?> **Updated 01/29/22.** Everything new is <u>underlined</u>.
+?> **Updated 03/06/22.** Everything new is <u>underlined</u>.
 
 ### **i. Rule the First**
 
@@ -81,7 +81,7 @@ same channel that you obtained this document from. Do not rely on
 material listed by wikis or other online sources; when in doubt, verify
 content in an actual book.\
 \
-**Coming Soon:**
+**Coming Soon:** <u>Incepting Thaumaturgical Paths.  Expect it to be EXTREMELY difficult.</u>
 
 ## **Character Creation**
 
@@ -98,11 +98,11 @@ may not play Hunters or Sabbat. All types of mortals are allowed, they
 just can't be Hunters.
 
 The Camarilla does not accept PCs of Clans Tzimisce, Lasombra,
-Assamites, Followers of Set, Ravnos and Caitiff, though Caitiff might be
-accepted to the Sect during play. The Camarilla only accepts PC members
-of the Bloodlines Daughters of Cacophony, Gargoyles, and True Brujah,
-none of which are allowed as PCs but are here entered for clarification
-of lore and attitude.
+Assamites, Followers of Set, Ravnos and Caitiff <u>at character creation,
+though they may be accepted to the Sect during play through labors and
+service.</u> The Camarilla only accepts PC members of the Bloodlines 
+Daughters of Cacophony, Gargoyles, and True Brujah, none of which are
+allowed as PCs but are here entered for clarification of lore and attitude.
 
 When creating purely mortal characters, use the process found on pg. 35
 of *Hunters Hunted II*, minus the supernatural stuff, and using the
@@ -110,6 +110,9 @@ of *Hunters Hunted II*, minus the supernatural stuff, and using the
 Ghouls in the V20 Core, which Ghoul PCs continue to use. This does not
 prevent mortals from taking Supernatural Merits, Flaws and Numina (see
 Rule 19), which are allowed. Kinfolk use their appropriate entry in W20.
+<u>Also, keep in mind, playing a mortal or a ghoul is hardmode and WILL
+expose you to all manner of dark things like the ravaging of your will,
+individuality, or ability to self determine.  Fair Warning and Full Disclosure.</u>
 
 Ghouls *may* use "In the Master's Footsteps", found on pg. 121 of
 *Ghouls and Revenants,* if they wish*.* Clan signature Disciplines (ex.
@@ -215,6 +218,8 @@ Below are new Merits and Flaws:
     any events, science, or technology since that time. You have been
     awake from a long torpor for a week, at best, and your character
     build should reflect this.
+
+**<u>Child</u>:** <u>This Flaw is stricken from Play.</u>
 
 ### **7. Specializations**
 
@@ -499,7 +504,7 @@ Dice Pool for disguising in this way is Manipulation + Subterfuge,
 Difficulty 6. Supernatural disguise and appropriate Merits always remove
 all these penalties.
 
-<u>To change from Humanity to a Path, or from one Path to another:
+To change from Humanity to a Path, or from one Path to another:
 
 1. Reach a rating of 1 in all Virtues that need to be changed, if any.  Commit sins against your Humanity/Path and sacrifice Virtue dots instead of Humanity/Path dots.  This mechanic can only be used if you are actively trying to switch.
 
@@ -509,7 +514,7 @@ all these penalties.
 
 4. Once on a Path, you may not transition back to Humanity.  Once it's gone, it's gone forever.  Once you transition away from a Path, you may not go back to it ever again.  You have burned the bridge.
 
-For further guidance, see page 112 of Vampire: The Dark Ages 20th Anniversary edition.</u>
+For further guidance, see page 112 of Vampire: The Dark Ages 20th Anniversary edition.
 
 ### **3. Discerning the Transmundane**
 
@@ -654,14 +659,19 @@ Being exposed to the Kiss hopelessly and forever blurs the memory of the
 one minute before exposure began, the entire time the victim was
 exposed, and one minute afterwards. This effect hides feeding from
 mortals fed upon, and can also obviously be used in narrow situations to
-cover the Masquerade. It's no substitute for The Forgetful Mind,
+cover the Masquerade. <u>Those exposed will remember who it was who gave
+them such an excellent time, regard it to be consensual, and seek out more
+of it.  This mechanism is greatly helpful to the formation of Herds and
+Cults.</u> The Kiss is no substitute for The Forgetful Mind,
 however, which along with similar powers can be used to recover and
 clarify memories blurred by the Kiss. Giovanni and those with Grip of
 the Damned still benefit from this memory fogging, but the victim
 remembers vague agony and terror. Their victims still resist and
 struggle, necessitating some kind of restraint, supernatural or
-otherwise. All of this is common knowledge unless you specifically make
-your vampire character ignorant of it.
+otherwise. <u>They too remember who hurt them, regard it to be assault, or
+even rape, and will seek to avoid that vampire, or even justice.</u> All
+of this is common knowledge unless you specifically make your vampire 
+character ignorant of it.
 
 Mortals regain one BP every two weeks. This shall be reflected in the
 availability from your Herd and other sorts of Background obtained
@@ -927,9 +937,15 @@ entered in the table stats channel under that session debrief, along
 with what was granted and the reason. The player will note the same in
 their log along with the session name, date and what was gained or lost.
 
-Players may transfer Dots of Backgrounds to each other with a 15 Success
-Downtime Task. You may not even begin this process until you have been
-playing your current Character for at least 90 days.
+Players may transfer Dots of Backgrounds to each other, <u>or allow other
+Players to take multiple Dots of their Backgrounds,</u> with a 15 Success
+Downtime Task. <u>Also, when death-durable Backgrounds become unowned, a
+15 success Downtime can acquire all the Dots of a single Background.  If
+multiple Players are trying for the same Background, the Player who first 
+reaches 15 successes gains the Dots.  Artifacts are excepted from this 
+rule as they are objects and can be given or stolen instantly.</u>You may 
+not even begin this process until you have been playing your current 
+Character for at least 90 days.
 
 NPCs represented by dots of Background (eg. **Allies, Retainer,
 Contacts**) have drastically reduced stat entries for ease of play --
@@ -955,8 +971,15 @@ Retainer can have a maximum of 3 dots in any given Attribute or
 Ability). Backgrounds should remain representative of a real person (eg.
 not five dots in Influence and nothing else).
 
+<u>Swarms function as Retainers.  One dot represents a Swarm that can 
+attack one adult, human sized creature.  For each additional dot, the 
+swarm can attack one more creature, and has two additional health levels.  
+In addition, Medium Melee Weapons (+2) will also do normal damage.</u>
+
 You may spend XP you earn on your Retainers if you wish. No Ally,
-Retainer, or Contact may have any sort of Numina.
+Retainer, or Contact may have any sort of Numina. <u>If this Retainer 
+Dies through no fault of the way you played them, you are refunded the 
+XP you spent.</u>
 
 **Mentor and Library:** There are a couple of Backgrounds that can
 support learning Blood Sorcery: chiefly, Mentor and Library. This source
@@ -1050,8 +1073,8 @@ attach this Background. Currently, no PC possesses the Power Necessary
 to Attain all 5 Dots. The effects of this Background stack atop any Dots
 in Domain dedicated to Security.
 
-**<u>...and Downtime:</u>**\
-<u>Appropriate Backgrounds apply to your Downtime rolls.  Only 1 Background applies at a time.  Only one Difficulty Reduction applies at a time, regardless of source.  Backgrounds of 1 provide nothing.  Backgrounds of 2&3 provide 1 die.  A Background of 4 gives 2 dice.  A Background of 5 gives 3 Dice.  Cult must be applied as one of the Backgrounds it functions as, thus 2 Dots of Cult can’t be applied to any Downtime roll.</u>
+**...and Downtime:**\
+Appropriate Backgrounds apply to your Downtime rolls.  Only 1 Background applies at a time.  Only one Difficulty Reduction applies at a time, regardless of source.  Backgrounds of 1 provide nothing.  Backgrounds of 2&3 provide 1 die.  A Background of 4 gives 2 dice.  A Background of 5 gives 3 Dice.  Cult must be applied as one of the Backgrounds it functions as, thus 2 Dots of Cult can’t be applied to any Downtime roll.
 
 
 ### **18. Experience Points**
@@ -1166,7 +1189,7 @@ following format: Rolling Syntax \# Attribute + Ability, Sorcery
 Tradition, Ritual Name, Casting Time, Target. Also See; Seeing the
 Unseen in this document for clarification on detection of these powers.
 
-**<u>Auspex</u> & Aura Perception:** <u>Auspex Difficulty Reduction applies to only the first two levels of this Discipline up to your number of dots in this power.</u>
+**Auspex & Aura Perception:** Auspex Difficulty Reduction applies to only the first two levels of this Discipline up to your number of dots in this power.
 
 Kinfolk have their own unique aura and it follows
 the concept closely with that of ghouls; patches of Garou aura mixing
@@ -1432,13 +1455,13 @@ If the user of this power scores 5 or more successes on his activation
 roll, that text is stricken and now reads, "One Year" for the duration
 of Stamina Loss.
 
-**<u>The Weeping of Kruchina:</u>** <u>This text supersedes the original text.
+**The Weeping of Kruchina:** This text supersedes the original text.
 
 The Koldun may instill a crushing despair or nigh-suicidal depression in her enemy. 
 
-System: For one turn per success, the target is overwhelmed by intense misery and weeps uncontrollably.  Victims lose one Blood Point each combat turn and this can have serious consequences for mortals, ghouls, kinfolk and werewolves.  Victims cannot engage in any action that requires concentration, and while they can act, they can’t take any actions that would also be prohibited by Frenzy.</u>
+System: For one turn per success, the target is overwhelmed by intense misery and weeps uncontrollably.  Victims lose one Blood Point each combat turn and this can have serious consequences for mortals, ghouls, kinfolk and werewolves.  Victims cannot engage in any action that requires concentration, and while they can act, they can’t take any actions that would also be prohibited by Frenzy.
 
-**<u>Wound Sculpting:</u>** <u>LotC 243, works on yourself, other vampires, werewolves, ghouls, kinfolk, mortals and animals.</u>
+**Wound Sculpting:** LotC 243, works on yourself, other vampires, werewolves, ghouls, kinfolk, mortals and animals.
 
 ### **20. Minor Adjudications**
 
@@ -1528,13 +1551,13 @@ and add it to this lexicon:
     using this mechanic. Her surgeon must make the roll above and score
     6 successes. Failure results in no change. A Botch results in
     permanently losing a number of Appearance dots equal to the Botch.
--	<u>While staked, you still spend one blood (or one health level if you
+-	While staked, you still spend one blood (or one health level if you
 	have no blood) to awaken each night and you are conscious for each
 	night that you awaken.  If you have no blood, you may exist in a
 	state of staked frenzy...make your rolls.  This is an exception to
 	the rule that you cannot spend blood while staked.  You may enter
 	voluntary torpor while staked and that rule-set takes over from that
-	point forward.</u>
+	point forward.
 
 ### **21. On the Blood Bond**
 
@@ -1601,7 +1624,7 @@ specific powers and sections in all of V20.
 
 ### **23. Abilities & Attributes**
 
-<u>An Attribute Specialization can be changed with a Standard 15 Success Downtime action and 3 Experience Points.  Your dice pools will vary.</u>
+An Attribute Specialization can be changed with a Standard 15 Success Downtime action and 3 Experience Points.  Your dice pools will vary.
 
 Specializations: Once you reach the 5^th Dot in any Ability, you may
 purchase additional Specializations for 3 XP, and a 15 success Downtime
@@ -1791,7 +1814,7 @@ and any Inceptions even remotely resembling it, does not apply it’s
 Difficulty Reduction to any type of Blood Sorcery roll.  In addition, 
 if you are Blood Buffed when this Ritual, or any Inception even remotely 
 like it, takes effect upon you, all your Buffed Physical stats return 
-to their Unbuffed values.</u>
+to their Unbuffed values.
 
 **All Powers That Result In Permanent Dot Loss:** With the exception of
 The Revelations of Eden directly above this entry, these powers now last
@@ -1803,10 +1826,10 @@ Kim, 2 Dots from Allen, 1 Dot from Dan, and 1 Dot from Jerry.  He has
 reached his limit and to use one of these powers on Karen he must 
 sacrifice one of the other currently operating effects.  He may choose 
 which one with an act of Will and this does not require a roll or an action.
-<u>If a Being has more than one Power that results in Dot Loss, each power
+If a Being has more than one Power that results in Dot Loss, each power
 may be applied a number of times equal to their Occult.  Thus, if Meenee
 the Vampire has 5 Occult, and two Dot Loss powers, he may apply 5 instances
-of both powers to run concurrently.</u> 
+of both powers to run concurrently.
 
 These powers leave behind arcane traces which may be tracked with Auspex or 
 similar powers.  The difficulty is 9 (7 for Thaumaturgical Sight) on a roll 
@@ -1904,6 +1927,14 @@ Tremere Thaumaturgical Rituals except those listed below:
 **Infusion of Khalif:** This Ritual is available to all Blood Sorcery 
 Traditions and grants its mechanical effects to the user while employing 
 her particular Tradition on all appropriate rolls.
+
+**<u>Ward vs Lupines:</u>** <u>This Ritual is now Ward vs Shapechangers, and does not protect against Ananansi.</u>
+
+**<u>Enfolding the Believers:</u>** <u>Transcending Barriers Through Love & Pursuit of Apotheosis: These Rituals must be learned in the order expressed above, no skipping. Also, these Rituals are now completely decoupled from the actual number of Believers present.  Instead they shall use a number of Dice equal to how many Cult Background that the Player is willing to utilize for the purpose.  No other Background may be used: Cult ONLY.<u>
+
+**<u>Transcending Barriers:<u>** <u>Through Love is performed normally, but the number of Successes on the Ritual from which the caster can benefit is capped by the number of Dots she has in Cult in both Use Modes.</u>
+
+**<u>Pursuit of Apotheosis:</u>** <u>Can permanently reduce the caster’s Generation by one, and this fact requires Occult 5 and the Ritual itself purchased with XP for the Character to be certain.  Strong hints of this fact are also had when a Character obtains both Occult 5 and any Blood Sorcery 5.  One success is required for Generation Reduction.  There is a hidden cap on the Generation of any Character; when you reach it, you will be informed.  If you choose to exceed it, via ANY route, you are Retired: You won Vampire: The Masquerade (funky guitar riff).  Count on becoming an NPC in the Venue.<u>
 
 **Necromancy** does not cause Sequela (ToS p52) in this Venue.
 
