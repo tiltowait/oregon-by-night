@@ -92,7 +92,7 @@ V20 Core, their antitribu, Caitiff, and ex-Panders, who will default to
 Independants or Probationary Anarchs. Character creation begins on pg.
 80 of the V20 Core. Be sure to fill out the PDF sheet AND the Tracker
 side by side to save time. If you are an accidental Embrace or a Sabbat
-mass embrace, you are 13^th^ Generation, and why is explained elsewhere
+mass embrace, you are 13<sub>th</sub> Generation, and why is explained elsewhere
 in these rules. You may also play a mortal, ghoul, or kinfolk. Players
 may not play Hunters or Sabbat. All types of mortals are allowed, they
 just can't be Hunters.
@@ -245,7 +245,7 @@ to be Keepers, Hounds and Harpies etc. These are titles you must buy or
 earn in play, nothing comes for free.
 
 If you were accidentally Embraced, Embraced yourself, or are a
-Shovelhead, you are 13^th Generation unless you include diablerie or
+Shovelhead, you are 13<sub>th</sub> Generation unless you include diablerie or
 some other exceptional reason why this isn't the case in your Backstory.
 
 Spiritus, because of how it is obtained, and the historicity of its
@@ -292,7 +292,7 @@ one-time bonus; you do not receive it for subsequent characters.
 Use italics to indicate descriptions, actions, and the like. Wrap
 dialogue in quotes.
 
-Always narrate your character's actions in the 3^rd^ person. Compress
+Always narrate your character's actions in the 3<sub>rd</sub> person. Compress
 and summarize your interactions with your own vassals as much as
 possible, and avoid it entirely whenever possible.
 
@@ -726,8 +726,8 @@ higher Generation, and costs the sire 2 temporary Willpower which
 recover at the rate of one per real time week; all other types of
 Embraces are accidental.
 
-All accidental Embraces from vampires of 12^th^ Generation and below
-result in a 13^th^ Generation vampire. Vampires of 13^th^ and higher
+All accidental Embraces from vampires of 12<sub>th</sub> Generation and below
+result in a 13<sub>th</sub> Generation vampire. Vampires of 13<sub>th</sub> and higher
 Generation cannot accidentally Embrace; what would otherwise be an
 accidental Embrace, for them, fails to take and produces a dead mortal.
 Mass Embraces are always accidental Embraces. Mortals who somehow manage
@@ -1100,11 +1100,11 @@ Characters made with XP may add up to 3 years to their age-as-a-vampire
 per 1 XP on their starting sheet. This age has no mechanical benefits or
 penalties except possibly for ghouls.
 
-On the first day of your 7^th^ month of play on a Character, and every 3
+On the first day of your 7<sub>th</sub> month of play on a Character, and every 3
 months thereafter, you receive 10 successes towards any Downtime
 Activity that your Character can accomplish. Extant Characters already
 older than 3 months as of 5/3/21 are considered to be on the first day
-of their 4^th^ month, thus your 10 successes will accrue on 8/3/21.
+of their 4<sub>th</sub> month, thus your 10 successes will accrue on 8/3/21.
 
 Rituals of any Blood Sorcery tradition are obtained by having access to
 materials or teachers to impart the knowledge, and the expenditure of XP
@@ -1207,7 +1207,7 @@ not be present if the one being read is merely the target of a Ritual,
 like Scry.
 
 **Animalism:** Animalism 5 (Drawing Out the Beast) is now stricken from
-play, and the 5^th^-dot power is replaced with Species Speech.
+play, and the 5<sub>th</sub> dot power is replaced with Species Speech.
 
 **All Abilities With Heat Based Names**: These Combos, Disciplines,
 Merits and Abilities all apply aggravated damage as by fire. Any of
@@ -1243,7 +1243,7 @@ instance of the power.
 
 Level 4 does not allow you to see through the Obtenebration of others.
 
-All V20, and Dark Ages 20^th^ Anniversary Edition Abyss Mysticism
+All V20, and Dark Ages 20<sub>th</sub> Anniversary Edition Abyss Mysticism
 Rituals are available for purchase with the same restrictions placed on
 obtaining said Rituals that appear elsewhere in these rules wherever
 Rituals are discussed. Inceptions of new Abyss Rituals are allowed under
@@ -1333,7 +1333,7 @@ while in this form is Lethal.
 * **9:** Less than a millenium
 * **10:** Less than 13.8 Billion Years
 
-The text for the 5^th Success is stricken and now reads:\
+The text for the 5<sub>th</sub> Success is stricken and now reads:\
 -	5 Successes\
 -	This provides anything you want to know regarding the object's usage
 history in connection with it's previous owner. Objects do not contain
@@ -1432,7 +1432,7 @@ poison stays within the Kindred's body for a scene and is *always* the
 first blood to be consumed by would be drinkers or harvesters. The user
 may build up however much poison within her as she likes over multiple
 activations, however, it takes up the Blood Pool of the user on a one to
-one basis. Example: Deadly Dan is 7^th^ Generation and uses this
+one basis. Example: Deadly Dan is 7<sub>th</sub> Generation and uses this
 mechanic to store 5 points of poison in his body; he thus now has 15
 vitae and 5 points of poison in his body totaling 20. This poison
 becomes harmless if it exits the user's body unless it is drunk by
@@ -1626,7 +1626,7 @@ specific powers and sections in all of V20.
 
 An Attribute Specialization can be changed with a Standard 15 Success Downtime action and 3 Experience Points.  Your dice pools will vary.
 
-Specializations: Once you reach the 5^th Dot in any Ability, you may
+Specializations: Once you reach the 5<sub>th</sub> Dot in any Ability, you may
 purchase additional Specializations for 3 XP, and a 15 success Downtime
 to represent your dedication to study and practice.
 
