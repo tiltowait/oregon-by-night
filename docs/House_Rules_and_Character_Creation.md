@@ -1083,14 +1083,14 @@ in Domain dedicated to Security.
 	guard you wish to have around, preferably one more.</u>
  
 -	*<u>4 Dice Mook:</u>*
-	They have a Single, Primary Combat Stat: 4 Dice, which is a combination 
+	<u>They have a Single, Primary Combat Stat: 4 Dice, which is a combination 
 	of 2 in an Attribute and 2 in the Appropriate Ability.  Additionally 
 	they have two Secondary Stats: 3 Dice each composed of one Attribute at 
 	2, and an Ability at 1.  Also, they possess 1 Dot common Abilities like 
 	Drive, they can swim, basic literacy and so forth.  These skills cannot 
 	affect combat in any way.  4 Dice Mooks have Standard Health Levels, 3 
 	Willpower, 7 Humanity, 3 in all Virtues, and, of course, 10 points of 
-	blood(yum!).
+	blood(yum!).</u>
 
 **...and Downtime:**\
 Appropriate Backgrounds apply to your Downtime rolls.  Only 1 Background applies at a time.  Only one Difficulty Reduction applies at a time, regardless of source.  Backgrounds of 1 provide nothing.  Backgrounds of 2&3 provide 1 die.  A Background of 4 gives 2 dice.  A Background of 5 gives 3 Dice.  Cult must be applied as one of the Backgrounds it functions as, thus 2 Dots of Cult can’t be applied to any Downtime roll.
