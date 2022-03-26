@@ -1,7 +1,7 @@
 # **Oregon by Night**
 ## **House Rules and Character Creation**
 
-?> **Updated 03/06/22.** Everything new is <u>underlined</u>.
+?> **Updated 03/25/22.** Everything new is <u>underlined</u>.
 
 ### **i. Rule the First**
 
@@ -81,7 +81,7 @@ same channel that you obtained this document from. Do not rely on
 material listed by wikis or other online sources; when in doubt, verify
 content in an actual book.\
 \
-**Coming Soon:** <u>Incepting Thaumaturgical Paths.  Expect it to be EXTREMELY difficult.</u>
+**Coming Soon:** Incepting Thaumaturgical Paths.  Expect it to be EXTREMELY difficult.
 
 ## **Character Creation**
 
@@ -98,9 +98,9 @@ may not play Hunters or Sabbat. All types of mortals are allowed, they
 just can't be Hunters.
 
 The Camarilla does not accept PCs of Clans Tzimisce, Lasombra,
-Assamites, Followers of Set, Ravnos and Caitiff <u>at character creation,
+Assamites, Followers of Set, Ravnos and Caitiff at character creation,
 though they may be accepted to the Sect during play through labors and
-service.</u> The Camarilla only accepts PC members of the Bloodlines 
+service. The Camarilla only accepts PC members of the Bloodlines 
 Daughters of Cacophony, Gargoyles, and True Brujah, none of which are
 allowed as PCs but are here entered for clarification of lore and attitude.
 
@@ -110,9 +110,9 @@ of *Hunters Hunted II*, minus the supernatural stuff, and using the
 Ghouls in the V20 Core, which Ghoul PCs continue to use. This does not
 prevent mortals from taking Supernatural Merits, Flaws and Numina (see
 Rule 19), which are allowed. Kinfolk use their appropriate entry in W20.
-<u>Also, keep in mind, playing a mortal or a ghoul is hardmode and WILL
+Also, keep in mind, playing a mortal or a ghoul is hardmode and WILL
 expose you to all manner of dark things like the ravaging of your will,
-individuality, or ability to self determine.  Fair Warning and Full Disclosure.</u>
+individuality, or ability to self determine.  Fair Warning and Full Disclosure.
 
 Ghouls *may* use "In the Master's Footsteps", found on pg. 121 of
 *Ghouls and Revenants,* if they wish*.* Clan signature Disciplines (ex.
@@ -152,7 +152,8 @@ If you are a Camarilla Tremere, the first level 5 Ritual you must take
 is Enchant Talisman.
 
 Currently, Camarilla Tremere assigned to the Portland Chantry may start
-on The Green Path or Path of Blood. This may change in the future if the
+on the <u>Path of Blood, Levinbolt, Conjuring, Focused Mind, Green Path, 
+and Spirit Manipulation</u>... This may change in the future if the
 Player Characters enabling this become unavailable, are Retired, or
 Destroyed.
 
@@ -219,7 +220,7 @@ Below are new Merits and Flaws:
     awake from a long torpor for a week, at best, and your character
     build should reflect this.
 
-**<u>Child</u>:** <u>This Flaw is stricken from Play.</u>
+**Child:** This Flaw is stricken from Play.
 
 ### **7. Specializations**
 
@@ -659,17 +660,17 @@ Being exposed to the Kiss hopelessly and forever blurs the memory of the
 one minute before exposure began, the entire time the victim was
 exposed, and one minute afterwards. This effect hides feeding from
 mortals fed upon, and can also obviously be used in narrow situations to
-cover the Masquerade. <u>Those exposed will remember who it was who gave
+cover the Masquerade. Those exposed will remember who it was who gave
 them such an excellent time, regard it to be consensual, and seek out more
 of it.  This mechanism is greatly helpful to the formation of Herds and
-Cults.</u> The Kiss is no substitute for The Forgetful Mind,
+Cults. The Kiss is no substitute for The Forgetful Mind,
 however, which along with similar powers can be used to recover and
 clarify memories blurred by the Kiss. Giovanni and those with Grip of
 the Damned still benefit from this memory fogging, but the victim
 remembers vague agony and terror. Their victims still resist and
 struggle, necessitating some kind of restraint, supernatural or
-otherwise. <u>They too remember who hurt them, regard it to be assault, or
-even rape, and will seek to avoid that vampire, or even justice.</u> All
+otherwise. They too remember who hurt them, regard it to be assault, or
+even rape, and will seek to avoid that vampire, or even justice. All
 of this is common knowledge unless you specifically make your vampire 
 character ignorant of it.
 
@@ -937,13 +938,13 @@ entered in the table stats channel under that session debrief, along
 with what was granted and the reason. The player will note the same in
 their log along with the session name, date and what was gained or lost.
 
-Players may transfer Dots of Backgrounds to each other, <u>or allow other
-Players to take multiple Dots of their Backgrounds,</u> with a 15 Success
-Downtime Task. <u>Also, when death-durable Backgrounds become unowned, a
+Players may transfer Dots of Backgrounds to each other, or allow other
+Players to take multiple Dots of their Backgrounds, with a 15 Success
+Downtime Task. Also, when death-durable Backgrounds become unowned, a
 15 success Downtime can acquire all the Dots of a single Background.  If
 multiple Players are trying for the same Background, the Player who first 
 reaches 15 successes gains the Dots.  Artifacts are excepted from this 
-rule as they are objects and can be given or stolen instantly.</u>You may 
+rule as they are objects and can be given or stolen instantly.You may 
 not even begin this process until you have been playing your current 
 Character for at least 90 days.
 
@@ -957,10 +958,10 @@ These NPCs have Standard Virtue Scores.
 
 -   **One-dot NPCs** have Attributes of 2 and one at 3, two Abilities at
     2, and one Ability at 3.\
-    All other dice pools are 3 or less.
+    All other dice pools are 3 or less. <u>Willpower 4, and Virtues 3.</u>
 -   **Two-dot NPCs** have Attributes at 2 excepting two at 3, three
     Abilities at 2 and two Abilities at 3.\
-    All other dice pools are 3 or less.
+    All other dice pools are 3 or less. <u>Willpower 4, and Virtues 3.</u>
 -   **Three+ dot NPCs** have their own sheets that must be submitted and
     approved.
 
@@ -971,15 +972,15 @@ Retainer can have a maximum of 3 dots in any given Attribute or
 Ability). Backgrounds should remain representative of a real person (eg.
 not five dots in Influence and nothing else).
 
-<u>Swarms function as Retainers.  One dot represents a Swarm that can 
+Swarms function as Retainers.  One dot represents a Swarm that can 
 attack one adult, human sized creature.  For each additional dot, the 
 swarm can attack one more creature, and has two additional health levels.  
-In addition, Medium Melee Weapons (+2) will also do normal damage.</u>
+In addition, Medium Melee Weapons (+2) will also do normal damage.
 
 You may spend XP you earn on your Retainers if you wish. No Ally,
-Retainer, or Contact may have any sort of Numina. <u>If this Retainer 
+Retainer, or Contact may have any sort of Numina. If this Retainer 
 Dies through no fault of the way you played them, you are refunded the 
-XP you spent.</u>
+XP you spent.
 
 **Mentor and Library:** There are a couple of Backgrounds that can
 support learning Blood Sorcery: chiefly, Mentor and Library. This source
@@ -1072,6 +1073,24 @@ Background that Attaches to Domain. You must have Domain before you can
 attach this Background. Currently, no PC possesses the Power Necessary
 to Attain all 5 Dots. The effects of this Background stack atop any Dots
 in Domain dedicated to Security.
+
+**<u>...and NPCs:</u>**
+-	<u>Hired muscle and guards with Resources, or NPCs from things like Mob
+	and other insignificant background NPCs have been referred to thus far as 
+	"4 Dice Mooks".  These guards/muscle can accompany you outside your Domain, 
+	but, if you don't want to be hassled by Law Enforcement, have at least one 
+	Dot of Influence or Contacts: Police, or Allies: Police, or Fame for each 
+	guard you wish to have around, preferably one more.</u>
+ 
+-	*<u>4 Dice Mook:</u>*
+	They have a Single, Primary Combat Stat: 4 Dice, which is a combination 
+	of 2 in an Attribute and 2 in the Appropriate Ability.  Additionally 
+	they have two Secondary Stats: 3 Dice each composed of one Attribute at 
+	2, and an Ability at 1.  Also, they possess 1 Dot common Abilities like 
+	Drive, they can swim, basic literacy and so forth.  These skills cannot 
+	affect combat in any way.  4 Dice Mooks have Standard Health Levels, 3 
+	Willpower, 7 Humanity, 3 in all Virtues, and, of course, 10 points of 
+	blood(yum!).
 
 **...and Downtime:**\
 Appropriate Backgrounds apply to your Downtime rolls.  Only 1 Background applies at a time.  Only one Difficulty Reduction applies at a time, regardless of source.  Backgrounds of 1 provide nothing.  Backgrounds of 2&3 provide 1 die.  A Background of 4 gives 2 dice.  A Background of 5 gives 3 Dice.  Cult must be applied as one of the Backgrounds it functions as, thus 2 Dots of Cult can’t be applied to any Downtime roll.
@@ -1740,6 +1759,10 @@ much damage it does, thus it is an Aggravated Damage Roll and is limited
 to 10 Dice if it is aggravated upon the creature it is being used upon,
 15 if Lethal upon the victim, or Unlimited if Bashing.
 
+**<u>Eye of the Storm:</u>** <u>Non-metal projectiles are still deflected 
+by this power keeping the caster immune to all ranged attacks, but these 
+weapons aren’t destroyed by the power like metal weapons.</u>
+
 **Failures and Botches:** All Blood Sorcery arts are difficult and
 unforgiving. Failures on Base Powers (Blood Rage, Compel Soul, etc.) and
 Rituals indicate the magic fails and you're aware of it. The following
@@ -1928,13 +1951,13 @@ Tremere Thaumaturgical Rituals except those listed below:
 Traditions and grants its mechanical effects to the user while employing 
 her particular Tradition on all appropriate rolls.
 
-**<u>Ward vs Lupines:</u>** <u>This Ritual is now Ward vs Shapechangers, and does not protect against Ananansi.</u>
+**Ward vs Lupines:** This Ritual is now Ward vs Shapechangers, and does not protect against Ananansi.
 
-**<u>Enfolding the Believers:</u>** <u>Transcending Barriers Through Love & Pursuit of Apotheosis: These Rituals must be learned in the order expressed above, no skipping. Also, these Rituals are now completely decoupled from the actual number of Believers present.  Instead they shall use a number of Dice equal to how many Cult Background that the Player is willing to utilize for the purpose.  No other Background may be used: Cult ONLY.<u>
+**Enfolding the Believers:** Transcending Barriers Through Love & Pursuit of Apotheosis: These Rituals must be learned in the order expressed above, no skipping. Also, these Rituals are now completely decoupled from the actual number of Believers present.  Instead they shall use a number of Dice equal to how many Cult Background that the Player is willing to utilize for the purpose.  No other Background may be used: Cult ONLY.
 
-**<u>Transcending Barriers:<u>** <u>Through Love is performed normally, but the number of Successes on the Ritual from which the caster can benefit is capped by the number of Dots she has in Cult in both Use Modes.</u>
+**Transcending Barriers:** Through Love is performed normally, but the number of Successes on the Ritual from which the caster can benefit is capped by the number of Dots she has in Cult in both Use Modes.
 
-**<u>Pursuit of Apotheosis:</u>** <u>Can permanently reduce the caster’s Generation by one, and this fact requires Occult 5 and the Ritual itself purchased with XP for the Character to be certain.  Strong hints of this fact are also had when a Character obtains both Occult 5 and any Blood Sorcery 5.  One success is required for Generation Reduction.  There is a hidden cap on the Generation of any Character; when you reach it, you will be informed.  If you choose to exceed it, via ANY route, you are Retired: You won Vampire: The Masquerade (funky guitar riff).  Count on becoming an NPC in the Venue.<u>
+**Pursuit of Apotheosis:** Can permanently reduce the caster’s Generation by one, and this fact requires Occult 5 and the Ritual itself purchased with XP for the Character to be certain.  Strong hints of this fact are also had when a Character obtains both Occult 5 and any Blood Sorcery 5.  One success is required for Generation Reduction.  There is a hidden cap on the Generation of any Character; when you reach it, you will be informed.  If you choose to exceed it, via ANY route, you are Retired: You won Vampire: The Masquerade (funky guitar riff).  Count on becoming an NPC in the Venue.
 
 **Necromancy** does not cause Sequela (ToS p52) in this Venue.
 
@@ -1978,6 +2001,26 @@ and stacks with Blood Buffing.
 them, but fall back to V20 modern AM Wits+Occult if there are no specific rolls mentioned. The minion limit is the pool used from the system block, or 
 Wits+Occult if there are no rolls in the system block.
 
+**<u>Path of Conjuring:</u>** <u>You may only conjure single objects or machines 
+with levels 1 & 3.  These objects cannot contain liquids, pastes, or anything 
+other than normal, uncompressed atmospheric gasses.  The objects you conjure 
+always take on the ambient air temperature that you are currently being exposed 
+to.  If you conjure something that is explosive, hypergolic, spontaneously 
+combustible or the like, you are limited in your damage capacity.  You may do a 
+number of Bashing damage (concussion explosions) up to 1.5 times your total dice 
+in Intelligence+(Appropriate Ability to Create Item Here).  You may do a number 
+of Lethal Damage equal to your total dice in Intelligence+(Appropriate Ability 
+to Create Item Here).  You may do a number of Aggravated Damage equal to 1/2 of 
+your total dice in Intelligence+(Appropriate Ability to Create Item Here) while 
+rounding all decimals down, maximum of 5 Aggravated Wounds.  Some of these damage 
+types will be ongoing, like phosphorus for example.  Use your common sense.  
+Conjuring weapons requires the specific Knowledge: Engineering, Crafts, and/or 
+Science to manifest and particularly complicated items like computers, scientific 
+instruments, medical equipment, etc, will definitely require more than one of 
+these skills.  Talk to Staff if in doubt and YMMV.  Conjuring Weapons of Mass 
+Destruction results in your Retirement to the Status of a Venue NPC with Plot 
+Armor controlled solely by the Narrators.</u>
+
 #### **24b Incepting Novel Rituals/Adapting Rituals From Other Traditions:** As 
 stated in the Character Creation section, you must have 5 Dots in a Blood 
 Sorcery Path and have one Ritual at each level to interact with these 
@@ -2005,14 +2048,40 @@ creatures, things or powers should be pretty easy. Completely novel Rituals
 that don’t resemble anything already in RAW will, of course, be much more 
 difficult to adjudicate. Your patience is requested.
 
+### **<u>25. PRAXIS</u>**
+<u>These mechanics govern only fallow, unoccupied territory.  Larger, more 
+important cities will always require a sustained campaign to clear, then you 
+may proceed.  You should complete these steps in order, but you don’t have to.
+Keep meticulous records on your Tracker about when these events took place.  
+Include links.
 
-### **25. Daniel’s Boons**
+-	Optional: Gain recognition of other nearby Princes/Barons/Free States.  Not required but helps with the next line.
+-	Gain the Attention and Recognition of the local Archon or Anarch of Note.  (45 Success Downtime and lockout for 3 days upon success.)
+-	Domain 5 x3 which owns Downtown, at least one major transportation route, and either the local electrical generation infrastructure, or the local supernatural point of interest if any.  You may have to sacrifice/give away Domain in order to gain the requisite Domain in your new Praxis.
+-	Gain Control of Law Enforcement/National Guard presence, Influence 2/3 if Applicable.
+
+Coterie mechanics can be used to help in these qualifications.  At least three 
+vampires in the group must occupy said city most of the time (4 days a week at 
+least) and agree who is to lead so that vampire can become Prince/Baron/Duke/Master 
+of Cheese/Whatever.  This grants Status 5 for as long as they hold the position.  Seneschal or Equivalent grants Status 4, Primogen And Sheriff 3, and Whip/Hound 2, 
+again, for as long as they hold the position.  Similar status gains are had for 
+similar positions among the Anarchs.  Expect a visit from the Archon/Anarch of Note 
+if you haven't already requested his recognition.  Expect said beings to be unkind 
+to your ambitions if you didn't first ask.</u>
+
+### **26. Daniel’s Boons**
 Should some of you recognize this system, it’s lifted from the BNS LARP book as 
 it better reflects the feel and tone that I wish to strike. It is identical to 
 that system, so if you wish to read it there, you can. Boons break apart and 
-combine in threes. 3 Trivials equals a minor and vice versa. This rises all the 
-way to Major Boons, but 3 Major Boons cannot be combined to a Blood, nor 3 
-Bloods to a Life. Those stand apart because of their gravity.
+combine in threes. 3 Trivials equals a minor and vice versa. This rises all the way to Major Boons, but 3 Major Boons cannot be combined to a Blood, nor 3 
+Bloods to a Life. Those stand apart because of their gravity. <u>If a confirmed
+Boon is entered into the Boons Channel, and the debtor becomes unavailable for
+play, is Retired, or Destroyed, then that Boon shall be paid by Sires, Grandsires,
+or Elders of the Clan involved out of a sense of honor when called upon via Vignette
+written by the creditor.  This is to preserve the value of Boons and to ensure that
+those engaging with the system In Good Faith don’t get shortchanged via various
+things that aren’t their fault.  Conversely, Boons given shall be collected upon
+by the same agents at the Staff’s Discretion.  Caveat Emptor.</u>
 
 #### Trivial Boon
 
