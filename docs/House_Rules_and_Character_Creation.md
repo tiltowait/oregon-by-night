@@ -166,7 +166,7 @@ Blood Sorcery and have at least one Ritual of all five levels. See Rule
 
 Cult is limited to 3 at Character Creation.
 
-### **6. Merits & Flaws**
+### **5. Merits & Flaws**
 
 Merit based bonuses of any kind do not stack with each other. This
 includes difficulty reductions and bonus dice that would apply to the
@@ -222,7 +222,7 @@ Below are new Merits and Flaws:
 
 **Child:** This Flaw is stricken from Play.
 
-### **7. Specializations**
+### **6. Specializations**
 
 You must specialize at the first dot if you take any of the following:
 Expression, Crafts, Performance, Academics, Law, Science, Technology,
@@ -236,7 +236,7 @@ required to be competent in any of these fields.
 Other specializations apply as usual: any Attribute or Ability may be
 specialized when the fourth+ dot is placed in or purchased for it.
 
-### **8. Restrictions**
+### **7. Restrictions**
 
 You may not purchase more than 2 Dots of Status or Disciplines during
 Character Creation (buying up more Discipline dots with XP is allowed if
@@ -257,7 +257,7 @@ You may only invoke the "More Inhumane Vampires" mechanic on p85 of the
 Core if you start on a Path of Enlightenment. The Path of Honorable
 Accord does not qualify for this mechanic.
 
-### **9. Logging**
+### **8. Logging**
 
 Write and submit a log of where every dot went on your sheet, using the
 Excel document mentioned in Venue Rules § Rule the Second. Be sure to
@@ -266,7 +266,7 @@ expenditures are to be similarly logged and should be ready to submit
 upon demand to any staff member at any moment. Always include which
 doucheba... err...Storyteller gave you the XP.
 
-### **10. Character Submission**
+### **9. Character Submission**
 
 When your character is complete, submit both your character sheet PDF
 and Excel log to the Discord account noted to be accepting new player
@@ -280,7 +280,7 @@ use artbreeder.com, thispersondoesnotexist.com, or any of a host of
 other similar services to obtain art. Alternately, you may produce your
 own original works.
 
-### **11. Approval**
+### **10. Approval**
 
 Once you have submitted and had approved the first ever character you
 make, you receive 10XP, which can immediately be spent. This is a
