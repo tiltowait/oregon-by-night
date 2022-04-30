@@ -1,7 +1,7 @@
 # **Oregon by Night**
 ## **House Rules and Character Creation**
 
-?> **Updated 03/25/22.** Everything new is <u>underlined</u>.
+?> **Updated 04/27/22.** Everything new is <u>underlined</u>.
 
 ### **i. Rule the First**
 
@@ -152,8 +152,8 @@ If you are a Camarilla Tremere, the first level 5 Ritual you must take
 is Enchant Talisman.
 
 Currently, Camarilla Tremere assigned to the Portland Chantry may start
-on the <u>Path of Blood, Levinbolt, Conjuring, Focused Mind, Green Path, 
-and Spirit Manipulation</u>... This may change in the future if the
+on the Path of Blood, Levinbolt, Conjuring, Focused Mind, Green Path, 
+and Spirit Manipulation... This may change in the future if the
 Player Characters enabling this become unavailable, are Retired, or
 Destroyed.
 
@@ -221,6 +221,9 @@ Below are new Merits and Flaws:
     build should reflect this.
 
 **Child:** This Flaw is stricken from Play.
+
+**<u>True Faith</u>** <u>in Hunters Hunted II shall be the reference for 
+both the Merit from the V20 Core and the Numina from HH2.</u>
 
 ### **6. Specializations**
 
@@ -465,7 +468,9 @@ bed out of sleep.
 Pg. 311 of V20 Core; Effects of Humanity: the second bullet point is
 stricken entirely. Humanity does not affect the number of dice from your
 Virtues that you roll under any circumstances. This same rule applies to
-a low Path rating's effect on Virtue rolls. On Page 312 of the V20 Core, the chart labeled “Hierarchy of Sin – Humanity” contains several flagrant moral failings.  To correct this, the following Chart Shall be used:
+a low Path rating's effect on Virtue rolls. On Page 312 of the V20 Core, 
+the chart labeled “Hierarchy of Sin – Humanity” contains several flagrant 
+moral failings.  To correct this, the following Chart Shall be used:
 -   **10 Selfish thoughts**
 -   **9  Minor selfish acts**
 -   **8  Intentional property damage**
@@ -507,13 +512,22 @@ all these penalties.
 
 To change from Humanity to a Path, or from one Path to another:
 
-1. Reach a rating of 1 in all Virtues that need to be changed, if any.  Commit sins against your Humanity/Path and sacrifice Virtue dots instead of Humanity/Path dots.  This mechanic can only be used if you are actively trying to switch.
+1. Reach a rating of 1 in all Virtues that need to be changed, if any.  
+Commit sins against your Humanity/Path and sacrifice Virtue dots instead 
+of Humanity/Path dots.  This mechanic can only be used if you are actively 
+trying to switch.
 
 2. Reach a rating of 2 Dots in Humanity/current Path, again through sins.
 
-3. Moment of Truth: Must have a Mentor already on the Path.  Extended Willpower Roll.  Each roll costs 1 Willpower.  Difficulty = 10-(Sum of All Current Virtues).  Botches cost you one Humanity for each Botch Severity.  You may not spend Willpower to gain successes on these rolls.  Failure to reach 10 successes by your Willpower's end means you become a wight.
+3. Moment of Truth: Must have a Mentor already on the Path.  Extended Willpower 
+Roll.  Each roll costs 1 Willpower.  Difficulty = 10-(Sum of All Current Virtues).  
+Botches cost you one Humanity for each Botch Severity.  You may not spend Willpower 
+to gain successes on these rolls.  Failure to reach 10 successes by your 
+Willpower's end means you become a wight.
 
-4. Once on a Path, you may not transition back to Humanity.  Once it's gone, it's gone forever.  Once you transition away from a Path, you may not go back to it ever again.  You have burned the bridge.
+4. Once on a Path, you may not transition back to Humanity.  Once it's gone, it's 
+gone forever.  Once you transition away from a Path, you may not go back to it 
+ever again.  You have burned the bridge.
 
 For further guidance, see page 112 of Vampire: The Dark Ages 20th Anniversary edition.
 
@@ -958,10 +972,10 @@ These NPCs have Standard Virtue Scores.
 
 -   **One-dot NPCs** have Attributes of 2 and one at 3, two Abilities at
     2, and one Ability at 3.\
-    All other dice pools are 3 or less. <u>Willpower 4, and Virtues 3.</u>
+    All other dice pools are 3 or less. Willpower 4, and Virtues 3.
 -   **Two-dot NPCs** have Attributes at 2 excepting two at 3, three
     Abilities at 2 and two Abilities at 3.\
-    All other dice pools are 3 or less. <u>Willpower 4, and Virtues 3.</u>
+    All other dice pools are 3 or less. Willpower 4, and Virtues 3.
 -   **Three+ dot NPCs** have their own sheets that must be submitted and
     approved.
 
@@ -971,6 +985,55 @@ limited to their dot rating for any Attribute or Ability (eg. a 3-dot
 Retainer can have a maximum of 3 dots in any given Attribute or
 Ability). Backgrounds should remain representative of a real person (eg.
 not five dots in Influence and nothing else).
+
+<u>Supernaturals have their appropriate powers.  Ghouls have 2 Dots of 
+Disciplines as described elsewhere in these rules.  Ghosts/Wraiths/Specters 
+from Spirit Slaves have Lifesight, Deathsight, Heightened Senses equivalent 
+to Auspex 1, and one Haunting Power listed below:</u>
+
+**<u>Ominous Whispers:</u>** <u>The ghost may verbally communicate with one 
+being in the Skinlands at a time.  This communication is a faint voice or 
+whisper which is always super creepy.  This power can be used at will with 
+no limit.</u>
+
+**<u>Malicious Movements:</u>** <u>The ghost may exert a force of 5 pounds 
+with the dexterity of a single hand.  This power cannot directly cause damage 
+but has plenty of potential to write messages, cause sabotage or distractions, 
+deliver small items, break fragile things, pull a trigger, start fires, etc.  
+This power can be used once per day, and lasts for 5 minutes.</u>
+
+**<u>Harrowing Haunting:</u>** <u>The ghost can create minor hallucinations 
+geared towards terrifying their victim.  Shadows move to attack.  The ghost 
+herself appears, rotten, threatening and horrifying.  A mangled child pleads 
+for help luring the victim across a weakened floor, or deliberate trap.  Make 
+appropriate Manipulation/Charisma rolls against your victims.  This power can 
+be used twice per day and lasts for the entire scene or until the ghost drives 
+away the Skinland invaders.</u>
+
+**<u>Tempest Teleport:</u>** <u>Sinking through the Tempest, the ghost can 
+teleport up to two miles via line of sight, or to locations she’s been to before.  
+This power can be used twice per day.</u>
+
+**<u>Risen:</u>** <u>Requires 3+ Dots of Spirit Slave or 3+ Successes on your 
+Summon Soul Roll. The fetter for this being is its corpse which remains curiously 
+resistant to decomposition. Build this NPC like a 3 Dot Spirit Slave with the 
+following differences: It gains Lifesight, Deathsight, Auspex 1 and Fortitude 2. 
+It gains other Haunting Powers as appropriate to its Dots.  It has 10 Health 
+Levels and does not suffer wound penalties.  It can’t heal itself or be healed.  
+At 4 wounds it is a Breach of the Masquerade if seen plainly for what it is.  
+When ‘killed’, the body becomes inanimate and the ghost returns to the shadowlands.  
+If a Spirit Slave, it Returns one week hence with the body repaired.  If Summoned, 
+you may summon it again as normal 1 week hence, body repaired upon the Summoning 
+roll.</u>
+
+<u>Ghosts have 10 Corpus and take 1 Corpus damage every time something happens to 
+them that would cause a mortal to mark a wound on the tracker and become incorporeal 
+as below.  Moving through solid objects causes these ghosts to become incorporeal for 
+an entire combat round, and lose 1 Corpus; they are immune to damage from the Skinlands 
+during this time.  There are numerous magic items that can do more than 1 Corpus of 
+damage in a single strike.  These ghosts can sense these items and are rightly 
+frightened of them.  3 Dot Spirit Slaves have 2 of the above Haunting Powers.  
+5 Dot Spirit Slaves have three.</u>
 
 Swarms function as Retainers.  One dot represents a Swarm that can 
 attack one adult, human sized creature.  For each additional dot, the 
@@ -1074,26 +1137,31 @@ attach this Background. Currently, no PC possesses the Power Necessary
 to Attain all 5 Dots. The effects of this Background stack atop any Dots
 in Domain dedicated to Security.
 
-**<u>...and NPCs:</u>**
--	<u>Hired muscle and guards with Resources, or NPCs from things like Mob
+**...and NPCs:**
+-	Hired muscle and guards with Resources, or NPCs from things like Mob
 	and other insignificant background NPCs have been referred to thus far as 
 	"4 Dice Mooks".  These guards/muscle can accompany you outside your Domain, 
 	but, if you don't want to be hassled by Law Enforcement, have at least one 
 	Dot of Influence or Contacts: Police, or Allies: Police, or Fame for each 
-	guard you wish to have around, preferably one more.</u>
+	guard you wish to have around, preferably one more.
  
--	*<u>4 Dice Mook:</u>*
-	<u>They have a Single, Primary Combat Stat: 4 Dice, which is a combination 
+-	*4 Dice Mook:*
+	They have a Single, Primary Combat Stat: 4 Dice, which is a combination 
 	of 2 in an Attribute and 2 in the Appropriate Ability.  Additionally 
 	they have two Secondary Stats: 3 Dice each composed of one Attribute at 
 	2, and an Ability at 1.  Also, they possess 1 Dot common Abilities like 
 	Drive, they can swim, basic literacy and so forth.  These skills cannot 
 	affect combat in any way.  4 Dice Mooks have Standard Health Levels, 3 
 	Willpower, 7 Humanity, 3 in all Virtues, and, of course, 10 points of 
-	blood(yum!).</u>
+	blood(yum!).
 
 **...and Downtime:**\
-Appropriate Backgrounds apply to your Downtime rolls.  Only 1 Background applies at a time.  Only one Difficulty Reduction applies at a time, regardless of source.  Backgrounds of 1 provide nothing.  Backgrounds of 2&3 provide 1 die.  A Background of 4 gives 2 dice.  A Background of 5 gives 3 Dice.  Cult must be applied as one of the Backgrounds it functions as, thus 2 Dots of Cult can’t be applied to any Downtime roll.
+Appropriate Backgrounds apply to your Downtime rolls.  Only 1 Background applies 
+at a time.  Only one Difficulty Reduction applies at a time, regardless of source.  
+Backgrounds of 1 provide nothing.  Backgrounds of 2&3 provide 1 die.  A Background 
+of 4 gives 2 dice.  A Background of 5 gives 3 Dice.  Cult must be applied as one of 
+the Backgrounds it functions as, thus 2 Dots of Cult can’t be applied to any Downtime 
+roll.
 
 
 ### **18. Experience Points**
@@ -1208,7 +1276,9 @@ following format: Rolling Syntax \# Attribute + Ability, Sorcery
 Tradition, Ritual Name, Casting Time, Target. Also See; Seeing the
 Unseen in this document for clarification on detection of these powers.
 
-**Auspex & Aura Perception:** Auspex Difficulty Reduction applies to only the first two levels of this Discipline up to your number of dots in this power.
+**Auspex & Aura Perception:** Auspex Difficulty Reduction applies to only 
+the first two levels of this Discipline up to your number of dots in this 
+power.
 
 Kinfolk have their own unique aura and it follows
 the concept closely with that of ghouls; patches of Garou aura mixing
@@ -1476,11 +1546,18 @@ of Stamina Loss.
 
 **The Weeping of Kruchina:** This text supersedes the original text.
 
-The Koldun may instill a crushing despair or nigh-suicidal depression in her enemy. 
+The Koldun may instill a crushing despair or nigh-suicidal depression 
+in her enemy. 
 
-System: For one turn per success, the target is overwhelmed by intense misery and weeps uncontrollably.  Victims lose one Blood Point each combat turn and this can have serious consequences for mortals, ghouls, kinfolk and werewolves.  Victims cannot engage in any action that requires concentration, and while they can act, they can’t take any actions that would also be prohibited by Frenzy.
+System: For one turn per success, the target is overwhelmed by intense 
+misery and weeps uncontrollably.  Victims lose one Blood Point each 
+combat turn and this can have serious consequences for mortals, ghouls, 
+kinfolk and werewolves.  Victims cannot engage in any action that 
+requires concentration, and while they can act, they can’t take any 
+actions that would also be prohibited by Frenzy.
 
-**Wound Sculpting:** LotC 243, works on yourself, other vampires, werewolves, ghouls, kinfolk, mortals and animals.
+**Wound Sculpting:** LotC 243, works on yourself, other vampires, werewolves,
+ghouls, kinfolk, mortals and animals.
 
 ### **20. Minor Adjudications**
 
@@ -1496,11 +1573,12 @@ and add it to this lexicon:
     is now just a normal human and all Lore changes and consequences of
     that shall be considered as/if they become relevant.
 -   During Frenzy you may only use Disciplines and Vampiric Base powers
-    that a lizard-like intelligence could use. No Blood Sorcery,
-    Entrancement, Spirit's Touch, or Forgetful Mind, for example. On the
-    other hand, Dread Gaze, The Physical Three, Unseen Presence, Blood
-    Buffing, and similar things are allowed. Reach consent with your
-    fellow Players, or seek out Staff if you cannot.
+    that a lizard-like intelligence could use. <u>No using any Mental 
+	Attributes or Knowledge Ability rolls during any Frenzy (which includes 
+	Rotschrek).</u>  No Blood Sorcery,    Entrancement, Spirit's Touch, or 
+	Forgetful Mind, for example. On the other hand, Dread Gaze, The Physical 
+	Three, Unseen Presence, Blood Buffing, and similar things are allowed. 
+	Reach consent with your fellow Players, or seek out Staff if you cannot.
 -   Mortals with 9 & 10 Willpower and the Iron Will Merit may resist the
     Kiss for a number of Combat Rounds equal to the number of successes
     they gain on a Self-Control Roll, difficulty 9. At the end of these
@@ -1577,6 +1655,10 @@ and add it to this lexicon:
 	the rule that you cannot spend blood while staked.  You may enter
 	voluntary torpor while staked and that rule-set takes over from that
 	point forward.
+-	<u>When fighting an opponent you can't see, you suffer the penalties 
+for being Blind and they gain the bonus mentioned therein against you.  
+Expect to constantly be Flanked, Ambushed and attacked from behind.</u>
+-	<u>Path of Asakku and Evil Revelations are not allowed for Player Characters.</u>
 
 ### **21. On the Blood Bond**
 
@@ -1643,7 +1725,8 @@ specific powers and sections in all of V20.
 
 ### **23. Abilities & Attributes**
 
-An Attribute Specialization can be changed with a Standard 15 Success Downtime action and 3 Experience Points.  Your dice pools will vary.
+An Attribute Specialization can be changed with a Standard 15 Success Downtime 
+action and 3 Experience Points.  Your dice pools will vary.
 
 Specializations: Once you reach the 5<sub>th</sub> Dot in any Ability, you may
 purchase additional Specializations for 3 XP, and a 15 success Downtime
@@ -1759,9 +1842,9 @@ much damage it does, thus it is an Aggravated Damage Roll and is limited
 to 10 Dice if it is aggravated upon the creature it is being used upon,
 15 if Lethal upon the victim, or Unlimited if Bashing.
 
-**<u>Eye of the Storm:</u>** <u>Non-metal projectiles are still deflected 
+**Eye of the Storm:** Non-metal projectiles are still deflected 
 by this power keeping the caster immune to all ranged attacks, but these 
-weapons aren’t destroyed by the power like metal weapons.</u>
+weapons aren’t destroyed by the power like metal weapons.
 
 **Failures and Botches:** All Blood Sorcery arts are difficult and
 unforgiving. Failures on Base Powers (Blood Rage, Compel Soul, etc.) and
@@ -1892,7 +1975,8 @@ is (Dots) + 3.
 + Occult; Difficulty (Dots) + 3.
 
 **Koldunic Sorcery (Black Hand p169, TOS p45):** Only the Kraina and 
-their Rituals trigger the Kraina’s madness in practitioners of Koldunism. Ways and their Rites have no such effect.
+their Rituals trigger the Kraina’s madness in practitioners of Koldunism. 
+Ways and their Rites have no such effect.
 
 **Dur'An'Ki**
 
@@ -1951,15 +2035,35 @@ Tremere Thaumaturgical Rituals except those listed below:
 Traditions and grants its mechanical effects to the user while employing 
 her particular Tradition on all appropriate rolls.
 
-**Ward vs Lupines:** This Ritual is now Ward vs Shapechangers, and does not protect against Ananansi.
+**Ward vs Lupines:** This Ritual is now Ward vs Shapechangers, and does 
+not protect against Ananansi.
 
-**Enfolding the Believers:** Transcending Barriers Through Love & Pursuit of Apotheosis: These Rituals must be learned in the order expressed above, no skipping. Also, these Rituals are now completely decoupled from the actual number of Believers present.  Instead they shall use a number of Dice equal to how many Cult Background that the Player is willing to utilize for the purpose.  No other Background may be used: Cult ONLY.
+**Enfolding the Believers,** **Transcending Barriers Through Love,** & **Pursuit of Apotheosis**: 
+These Rituals must be learned in the order expressed above, no skipping. 
+Also, these Rituals are now completely decoupled from the actual number 
+of Believers present.  Instead they shall use a number of Dice equal to 
+how many Cult Background that the Player is willing to utilize for the 
+purpose.  No other Background may be used: Cult ONLY.
 
-**Transcending Barriers:** Through Love is performed normally, but the number of Successes on the Ritual from which the caster can benefit is capped by the number of Dots she has in Cult in both Use Modes.
+**Transcending Barriers:** Through Love is performed normally, but the 
+number of Successes on the Ritual from which the caster can benefit is 
+capped by the number of Dots she has in Cult in both Use Modes.
 
-**Pursuit of Apotheosis:** Can permanently reduce the caster’s Generation by one, and this fact requires Occult 5 and the Ritual itself purchased with XP for the Character to be certain.  Strong hints of this fact are also had when a Character obtains both Occult 5 and any Blood Sorcery 5.  One success is required for Generation Reduction.  There is a hidden cap on the Generation of any Character; when you reach it, you will be informed.  If you choose to exceed it, via ANY route, you are Retired: You won Vampire: The Masquerade (funky guitar riff).  Count on becoming an NPC in the Venue.
+**Pursuit of Apotheosis:** Can permanently reduce the caster’s Generation 
+by one, and this fact requires Occult 5 and the Ritual itself purchased with 
+XP for the Character to be certain.  Strong hints of this fact are also had 
+when a Character obtains both Occult 5 and any Blood Sorcery 5.  One success 
+is required for Generation Reduction.  There is a hidden cap on the Generation 
+of any Character; when you reach it, you will be informed.  If you choose 
+to exceed it, via ANY route, you are Retired: You won Vampire: The Masquerade 
+(funky guitar riff).  Count on becoming an NPC in the Venue.
 
 **Necromancy** does not cause Sequela (ToS p52) in this Venue.
+
+**<u>Summon Soul + Compel Soul:</u>** <u>The ghost obtained in this fashion 
+has a power level equal to that of a Spirit Slave (See Above) equal to a 
+number of dots as successes obtained on the Summon Soul Roll.  You may Summon 
+and control 1 of these ghosts for every point of permanent willpower you possess.</u>
 
 **Lifeless Tongues** lasts one Scene.
 
@@ -1975,7 +2079,8 @@ Bloodlines pages 49 and 71). All the other Blood Sorceries meet the
 specifies a specific Path; in which case you must have that Path or your 
 Tradition’s equivalent.
 
-**Thaumaturgical Sight:** This Combo Discipline does not automatically reveal Thaumaturgically hidden beings. Use Seeing the Unseen in this document.
+**Thaumaturgical Sight:** This Combo Discipline does not automatically 
+reveal Thaumaturgically hidden beings. Use Seeing the Unseen in this document.
 
 **Calling the Hungry Shade:** If Successful, the Shade is under the caster’s 
 control. The controlling caster for group Rituals must be decided when the 
@@ -1998,10 +2103,11 @@ and stacks with Blood Buffing.
 **Mirror of Second Sight**: The items made by this Ritual can be used by others.
 
 **Abyss Mysticism:** Use specific rolls in specific rituals if they have 
-them, but fall back to V20 modern AM Wits+Occult if there are no specific rolls mentioned. The minion limit is the pool used from the system block, or 
+them, but fall back to V20 modern AM Wits+Occult if there are no specific rolls 
+mentioned. The minion limit is the pool used from the system block, or 
 Wits+Occult if there are no rolls in the system block.
 
-**<u>Path of Conjuring:</u>** <u>You may only conjure single objects or machines 
+**Path of Conjuring:** You may only conjure single objects or machines 
 with levels 1 & 3.  These objects cannot contain liquids, pastes, or anything 
 other than normal, uncompressed atmospheric gasses.  The objects you conjure 
 always take on the ambient air temperature that you are currently being exposed 
@@ -2019,7 +2125,55 @@ Science to manifest and particularly complicated items like computers, scientifi
 instruments, medical equipment, etc, will definitely require more than one of 
 these skills.  Talk to Staff if in doubt and YMMV.  Conjuring Weapons of Mass 
 Destruction results in your Retirement to the Status of a Venue NPC with Plot 
-Armor controlled solely by the Narrators.</u>
+Armor controlled solely by the Narrators.
+
+**<u>Path of Spirit Manipulation:</u>** <u>This Path has several large holes that 
+need fixing and a system to make it less labor intensive on Staff.</u>
+
+-	**<u>Astral Cant:</u>** <u>Besides the obvious uses and being needed for other 
+	powers, you may use this Discipline to engage in chiminage with spirits before 
+	using Entrap Ephemera upon them.  In order to make this process abstract, you 
+	must make a (Charisma or Manipulation) + (Ability Appropriate to the Spirit; 
+	ask Staff, YMMV) Roll vs (The Rank of the Spirit x2) in order to convince it to 
+	let you perform tasks for it in exchange for service as a Fetish.  These tasks 
+	require a lengthy vignette, and 1 day of RP lockout for every Rank of the spirit.  
+	Subtract one day for every success you garnered on the previous roll beyond the 
+	first.  If this reduces your number of days to zero, then your RP lockout is 12 
+	hours.  The length of the spirit’s service as a fetish is determined by how much 
+	Willpower you are willing to spend to feed the spirit’s hungers.  The spirit serves 
+	for one month for every Willpower you expend and they recover at the normal rate.  
+	Creating Fetishes using this chiminage system carries only one benefit: If you Botch 
+	and destroy the fetish, the spirit departs without attacking.  When the Service 
+	Term is over, the item remains and becomes mundane once more; the spirit departs 
+	to deep within the Umbra to grow and develop.  You may not reuse spirits for 
+	fetishes.  You must locate a new one each time.</u>
+
+-	**<u>Entrap Ephemera:</u>** <u>Creating Fetishes with this power will now 
+	always require a spirit of the same Potency/Rank (Rank from here on.) as 
+	the Level of the Fetish being created.  See the second paragraph below 
+	when using this Discipline to create a fetish after chiminage.  Spirits 
+	follow the guidelines on page 142 of Rites of the Blood.  All Difficulties 
+	for your rolls shall be the Rank of the spirit x2.  You must get at least 
+	2 successes on the activation roll for this power in order to successfully 
+	create the fetish.  Appropriately themed items are required, and are easy 
+	to obtain for anyone with Resources or Influence equal to the Rank of the 
+	spirit.  If you lack these, make arrangements with your fellow Players.  
+	Failing to trap the spirit in question results in you being attacked by 
+	this spirit as though you’d destroyed an existing fetish; contact Staff.  
+	These fetishes last indefinitely until Botch-Destroyed, or physically 
+	destroyed in some manner; which causes the spirit to attack the user; 
+	contact Staff.  Finding the proper spirit for your Fetish requires a 
+	lengthy vignette, and one day RP lockout per Rank of the spirit.  These 
+	days needn’t be consecutive, but each day must be declared in an IC room.  
+	Be verbose in your declaration.</u>
+
+<u>If you have completed chiminage with a spirit and create a fetish with it using 
+this power, your Difficulty on the roll is now at -1, you must gain one success, 
+the spirit relents, and becomes your fetish for agreed upon term determined by 
+your Willpower expenditure.  These fetishes garner much less anger from shapechangers 
+akin to an internal grumbling about having bigger problems than some leech who 
+can talk nice to umbrood.</u>
+
 
 #### **24b Incepting Novel Rituals/Adapting Rituals From Other Traditions:** As 
 stated in the Character Creation section, you must have 5 Dots in a Blood 
@@ -2048,8 +2202,8 @@ creatures, things or powers should be pretty easy. Completely novel Rituals
 that don’t resemble anything already in RAW will, of course, be much more 
 difficult to adjudicate. Your patience is requested.
 
-### **<u>25. PRAXIS</u>**
-<u>These mechanics govern only fallow, unoccupied territory.  Larger, more 
+### **25. PRAXIS**
+These mechanics govern only fallow, unoccupied territory.  Larger, more 
 important cities will always require a sustained campaign to clear, then you 
 may proceed.  You should complete these steps in order, but you don’t have to.
 Keep meticulous records on your Tracker about when these events took place.  
@@ -2063,29 +2217,32 @@ Include links.
 Coterie mechanics can be used to help in these qualifications.  At least three 
 vampires in the group must occupy said city most of the time (4 days a week at 
 least) and agree who is to lead so that vampire can become Prince/Baron/Duke/Master 
-of Cheese/Whatever.  This grants Status 5 for as long as they hold the position.  Seneschal or Equivalent grants Status 4, Primogen And Sheriff 3, and Whip/Hound 2, 
+of Cheese/Whatever.  This grants Status 5 for as long as they hold the position.  
+Seneschal or Equivalent grants Status 4, Primogen And Sheriff 3, and Whip/Hound 2, 
 again, for as long as they hold the position.  Similar status gains are had for 
 similar positions among the Anarchs.  Expect a visit from the Archon/Anarch of Note 
 if you haven't already requested his recognition.  Expect said beings to be unkind 
-to your ambitions if you didn't first ask.</u>
+to your ambitions if you didn't first ask.
 
 ### **26. Daniel’s Boons**
 Should some of you recognize this system, it’s lifted from the BNS LARP book as 
 it better reflects the feel and tone that I wish to strike. It is identical to 
 that system, so if you wish to read it there, you can. Boons break apart and 
-combine in threes. 3 Trivials equals a minor and vice versa. This rises all the way to Major Boons, but 3 Major Boons cannot be combined to a Blood, nor 3 
-Bloods to a Life. Those stand apart because of their gravity. <u>If a confirmed
+combine in threes. 3 Trivials equals a minor and vice versa. This rises all the 
+way to Major Boons, but 3 Major Boons cannot be combined to a Blood, nor 3 
+Bloods to a Life. Those stand apart because of their gravity. If a confirmed
 Boon is entered into the Boons Channel, and the debtor becomes unavailable for
 play, is Retired, or Destroyed, then that Boon shall be paid by Sires, Grandsires,
 or Elders of the Clan involved out of a sense of honor when called upon via Vignette
 written by the creditor.  This is to preserve the value of Boons and to ensure that
 those engaging with the system In Good Faith don’t get shortchanged via various
 things that aren’t their fault.  Conversely, Boons given shall be collected upon
-by the same agents at the Staff’s Discretion.  Caveat Emptor.</u>
+by the same agents at the Staff’s Discretion.  Caveat Emptor.
 
 #### Trivial Boon
 
-A trivial boon is a simple favor owed for receiving a minor service, political consideration, or forgiving a social *faux pas*. This type of boon should be 
+A trivial boon is a simple favor owed for receiving a minor service, political 
+consideration, or forgiving a social *faux pas*. This type of boon should be 
 freely offered and accepted, much like a business card. Payment of a trivial 
 boon should involve simple one-time favors or services that take no more than 
 a single game session or a night to complete.
@@ -2125,10 +2282,12 @@ services that take no more than six game sessions or three months
 **Example Scenarios Involving Major Boons:**
 
 - Leveraging your backgrounds and influences to someone else’s agenda.
-- Teaching advanced levels of a common discipline or low levels of an uncommon or rare discipline.
+- Teaching advanced levels of a common discipline or low levels of an uncommon or 
+rare discipline.
 - Revealing a major secret that is potentially very damaging.
 - Purchasing a major business, building, or land.
-- Aligning yourself with a political or social agenda that potentially harms your own position with your clan and allies, such as supporting someone’s bid for praxis.
+- Aligning yourself with a political or social agenda that potentially harms your 
+own position with your clan and allies, such as supporting someone’s bid for Praxis.
 
 #### Blood Boon
 
