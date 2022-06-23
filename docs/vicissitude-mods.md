@@ -3,7 +3,11 @@
 
 ---
 
-?> **Updated 11/26/21.** Everything new is <u>underlined</u>.
+?> **Updated 06/23/22.** Everything new is <u>underlined</u>.
+
+<u>Thanks to ziggpy and a.kraken for their assistance on this project.</u>
+
+<u>You may not obtain Vicissitude Modifications of any kind in game during your first 60 days of Play, even from yourself.</u>
 
 Although you may not be talented at the Tzimisce forms of Fleshcrafting and Bonecrafting, at some point you have been… modified into a more warlike form. Generally speaking, most modifications necessitate the purchase of the Flaw: Monstrous. As a rule, the Tzimisce make sufficient cosmetic alterations to ruin the looks of all their battle-ghouls, even those whose modifications are not in and of themselves hideous. Those Modifications that don’t NECESSITATE this Flaw all have Identical Sentences attached to them.
 
@@ -157,20 +161,23 @@ Although vampires are typically immune to mortal drugs and poisons, there are su
 ### Sturdy (4pt. Merit)
 You gain an additional Bruised Health Level and all your Wound Penalties are reduced by 1 Die. This does not result in any outward physical transformation. This Merit costs double for Mortals and Ghouls. This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence. This Merit is from Dark Ages, but is not cited here because of significant changes from the base system.
 
-### <u>Alien Perfection (2)</u>
-<u>You possess beauty unsettling in its perfection. People stand in awe of your flawless form, while inexplicable nausea subconsciously creeps up. The difficulty of any Appearance roll is reduced by three. A Stamina roll is required by anyone in your presence for longer than one scene, if this is the first time they’ve encountered you. Failure drives them away from you with a sickness wracking their body.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.</u>
+### Alien Perfection (2)
+You possess beauty unsettling in its perfection. People stand in awe of your flawless form, while inexplicable nausea subconsciously creeps up. The difficulty of any Appearance roll is reduced by three. A Stamina roll is required by anyone in your presence for longer than one scene, if this is the first time they’ve encountered you. Failure drives them away from you with a sickness wracking their body.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
 * *(Lore of the Bloodlines p59)*
 
-### <u>Drug Resistance (2)</u>
-<u>You are unusually resistant to alcohol, narcotics, and similar addictive substances. You can pretend to be far more under the influence than you are in order to take advantage of an opponent. All rolls to resist the effects of such substances are at -2 difficulty.  This Modification cannot be granted to Vampires or any other undead.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.</u>
+### Drug Resistance (2)
+You are unusually resistant to alcohol, narcotics, and similar addictive substances. You can pretend to be far more under the influence than you are in order to take advantage of an opponent. All rolls to resist the effects of such substances are at -2 difficulty.  This Modification cannot be granted to Vampires or any other undead.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
 * *(Lore of the Clans p67)*
 
-### <u>Disease Resistance (2)</u>
-<u>You are unusually resistant to any and all infections by pathogens.  As well, you are able to fight off any and all other types of “diseases”, like cancer, Alzheimer's, Kuru, Lou Gherig’s, Epilepsy, etc, et al.  This does not extend to Derangements.  You can pretend to be far more under the influence than you are in order to take advantage of an opponent. All rolls to resist the effects of such things are at -2 difficulty.  This Modification cannot be granted to Vampires or any other undead.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.</u>
+### Disease Resistance (2)
+You are unusually resistant to any and all infections by pathogens.  As well, you are able to fight off any and all other types of “diseases”, like cancer, Alzheimer's, Kuru, Lou Gherig’s, Epilepsy, etc, et al.  This does not extend to Derangements.  You can pretend to be far more under the influence than you are in order to take advantage of an opponent. All rolls to resist the effects of such things are at -2 difficulty.  This Modification cannot be granted to Vampires or any other undead.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
 * *(Venue Modification)*
+
+### Folds of Flesh (Variable): 
+You have one or more secret compartments of some kind on, or inside, your body that can hold items.  For 1 point you may store tiny objects like a roll of coins, a clip of ammunition, a lighter, a pack of gum, and so forth.  For 2 points you may store things like a grenade, an apple, a very small pistol, a can of food, a tiny bird, and so on.  For 3 points you can store a handgun, a walkie-talkie, a few sticks of dynamite, half a gallon of fuel, a small stuffed animal.  This Modification costs double for ghouls or mortals.  This does not require you to take Monstrous if it stands alone or with other Modifications that bear this sentence.
 
 ## Canon Flaws
 
