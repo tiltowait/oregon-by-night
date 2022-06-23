@@ -1,7 +1,7 @@
 # **Oregon by Night**
 ## **House Rules and Character Creation**
 
-?> **Updated 04/27/22.** Everything new is <u>underlined</u>.
+?> **Updated 06/23/22.** Everything new is <u>underlined</u>.
 
 ### **i. Rule the First**
 
@@ -222,8 +222,8 @@ Below are new Merits and Flaws:
 
 **Child:** This Flaw is stricken from Play.
 
-**<u>True Faith</u>** <u>in Hunters Hunted II shall be the reference for 
-both the Merit from the V20 Core and the Numina from HH2.</u>
+**True Faith** in Hunters Hunted II shall be the reference for 
+both the Merit from the V20 Core and the Numina from HH2.
 
 ### **6. Specializations**
 
@@ -255,6 +255,8 @@ some other exceptional reason why this isn't the case in your Backstory.
 Spiritus, because of how it is obtained, and the historicity of its
 possessor's destruction, cannot be obtained at Character creation, or in
 play.
+
+<u>Melpominee is also restricted from Player possession at chargen, or in Play.</u>
 
 You may only invoke the "More Inhumane Vampires" mechanic on p85 of the
 Core if you start on a Path of Enlightenment. The Path of Honorable
@@ -924,6 +926,13 @@ otherwise, which it does in certain places. You must always roll to
 account for 1's and Exploding 10's due to Specialties. This is to
 clarify pg. 249 of V20 Core which is a bit wishy-washy on the subject.
 
+<u>When Difficulties rise above 10, new conditions take hold that override 
+The Core.  Treat all Difficulties  above 10 as 10, you may not spend 
+Willpower for automatic successes and with the following requirement for 
+successes: (Total Difficulty) – 9.  Example: Vara wants to jump further 
+than she’d normally be able, and her Difficulty is 12.  She must roll 
+against Difficulty 10, cannot spend Willpower, and needs 3 successes.</u>
+
 New Mechanic, Half Assed: You may choose to use less than your full dice
 pool when making any roll.
 
@@ -986,35 +995,35 @@ Retainer can have a maximum of 3 dots in any given Attribute or
 Ability). Backgrounds should remain representative of a real person (eg.
 not five dots in Influence and nothing else).
 
-<u>Supernaturals have their appropriate powers.  Ghouls have 2 Dots of 
+Supernaturals have their appropriate powers.  Ghouls have 2 Dots of 
 Disciplines as described elsewhere in these rules.  Ghosts/Wraiths/Specters 
 from Spirit Slaves have Lifesight, Deathsight, Heightened Senses equivalent 
-to Auspex 1, and one Haunting Power listed below:</u>
+to Auspex 1, and one Haunting Power listed below:
 
-**<u>Ominous Whispers:</u>** <u>The ghost may verbally communicate with one 
+**Ominous Whispers:** The ghost may verbally communicate with one 
 being in the Skinlands at a time.  This communication is a faint voice or 
 whisper which is always super creepy.  This power can be used at will with 
-no limit.</u>
+no limit.
 
-**<u>Malicious Movements:</u>** <u>The ghost may exert a force of 5 pounds 
+**Malicious Movements:** The ghost may exert a force of 5 pounds 
 with the dexterity of a single hand.  This power cannot directly cause damage 
 but has plenty of potential to write messages, cause sabotage or distractions, 
 deliver small items, break fragile things, pull a trigger, start fires, etc.  
-This power can be used once per day, and lasts for 5 minutes.</u>
+This power can be used once per day, and lasts for 5 minutes.
 
-**<u>Harrowing Haunting:</u>** <u>The ghost can create minor hallucinations 
+**Harrowing Haunting:** The ghost can create minor hallucinations 
 geared towards terrifying their victim.  Shadows move to attack.  The ghost 
 herself appears, rotten, threatening and horrifying.  A mangled child pleads 
 for help luring the victim across a weakened floor, or deliberate trap.  Make 
 appropriate Manipulation/Charisma rolls against your victims.  This power can 
 be used twice per day and lasts for the entire scene or until the ghost drives 
-away the Skinland invaders.</u>
+away the Skinland invaders.
 
-**<u>Tempest Teleport:</u>** <u>Sinking through the Tempest, the ghost can 
+**Tempest Teleport:** Sinking through the Tempest, the ghost can 
 teleport up to two miles via line of sight, or to locations she’s been to before.  
-This power can be used twice per day.</u>
+This power can be used twice per day.
 
-**<u>Risen:</u>** <u>Requires 3+ Dots of Spirit Slave or 3+ Successes on your 
+**Risen:** Requires 3+ Dots of Spirit Slave or 3+ Successes on your 
 Summon Soul Roll. The fetter for this being is its corpse which remains curiously 
 resistant to decomposition. Build this NPC like a 3 Dot Spirit Slave with the 
 following differences: It gains Lifesight, Deathsight, Auspex 1 and Fortitude 2. 
@@ -1024,16 +1033,16 @@ At 4 wounds it is a Breach of the Masquerade if seen plainly for what it is.
 When ‘killed’, the body becomes inanimate and the ghost returns to the shadowlands.  
 If a Spirit Slave, it Returns one week hence with the body repaired.  If Summoned, 
 you may summon it again as normal 1 week hence, body repaired upon the Summoning 
-roll.</u>
+roll.
 
-<u>Ghosts have 10 Corpus and take 1 Corpus damage every time something happens to 
+Ghosts have 10 Corpus and take 1 Corpus damage every time something happens to 
 them that would cause a mortal to mark a wound on the tracker and become incorporeal 
 as below.  Moving through solid objects causes these ghosts to become incorporeal for 
 an entire combat round, and lose 1 Corpus; they are immune to damage from the Skinlands 
 during this time.  There are numerous magic items that can do more than 1 Corpus of 
 damage in a single strike.  These ghosts can sense these items and are rightly 
 frightened of them.  3 Dot Spirit Slaves have 2 of the above Haunting Powers.  
-5 Dot Spirit Slaves have three.</u>
+5 Dot Spirit Slaves have three.
 
 Swarms function as Retainers.  One dot represents a Swarm that can 
 attack one adult, human sized creature.  For each additional dot, the 
@@ -1395,9 +1404,12 @@ person's mind allows, but all that the Telepath sees will be 100%
 accurate reflections of the true events that person experienced not
 withstanding memory alteration or erasure.
 
-**Vicissitude**: Up to 7 + Medicine Dots worth of the Vicissitude
-Modifications Merit can be granted by users of the Discipline. The
-modifications mentioned in that Merit are not the only ones possible.
+**Vicissitude**: <u>You may not obtain Vicissitude Modifications of any 
+kind in game during your first 60 days of Play, even from yourself.  
+This is to fix severe metagaming, apologies to earnest Players.</u> Up 
+to 7 + Medicine Dots worth of the Vicissitude Modifications Merit can 
+be granted by users of the Discipline. The modifications mentioned in 
+that Merit are not the only ones possible.
 PCs do not start with this extra knowledge not found under the Merit; it
 must be gained through experimentation or granted to you by Elders in
 the know. See the House Rules stand-alone document entitled "Vicissitude
@@ -1573,9 +1585,9 @@ and add it to this lexicon:
     is now just a normal human and all Lore changes and consequences of
     that shall be considered as/if they become relevant.
 -   During Frenzy you may only use Disciplines and Vampiric Base powers
-    that a lizard-like intelligence could use. <u>No using any Mental 
+    that a lizard-like intelligence could use. No using any Mental 
 	Attributes or Knowledge Ability rolls during any Frenzy (which includes 
-	Rotschrek).</u>  No Blood Sorcery,    Entrancement, Spirit's Touch, or 
+	Rotschrek).  No Blood Sorcery,    Entrancement, Spirit's Touch, or 
 	Forgetful Mind, for example. On the other hand, Dread Gaze, The Physical 
 	Three, Unseen Presence, Blood Buffing, and similar things are allowed. 
 	Reach consent with your fellow Players, or seek out Staff if you cannot.
@@ -1655,10 +1667,10 @@ and add it to this lexicon:
 	the rule that you cannot spend blood while staked.  You may enter
 	voluntary torpor while staked and that rule-set takes over from that
 	point forward.
--	<u>When fighting an opponent you can't see, you suffer the penalties 
+-	When fighting an opponent you can't see, you suffer the penalties 
 for being Blind and they gain the bonus mentioned therein against you.  
-Expect to constantly be Flanked, Ambushed and attacked from behind.</u>
--	<u>Path of Asakku and Evil Revelations are not allowed for Player Characters.</u>
+Expect to constantly be Flanked, Ambushed and attacked from behind.
+-	Path of Asakku and Evil Revelations are not allowed for Player Characters.
 
 ### **21. On the Blood Bond**
 
@@ -2060,10 +2072,10 @@ to exceed it, via ANY route, you are Retired: You won Vampire: The Masquerade
 
 **Necromancy** does not cause Sequela (ToS p52) in this Venue.
 
-**<u>Summon Soul + Compel Soul:</u>** <u>The ghost obtained in this fashion 
+**Summon Soul + Compel Soul:** The ghost obtained in this fashion 
 has a power level equal to that of a Spirit Slave (See Above) equal to a 
 number of dots as successes obtained on the Summon Soul Roll.  You may Summon 
-and control 1 of these ghosts for every point of permanent willpower you possess.</u>
+and control 1 of these ghosts for every point of permanent willpower you possess.
 
 **Lifeless Tongues** lasts one Scene.
 
@@ -2100,7 +2112,19 @@ Intimidation Rolls, All Damage Rolls gain a 2 Dice Bonus and Unarmed Attacks
 to Lethal Damage. This power’s Attribute Bonuses exceed Generational Maxima 
 and stacks with Blood Buffing.
 
-**Mirror of Second Sight**: The items made by this Ritual can be used by others.
+**Mirror of Second Sight**: <u>The items made by this Ritual function at all 
+times, even if just laying about on the street.  Thus, they are extreme dangers 
+to the Masquerade.  The way in which these mirrors reveal the true nature of 
+supernaturals not mentioned in the text is thematic.  Vampires appear gaunt, 
+pale, with threatening eyes and obvious fangs; ghouls look as though they’ve 
+messily drank a large quantity of vitae recently.  Kinfolk have a superimposed 
+glabro-like form over their reflection, the Consorts of Wraiths show a translucent 
+figure behind them with one hand on their shoulder.  Possessed beings show a 
+shadowy version of the possessor superimposed over them.  Other beings not here 
+mentioned show similar things in similar ways.  No revelatory mechanism of this 
+item is automatic with respect to beings actively hiding in any fashion.  Use 
+Seeing the Unseen in this document with this item functioning as a Level 3 
+Detection Power.</u>
 
 **Abyss Mysticism:** Use specific rolls in specific rituals if they have 
 them, but fall back to V20 modern AM Wits+Occult if there are no specific rolls 
@@ -2127,10 +2151,10 @@ these skills.  Talk to Staff if in doubt and YMMV.  Conjuring Weapons of Mass
 Destruction results in your Retirement to the Status of a Venue NPC with Plot 
 Armor controlled solely by the Narrators.
 
-**<u>Path of Spirit Manipulation:</u>** <u>This Path has several large holes that 
-need fixing and a system to make it less labor intensive on Staff.</u>
+**Path of Spirit Manipulation:** This Path has several large holes that 
+need fixing and a system to make it less labor intensive on Staff.
 
--	**<u>Astral Cant:</u>** <u>Besides the obvious uses and being needed for other 
+-	**Astral Cant:** Besides the obvious uses and being needed for other 
 	powers, you may use this Discipline to engage in chiminage with spirits before 
 	using Entrap Ephemera upon them.  In order to make this process abstract, you 
 	must make a (Charisma or Manipulation) + (Ability Appropriate to the Spirit; 
@@ -2146,9 +2170,9 @@ need fixing and a system to make it less labor intensive on Staff.</u>
 	and destroy the fetish, the spirit departs without attacking.  When the Service 
 	Term is over, the item remains and becomes mundane once more; the spirit departs 
 	to deep within the Umbra to grow and develop.  You may not reuse spirits for 
-	fetishes.  You must locate a new one each time.</u>
+	fetishes.  You must locate a new one each time.
 
--	**<u>Entrap Ephemera:</u>** <u>Creating Fetishes with this power will now 
+-	**Entrap Ephemera:** Creating Fetishes with this power will now 
 	always require a spirit of the same Potency/Rank (Rank from here on.) as 
 	the Level of the Fetish being created.  See the second paragraph below 
 	when using this Discipline to create a fetish after chiminage.  Spirits 
@@ -2165,15 +2189,23 @@ need fixing and a system to make it less labor intensive on Staff.</u>
 	contact Staff.  Finding the proper spirit for your Fetish requires a 
 	lengthy vignette, and one day RP lockout per Rank of the spirit.  These 
 	days needn’t be consecutive, but each day must be declared in an IC room.  
-	Be verbose in your declaration.</u>
+	Be verbose in your declaration.
 
-<u>If you have completed chiminage with a spirit and create a fetish with it using 
+If you have completed chiminage with a spirit and create a fetish with it using 
 this power, your Difficulty on the roll is now at -1, you must gain one success, 
 the spirit relents, and becomes your fetish for agreed upon term determined by 
 your Willpower expenditure.  These fetishes garner much less anger from shapechangers 
 akin to an internal grumbling about having bigger problems than some leech who 
-can talk nice to umbrood.</u>
+can talk nice to umbrood.
 
+**<u>Path of Skulls</u>:** <u>This Path cannot be taken at character creation but is
+allowed to be gained during Play through various high difficulty means.  The number
+of applications of Delugo you may have upon your person is limited to your permanent
+Wits Dots.  When you reach this limit, you may use the power again but you must 
+sacrifice all the Dots in another application of this power.  You do not return to 
+the previous Dots you had, they disappear and that Trait is now Zero Dots.  If 
+through some means you are at your maximum and you permanently lose a Dot of Wits, 
+you must sacrifice an application of Delugo as previously mentioned.</u>
 
 #### **24b Incepting Novel Rituals/Adapting Rituals From Other Traditions:** As 
 stated in the Character Creation section, you must have 5 Dots in a Blood 
